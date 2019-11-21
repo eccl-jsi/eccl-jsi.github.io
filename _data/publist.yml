@@ -9,7 +9,7 @@
     url: "http://dx.doi.org/10.1021/acs.chemmater.9b01466"
   title: "Comparing Magnetism in Isostructural Oxides A<sub>0.8</sub>La<sub>1.2</sub>MnO<sub>4.1</sub>: Anisotropic Spin Glass (A = Ba) versus Long-Range Order (A = Sr)"
 -
-  authors: "B. Michon, C. Girod, S. Badoux, J. Kačmarčík, Q. Ma, M. Dragomir, H. A. Dabkowska, B. D. Gaulin, J.-S. Zhou, S. Pyon, T. Takayama, H. Takagi, S. Verret, N. Doiron-Leyraud, C. Marcenat, L. Taillefer, T. Klein"
+  authors: "B. Michon, C. Girod, S. Badoux, J. Kačmarčík, Q. Ma, <b>M. Dragomir</b>, H. A. Dabkowska, B. D. Gaulin, J.-S. Zhou, S. Pyon, T. Takayama, H. Takagi, S. Verret, N. Doiron-Leyraud, C. Marcenat, L. Taillefer, T. Klein"
   description: ""
   highlight: 1
   image: dummy.png
@@ -18,7 +18,7 @@
     url: "http://dx.doi.org/10.1038/s41586-019-0932-x"
   title: "Thermodynamic signatures of quantum criticality in cuprate superconductors"
 -
-  authors: "A. E. Cotman, M. Lozinšek, B. Wang, M. Stephan, B. Mohar"
+  authors: "A. E. Cotman, <b>M. Lozinšek</b>, B. Wang, M. Stephan, B. Mohar"
   description: ""
   highlight: 0
   image: dummy.png
