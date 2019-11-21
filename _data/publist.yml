@@ -7,7 +7,7 @@
   link:
     display: "Chemistry of Materials 2019, 31, 7833–7844."
     url: "http://dx.doi.org/10.1021/acs.chemmater.9b01466"
-  title: "Comparing Magnetism in Isostructural Oxides A0.8La1.2MnO4.1: Anisotropic Spin Glass (A = Ba) versus Long-Range Order (A = Sr)"
+  title: "Comparing Magnetism in Isostructural Oxides A<sub>0.8</sub>La<sub>1.2</sub>MnO<sub>4.1</sub>: Anisotropic Spin Glass (A = Ba) versus Long-Range Order (A = Sr)"
 -
   authors: "B. Michon, C. Girod, S. Badoux, J. Kačmarčík, Q. Ma, M. Dragomir, H. A. Dabkowska, B. D. Gaulin, J.-S. Zhou, S. Pyon, T. Takayama, H. Takagi, S. Verret, N. Doiron-Leyraud, C. Marcenat, L. Taillefer, T. Klein"
   description: ""
@@ -25,7 +25,7 @@
   link:
     display: "Organic Letters 2019, 21, 3644–3648."
     url: "http://dx.doi.org/10.1021/acs.orglett.9b01069"
-  title: "trans-Diastereoselective Ru(II)-Catalyzed Asymmetric Transfer Hydrogenation of α-Acetamido Benzocyclic Ketones via Dynamic Kinetic Resolution"
+  title: "<i>trans</i>-Diastereoselective Ru(II)-Catalyzed Asymmetric Transfer Hydrogenation of α-Acetamido Benzocyclic Ketones via Dynamic Kinetic Resolution"
 -
   authors: "D. Kuščer, A. Kocjan, M. Majcen, A. Meden, K. Radan, J. Kovač, B. Malič"
   description: ""
@@ -52,7 +52,7 @@
   link:
     display: "Inorganic Chemistry 2019, 58, 4300–4309."
     url: "http://dx.doi.org/acs.inorgchem.8b03419"
-  title: "Quenching of Long Range Order and the Mn3+ Ordered Moment in the Layered Antiferromagnet, BaxSr1–xLaMnO4. A Polarized Neutron Scattering Study"
+  title: "Quenching of Long Range Order and the Mn3+ Ordered Moment in the Layered Antiferromagnet, BaxSr<sub>1–x</sub>LaMnO<sub>4</sub>. A Polarized Neutron Scattering Study"
 -
   authors: "H. Uršič, A. Benčan, U. Prah, M. Dragomir, B. Malič"
   description: ""
@@ -61,7 +61,7 @@
   link:
     display: "Materials 2019, 12, 1327."
     url: "http://dx.doi.org/10.3390/ma12081327"
-  title: "Structure and Dynamics of Ferroelectric Domains in Polycrystalline Pb(Fe1/2Nb1/2)O3"
+  title: "Structure and Dynamics of Ferroelectric Domains in Polycrystalline Pb(Fe<sub>1/2</sub>Nb<sub>1/2</sub>)O<sub>3</sub>"
 -
   authors: "A. Kokalj, D. Gustinčič, M. Poberžnik, M. Lozinšek"
   description: ""
@@ -143,7 +143,7 @@
     display: "Angewandte Chemie International Edition 2017, 56, 6251–6254."
     url: "http://dx.doi.org/10.1002/anie.201611534"
   news1: "Featured in: <a href=\"https://onlinelibrary.wiley.com/journal/18680054\">Nachrichten aus der Chemie</a>, Juli-August 2017, 65, 758 (Notizen aus der Chemie) & Nachrichten aus der Chemie, März 2018, 66, 209 (<a href=\"https://onlinelibrary.wiley.com/doi/10.1002/nadc.20184071863\">Anorganische Chemie 2017</a>)."
-  title: "Coordination of KrF2 to a Naked Metal Cation, Mg2+"
+  title: "Coordination of KrF<sub>2</sub> to a Naked Metal Cation, Mg<sup>2+</sup>"
 -
   authors: "M. Dragomir, M. Valant, M. Fanettia, Y. Mozharivskyj"
   description: ""
