@@ -14,7 +14,7 @@
   highlight: 1
   image: dummy.png
   link:
-    display: "Nature 2019, 567, 218–222."
+    display: "<i>Nature</i> 2019, 567, 218–222."
     url: "http://dx.doi.org/10.1038/s41586-019-0932-x"
   title: "Thermodynamic signatures of quantum criticality in cuprate superconductors"
 -
@@ -32,7 +32,7 @@
   highlight: 0
   image: dummy.png
   link:
-    display: "Ceramics International 2019, 45, 10429–10437."
+    display: "<i>Ceramics International</i> 2019, 45, 10429–10437."
     url: "http://dx.doi.org/10.1016/j.ceramint.2019.02.102"
   title: "Evolution of phase composition and microstructure of sodium potassium niobate–based ceramic during pressure-less spark plasma sintering and post-annealing"
 -
@@ -63,7 +63,7 @@
     url: "http://dx.doi.org/10.3390/ma12081327"
   title: "Structure and Dynamics of Ferroelectric Domains in Polycrystalline Pb(Fe<sub>1/2</sub>Nb<sub>1/2</sub>)O<sub>3</sub>"
 -
-  authors: "A. Kokalj, D. Gustinčič, M. Poberžnik, </b>M. Lozinšek<b>"
+  authors: "A. Kokalj, D. Gustinčič, M. Poberžnik, <b>M. Lozinšek</b>"
   description: ""
   highlight: 0
   image: dummy.png
@@ -77,7 +77,7 @@
   highlight: 0
   image: dummy.png
   link:
-    display: "Journal of the European Ceramic Society 2019, 39, 4122–4130."
+    display: "<i>Journal of the European Ceramic Society</i> 2019, 39, 4122–4130."
     url: "http://dx.doi.org/10.1016/j.jeurceramsoc.2019.05.062"
   title: "Improving the multicaloric properties of Pb(Fe<sub>0.5</sub>Nb<sub>0.5</sub>)O<sub>3</sub> by controlling the sintering conditions and doping with manganese"
 -
