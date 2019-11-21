@@ -1,0 +1,27 @@
+- name: Matic Lozinšek
+  photo: Matic.jpg
+  info: Research Associate
+  email: matic.lozinsek@ijs.si
+  number_educ: 3
+  education1: Marie Curie Fellow (MC-IOF) with G. J. Schrobilgen, McMaster University
+  education2: Ph.D. in Inorganic Chemistry, Faculty of Chemistry and Chemical Technology, University of Ljubljana
+  education3: Diploma in Chemistry, Faculty of Chemistry and Chemical Technology, University of Ljubljana
+  
+- name: Mirela Dragomir
+  photo: Mirela.jpg
+  info: Postdoctoral Associate
+  email: mirela.dragomir@ijs.si
+  number_educ: 3
+  education1: Postdoc with J. E. Greedan, McMaster University
+  education2: Ph.D. in Materials, University of Nova Gorica
+  education3: Diploma in Chemical Engineering, Politehnica University of Bucharest, Romania
+  
+- name: Kristian Radan
+  photo: Kristian.jpg
+  info: Postdoctoral Associate
+  email: kristian.radan@ijs.si
+  number_educ: 3
+  education1: Postdoc with B. Malič, Jožef Stefan Institute
+  education2: Ph.D. in Inorganic Chemistry, Jožef Stefan International Postgraduate School, Slovenia
+  education3: Diploma in Chemistry, Faculty of Chemistry and Chemical Technology, University of Ljubljana
+
