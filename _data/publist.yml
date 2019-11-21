@@ -36,7 +36,7 @@
     url: "http://dx.doi.org/10.1016/j.ceramint.2019.02.102"
   title: "Evolution of phase composition and microstructure of sodium potassium niobate–based ceramic during pressure-less spark plasma sintering and post-annealing"
 -
-  authors: "<b>M. Dragomir*</b>, M. Otoničar, M. Vrabelj, L. Fulanović, S. Drnovšek, T. Rojaca, B. Malič"
+  authors: "<b>M. Dragomir</b>*, M. Otoničar, M. Vrabelj, L. Fulanović, S. Drnovšek, T. Rojaca, B. Malič"
   description: ""
   highlight: 0
   image: dummy.png
@@ -163,7 +163,7 @@
     url: "http://dx.doi.org/10.1038/nchem.2538"
   title: "The world of krypton revisited"
 -
-  authors: "A. Vižintin, <b>M. Lozinšek</b>, R. K. Chellappan, D. Foix, A. Krajnc, G. Mali, G. Dražić, B. Genorio, R. Dedryvère, R. Dominko"
+  authors: "A. Vižintin, <b>M. Lozinšek</b>, R. K. Chellappan, D. Foix, A. Krajnc, G. Mali, G. Dražić, B. Genorio, R. Dedryvère, R. Dominko*"
   description: ""
   highlight: 0
   image: dummy.png
@@ -172,7 +172,7 @@
     url: "http://dx.doi.org/10.1021/acs.chemmater.5b02906"
   title: "Fluorinated Reduced Graphene Oxide as an Interlayer in Li–S Batteries"
 -
-  authors: "<b>M. Lozinšek</b>"
+  authors: "<b>M. Lozinšek</b>*"
   description: ""
   highlight: 0
   image: dummy.png
@@ -181,7 +181,7 @@
     url: "http://dx.doi.org/10.17344/acsi.2015.1424"
   title: "Hydroxylammonium Tetrafluoridooxidovanadate(V) – (NH<sub>3</sub>OH)[VOF<sub>4</sub>]"
 -
-  authors: "<b>K. Radan</b>, E. Goreshnik, B. Žemva"
+  authors: "<b>K. Radan</b>*, E. Goreshnik, B. Žemva*"
   description: ""
   highlight: 1
   image: ACIE2014-TOC.jpg
@@ -190,7 +190,7 @@
     url: "http://dx.doi.org/10.1002/anie.201406404"
   title: "Xenon(II) Polyfluoridotitanates(IV): Synthesis and Structural Characterization of [Xe<sub>2</sub>F<sub>3</sub>]<sup>+</sup> and [XeF]<sup>+</sup> Salts"
 -
-  authors: "<b>M. Lozinšek</b>, E. Goreshnik, B. Žemva"
+  authors: "<b>M. Lozinšek</b>*, E. Goreshnik, B. Žemva"
   description: ""
   highlight: 0
   image: dummy.png
@@ -199,7 +199,7 @@
     url: "https://journals.matheo.si/index.php/ACSi/article/view/263/"
   title: "Silver(I) Tetrafluoridooxidovanadate(V) – Ag[VOF<sub>4</sub>]"
 -
-  authors: "<b>M. Dragomir</b>, I. Arčon, S. Gardonio, M. Valant"
+  authors: "<b>M. Dragomir</b>*, I. Arčon, S. Gardonio, M. Valant"
   description: ""
   highlight: 0
   image: dummy.png
@@ -208,7 +208,7 @@
     url: "http://dx.doi.org/10.1016/j.actamat.2012.10.020"
   title: "Phase relations and optoelectronic characteristics in the NdVO<sub>4</sub>–BiVO<sub>4</sub> system"
 -
-  authors: "S. A. Baer, <b>M. Lozinšek</b>, F. Kraus"
+  authors: "S. A. Baer, <b>M. Lozinšek</b>, F. Kraus*"
   description: ""
   highlight: 0
   image: dummy.png
@@ -217,7 +217,7 @@
     url: "http://dx.doi.org/10.1002/zaac.201300342"
   title: "Synthesis and Crystal Structure of Triammine Pentafluorido Tantalum(V) [TaF<sub>5</sub>(NH<sub>3</sub>)<sub>3</sub>]"
 -
-  authors: "<b>M. Dragomir</b>, M. Valant"
+  authors: "<b>M. Dragomir</b>*, M. Valant"
   description: ""
   highlight: 0
   image: dummy.png
@@ -226,7 +226,7 @@
     url: "http://dx.doi.org/10.1016/j.ceramint.2012.12.035"
   title: "Synthesis peculiarities of BiVO<sub>3</sub> perovskite"
 -
-  authors: "<b>M. Lozinšek</b>, E. Goreshnik, B. Žemva"
+  authors: "<b>M. Lozinšek</b>*, E. Goreshnik, B. Žemva*"
   description: ""
   highlight: 0
   image: dummy.png
@@ -235,7 +235,7 @@
     url: "http://dx.doi.org/10.1002/zaac.201200176"
   title: "Lead Fluoridooxidovanadates(V), Pb(V<sub>2</sub>O<sub>2</sub>F<sub>8</sub>), Pb(VOF<sub>5</sub>), and Mixed Valent Fluoridooxidovanadate(IV,V), Pb<sub>3</sub>F(V<sub>4</sub>O<sub>3</sub>F<sub>18</sub>)"
 -
-  authors: "<b>K. Radan</b>, <b>M. Lozinšek</b>, E. Goreshnik, B. Žemva"
+  authors: "<b>K. Radan</b>, <b>M. Lozinšek</b>, E. Goreshnik, B. Žemva*"
   description: ""
   highlight: 0
   image: dummy.png
@@ -244,7 +244,7 @@
     url: "http://dx.doi.org/10.1016/j.jfluchem.2011.05.033"
   title: "Syntheses, structures and Raman spectra of Cd(BF<sub>4</sub>)(AF<sub>6</sub>) (A = Ta, Bi) compounds"
 -
-  authors: "M. Tramšek, E. Goreshnik, <b>M. Lozinšek</b>, B. Žemva"
+  authors: "M. Tramšek*, E. Goreshnik, <b>M. Lozinšek</b>, B. Žemva"
   description: ""
   highlight: 0
   image: dummy.png
