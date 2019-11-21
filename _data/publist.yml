@@ -1,350 +1,314 @@
-- title: "Comparing Magnetism in Isostructural Oxides A0.8La1.2MnO4.1: Anisotropic Spin Glass (A = Ba) versus Long-Range Order (A = Sr)"
-  image: dummy.png
+---
+-
+  authors: "M. Dragomir*, P. A. Dube, I. Arčon, C. Boyer, M. Rutherford, C. R. Wiebe, G. King, H. A. Dabkowska, J. E. Greedan"
   description: ""
-  authors:
-    M. Dragomir*, P. A. Dube, I. Arčon, C. Boyer, M. Rutherford, C. R. Wiebe, G. King, H. A. Dabkowska, J. E. Greedan
-  link:
-    url: http://dx.doi.org/10.1021/acs.chemmater.9b01466
-    display: Chemistry of Materials 2019, 31, 7833–7844.
   highlight: 1
-
-- title: Thermodynamic signatures of quantum criticality in cuprate superconductors
   image: dummy.png
-  description: ""
-  authors:
-    B. Michon, C. Girod, S. Badoux, J. Kačmarčík, Q. Ma, M. Dragomir, H. A. Dabkowska, B. D. Gaulin, J.-S. Zhou, S. Pyon, T. Takayama, H. Takagi, S. Verret, N. Doiron-Leyraud, C. Marcenat, L. Taillefer, T. Klein
   link:
-    url: http://dx.doi.org/10.1038/s41586-019-0932-x
-    display: Nature 2019, 567, 218–222.
+    display: "Chemistry of Materials 2019, 31, 7833–7844."
+    url: "http://dx.doi.org/10.1021/acs.chemmater.9b01466"
+  title: "Comparing Magnetism in Isostructural Oxides A0.8La1.2MnO4.1: Anisotropic Spin Glass (A = Ba) versus Long-Range Order (A = Sr)"
+-
+  authors: "B. Michon, C. Girod, S. Badoux, J. Kačmarčík, Q. Ma, M. Dragomir, H. A. Dabkowska, B. D. Gaulin, J.-S. Zhou, S. Pyon, T. Takayama, H. Takagi, S. Verret, N. Doiron-Leyraud, C. Marcenat, L. Taillefer, T. Klein"
+  description: ""
   highlight: 1
-
-- title: trans-Diastereoselective Ru(II)-Catalyzed Asymmetric Transfer Hydrogenation of α-Acetamido Benzocyclic Ketones via Dynamic Kinetic Resolution
   image: dummy.png
-  description: ""
-  authors:
-    A. E. Cotman, M. Lozinšek, B. Wang, M. Stephan, B. Mohar
   link:
-    url: http://dx.doi.org/10.1021/acs.orglett.9b01069
-    display: Organic Letters 2019, 21, 3644–3648.
+    display: "Nature 2019, 567, 218–222."
+    url: "http://dx.doi.org/10.1038/s41586-019-0932-x"
+  title: "Thermodynamic signatures of quantum criticality in cuprate superconductors"
+-
+  authors: "A. E. Cotman, M. Lozinšek, B. Wang, M. Stephan, B. Mohar"
+  description: ""
   highlight: 0
-
-- title: Evolution of phase composition and microstructure of sodium potassium niobate–based ceramic during pressure-less spark plasma sintering and post-annealing
   image: dummy.png
-  description: ""
-  authors:
-    D. Kuščer, A. Kocjan, M. Majcen, A. Meden, K. Radan, J. Kovač, B. Malič
   link:
-    url: http://dx.doi.org/10.1016/j.ceramint.2019.02.102
-    display: Ceramics International 2019, 45, 10429–10437.
+    display: "Organic Letters 2019, 21, 3644–3648."
+    url: "http://dx.doi.org/10.1021/acs.orglett.9b01069"
+  title: "trans-Diastereoselective Ru(II)-Catalyzed Asymmetric Transfer Hydrogenation of α-Acetamido Benzocyclic Ketones via Dynamic Kinetic Resolution"
+-
+  authors: "D. Kuščer, A. Kocjan, M. Majcen, A. Meden, K. Radan, J. Kovač, B. Malič"
+  description: ""
   highlight: 0
-
-- title: Seeding effects on the mechanochemical synthesis of 0.9Pb(Mg1/3Nb2/3)O3–0.1PbTiO3
   image: dummy.png
-  description: ""
-  authors:
-    M. Dragomir, M. Otoničar, M. Vrabelj, L. Fulanović, S. Drnovšek, T. Rojaca, B. Malič
   link:
-    url: http://dx.doi.org/10.1016/j.jeurceramsoc.2018.12.021
-    display: Journal of the European Ceramic Society 2019, 39, 1837–1845.
+    display: "Ceramics International 2019, 45, 10429–10437."
+    url: "http://dx.doi.org/10.1016/j.ceramint.2019.02.102"
+  title: "Evolution of phase composition and microstructure of sodium potassium niobate–based ceramic during pressure-less spark plasma sintering and post-annealing"
+-
+  authors: "M. Dragomir, M. Otoničar, M. Vrabelj, L. Fulanović, S. Drnovšek, T. Rojaca, B. Malič"
+  description: ""
   highlight: 0
-
-- title: Quenching of Long Range Order and the Mn3+ Ordered Moment in the Layered Antiferromagnet, BaxSr1–xLaMnO4. A Polarized Neutron Scattering Study
   image: dummy.png
-  description: ""
-  authors:
-    M. Bieringer, J. R. Stewart, A. P. Grosvenor, M. Dragomir, J. E. Greedan*
   link:
-    url: http://dx.doi.org/acs.inorgchem.8b03419
-    display: Inorganic Chemistry 2019, 58, 4300–4309.
+    display: "Journal of the European Ceramic Society 2019, 39, 1837–1845."
+    url: "http://dx.doi.org/10.1016/j.jeurceramsoc.2018.12.021"
+  title: "Seeding effects on the mechanochemical synthesis of 0.9Pb(Mg1/3Nb2/3)O3–0.1PbTiO3"
+-
+  authors: "M. Bieringer, J. R. Stewart, A. P. Grosvenor, M. Dragomir, J. E. Greedan*"
+  description: ""
   highlight: 0
-
-- title: Structure and Dynamics of Ferroelectric Domains in Polycrystalline Pb(Fe1/2Nb1/2)O3
   image: dummy.png
-  description: ""
-  authors:
-    H. Uršič, A. Benčan, U. Prah, M. Dragomir, B. Malič
   link:
-    url: http://dx.doi.org/10.3390/ma12081327
-    display: Materials 2019, 12, 1327.
+    display: "Inorganic Chemistry 2019, 58, 4300–4309."
+    url: "http://dx.doi.org/acs.inorgchem.8b03419"
+  title: "Quenching of Long Range Order and the Mn3+ Ordered Moment in the Layered Antiferromagnet, BaxSr1–xLaMnO4. A Polarized Neutron Scattering Study"
+-
+  authors: "H. Uršič, A. Benčan, U. Prah, M. Dragomir, B. Malič"
+  description: ""
   highlight: 0
-
-- title: "New insights into adsorption bonding of imidazole: a viable C2–H bond cleavage on copper surfaces"
   image: dummy.png
-  description: ""
-  authors:
-    A. Kokalj, D. Gustinčič, M. Poberžnik, M. Lozinšek
   link:
-    url: http://dx.doi.org/10.1016/j.apsusc.2018.12.246
-    display: Applied Surface Science 2019, 479, 463–468.
+    display: "Materials 2019, 12, 1327."
+    url: "http://dx.doi.org/10.3390/ma12081327"
+  title: "Structure and Dynamics of Ferroelectric Domains in Polycrystalline Pb(Fe1/2Nb1/2)O3"
+-
+  authors: "A. Kokalj, D. Gustinčič, M. Poberžnik, M. Lozinšek"
+  description: ""
   highlight: 0
-
-- title: Improving the multicaloric properties of Pb(Fe0.5Nb0.5)O3 by controlling the sintering conditions and doping with manganese
   image: dummy.png
-  description: ""
-  authors:
-    U. Prah, T. Rojac, M. Wencka M. Dragomir, A. Bradeško, A. Benčan, R. Sherbondy, G. Brennecka, Z. Kutnjak, B.Malič, H. Uršič
   link:
-    url: http://dx.doi.org/10.1016/j.jeurceramsoc.2019.05.062
-    display:  Journal of the European Ceramic Society 2019, 39, 4122–4130.
+    display: "Applied Surface Science 2019, 479, 463–468."
+    url: "http://dx.doi.org/10.1016/j.apsusc.2018.12.246"
+  title: "New insights into adsorption bonding of imidazole: a viable C2–H bond cleavage on copper surfaces"
+-
+  authors: "U. Prah, T. Rojac, M. Wencka M. Dragomir, A. Bradeško, A. Benčan, R. Sherbondy, G. Brennecka, Z. Kutnjak, B.Malič, H. Uršič"
+  description: ""
   highlight: 0
-
-- title: "Manifestations of Weak O–H···F Hydrogen Bonding in M(H2O)n(B12F12) Salt Hydrates: Unusually Sharp Fourier Transform Infrared ν(OH) Bands and Latent Porosity (M = Mg–Ba, Co, Ni, Zn)"
   image: dummy.png
-  description: ""
-  authors:
-    M. R. Lacroix, E. V. Bukovsky, M. Lozinšek, T. C. Folsom, B. S. Newell, Y. Liu, D. V. Peryshkov, S. H. Strauss
   link:
-    url: http://dx.doi.org/10.1021/acs.inorgchem.8b02786
-    display: Inorganic Chemistry 2018, 57, 14983–15000.
+    display: "Journal of the European Ceramic Society 2019, 39, 4122–4130."
+    url: "http://dx.doi.org/10.1016/j.jeurceramsoc.2019.05.062"
+  title: "Improving the multicaloric properties of Pb(Fe0.5Nb0.5)O3 by controlling the sintering conditions and doping with manganese"
+-
+  authors: "M. R. Lacroix, E. V. Bukovsky, M. Lozinšek, T. C. Folsom, B. S. Newell, Y. Liu, D. V. Peryshkov, S. H. Strauss"
+  description: ""
   highlight: 0
-
-- title: Fluorinated reduced graphene oxide as a protective layer on the metallic lithium for application in the high energy batteries
   image: dummy.png
-  description: ""
-  authors:
-    J. Bobnar, M. Lozinšek, G. Kapun, R. Dedryvère, C. Njel, B. Genorio, R. Dominko
   link:
-    url: http://dx.doi.org/10.1038/s41598-018-23991-2
-    display: Scientific Reports 2018, 8, 5819.
+    display: "Inorganic Chemistry 2018, 57, 14983–15000."
+    url: "http://dx.doi.org/10.1021/acs.inorgchem.8b02786"
+  title: "Manifestations of Weak O–H···F Hydrogen Bonding in M(H2O)n(B12F12) Salt Hydrates: Unusually Sharp Fourier Transform Infrared ν(OH) Bands and Latent Porosity (M = Mg–Ba, Co, Ni, Zn)"
+-
+  authors: "J. Bobnar, M. Lozinšek, G. Kapun, R. Dedryvère, C. Njel, B. Genorio, R. Dominko"
+  description: ""
   highlight: 0
-
-- title: Multiscale field-induced structure of (1-x)Pb(Mg1/3Nb2/3)O3–xPbTiO3 ceramics from combined techniques
   image: dummy.png
-  description: ""
-  authors:
-    M. Otoničar, H. Uršič, M. Dragomir, A. Bradeško, G. Esteves, J. L.Jones, A. Benčan, B. Malič, T. Rojac
   link:
-    url: http://dx.doi.org/10.1016/j.actamat.2018.05.028
-    display: Acta Materialia 2018, 154, 14–24.
+    display: "Scientific Reports 2018, 8, 5819."
+    url: "http://dx.doi.org/10.1038/s41598-018-23991-2"
+  title: "Fluorinated reduced graphene oxide as a protective layer on the metallic lithium for application in the high energy batteries"
+-
+  authors: "M. Otoničar, H. Uršič, M. Dragomir, A. Bradeško, G. Esteves, J. L.Jones, A. Benčan, B. Malič, T. Rojac"
+  description: ""
   highlight: 0
-
-- title: Mechanochemically-Assisted Synthesis of Lead-Free Piezoelectric CaZrO3-Modified (K,Na,Li)(Nb,Ta)O3-Solid Solution
   image: dummy.png
-  description: ""
-  authors:
-    K. Radan, B. Kmet, S. Drnovšek, U. Prah, T. Rojac, B. Malič
   link:
-    url: http://dx.doi.org/10.3390/ceramics1020024
-    display: Ceramics 2018, 1, 304–318.
+    display: "Acta Materialia 2018, 154, 14–24."
+    url: "http://dx.doi.org/10.1016/j.actamat.2018.05.028"
+  title: "Multiscale field-induced structure of (1-x)Pb(Mg1/3Nb2/3)O3–xPbTiO3 ceramics from combined techniques"
+-
+  authors: "K. Radan, B. Kmet, S. Drnovšek, U. Prah, T. Rojac, B. Malič"
+  description: ""
   highlight: 0
-
-- title: Room-temperature synthesis and Optical Properties of NdVO4 Nanoneedles
   image: dummy.png
-  description: ""
-  authors:
-    M. Dragomir, M. Valant
   link:
-    url: http://dx.doi.org/10.17344/acsi.2018.4373
-    display: Acta Chimica Slovenica 2018, 65, 679–686.
+    display: "Ceramics 2018, 1, 304–318."
+    url: "http://dx.doi.org/10.3390/ceramics1020024"
+  title: "Mechanochemically-Assisted Synthesis of Lead-Free Piezoelectric CaZrO3-Modified (K,Na,Li)(Nb,Ta)O3-Solid Solution"
+-
+  authors: "M. Dragomir, M. Valant"
+  description: ""
   highlight: 0
-
-- title: "Latent Porosity in Alkali-Metal M2B12F12 Salts: Structures and Rapid Room-Temperature Hydration/Dehydration Cycles"
   image: dummy.png
-  description: ""
-  authors:
-    D. V. Peryshkov, E. V. Bukovsky, M. R. Lacroix, H. Wu, W. Zhou, W. M. Jones, M. Lozinšek, T. C. Folsom, D. L. Heyliger, T. J. Udovic, S. H. Strauss
   link:
-    url: http://dx.doi.org/10.1021/acs.inorgchem.7b02081
-    display: Inorganic Chemistry 2017, 56, 12023–12041.
+    display: "Acta Chimica Slovenica 2018, 65, 679–686."
+    url: "http://dx.doi.org/10.17344/acsi.2018.4373"
+  title: "Room-temperature synthesis and Optical Properties of NdVO4 Nanoneedles"
+-
+  authors: "D. V. Peryshkov, E. V. Bukovsky, M. R. Lacroix, H. Wu, W. Zhou, W. M. Jones, M. Lozinšek, T. C. Folsom, D. L. Heyliger, T. J. Udovic, S. H. Strauss"
+  description: ""
   highlight: 0
-
-- title: "Coordination of KrF2 to a Naked Metal Cation, Mg2+"
+  image: dummy.png
+  link:
+    display: "Inorganic Chemistry 2017, 56, 12023–12041."
+    url: "http://dx.doi.org/10.1021/acs.inorgchem.7b02081"
+  title: "Latent Porosity in Alkali-Metal M2B12F12 Salts: Structures and Rapid Room-Temperature Hydration/Dehydration Cycles"
+-
+  authors: "M. Lozinšek, H. P. A. Mercier, D. S. Brock, B. Žemva, G. J. Schrobilgen"
+  description: ""
+  highlight: 1
   image: ACIE2017-TOC.jpg
-  description: ""
-  authors:
-    M. Lozinšek, H. P. A. Mercier, D. S. Brock, B. Žemva, G. J. Schrobilgen
   link:
-    url: http://dx.doi.org/10.1002/anie.201611534
-    display: Angewandte Chemie International Edition 2017, 56, 6251–6254.
+    display: "Angewandte Chemie International Edition 2017, 56, 6251–6254."
+    url: "http://dx.doi.org/10.1002/anie.201611534"
+  news1: "Featured in: <a href=\"https://onlinelibrary.wiley.com/journal/18680054\">Nachrichten aus der Chemie</a>, Juli-August 2017, 65, 758 (Notizen aus der Chemie) & Nachrichten aus der Chemie, März 2018, 66, 209 (<a href=\"https://onlinelibrary.wiley.com/doi/10.1002/nadc.20184071863\">Anorganische Chemie 2017</a>)."
+  title: "Coordination of KrF2 to a Naked Metal Cation, Mg2+"
+-
+  authors: "M. Dragomir, M. Valant, M. Fanettia, Y. Mozharivskyj"
+  description: ""
+  highlight: 0
+  image: dummy.png
+  link:
+    display: "RSC Advances 2016, 6, 21795–21801."
+    url: "http://dx.doi.org/10.1039/C6RA00789A"
+  title: "A facile chemical method for the synthesis of 3C–SiC nanoflakes"
+-
+  authors: "M. Lozinšek, G. J. Schrobilgen"
+  description: ""
   highlight: 1
-  news1: "Featured in: <a href=\"https://onlinelibrary.wiley.com/journal/18680054\">Nachrichten aus der Chemie</a>, Juli-August 2017, 65, 758 (Notizen aus der Chemie) & Nachrichten aus der Chemie, März 2018, 66, 209 (<a href="https://onlinelibrary.wiley.com/doi/10.1002/nadc.20184071863">Anorganische Chemie 2017</a>)."
-
-- title: A facile chemical method for the synthesis of 3C–SiC nanoflakes
   image: dummy.png
-  description: ""
-  authors:
-    M. Dragomir, M. Valant, M. Fanettia, Y. Mozharivskyj
   link:
-    url: http://dx.doi.org/10.1039/C6RA00789A
-    display: RSC Advances 2016, 6, 21795–21801.
+    display: "Nature Chemistry 2016, 8, 732."
+    url: "http://dx.doi.org/10.1038/nchem.2538"
+  title: "The world of krypton revisited"
+-
+  authors: "A. Vižintin, M. Lozinšek, R. K. Chellappan, D. Foix, A. Krajnc, G. Mali, G. Dražić, B. Genorio, R. Dedryvère, R. Dominko"
+  description: ""
   highlight: 0
-
-- title: The world of krypton revisited
   image: dummy.png
-  description: ""
-  authors:
-    M. Lozinšek, G. J. Schrobilgen
   link:
-    url: http://dx.doi.org/10.1038/nchem.2538
-    display: Nature Chemistry 2016, 8, 732.
+    display: "Chemistry of Materials 2015, 27, 7070–7081."
+    url: "http://dx.doi.org/10.1021/acs.chemmater.5b02906"
+  title: "Fluorinated Reduced Graphene Oxide as an Interlayer in Li–S Batteries"
+-
+  authors: "M. Lozinšek"
+  description: ""
+  highlight: 0
+  image: dummy.png
+  link:
+    display: "Acta Chimica Slovenica 2015, 62, 378–384."
+    url: "http://dx.doi.org/10.17344/acsi.2015.1424"
+  title: "Hydroxylammonium Tetrafluoridooxidovanadate(V) – (NH3OH)[VOF4]"
+-
+  authors: "K. Radan, E. Goreshnik, B. Žemva"
+  description: ""
   highlight: 1
-
-- title: Fluorinated Reduced Graphene Oxide as an Interlayer in Li–S Batteries
-  image: dummy.png
-  description: ""
-  authors:
-    A. Vižintin, M. Lozinšek, R. K. Chellappan, D. Foix, A. Krajnc, G. Mali, G. Dražić, B. Genorio, R. Dedryvère, R. Dominko
-  link:
-    url: http://dx.doi.org/10.1021/acs.chemmater.5b02906
-    display: Chemistry of Materials 2015, 27, 7070–7081.
-  highlight: 0
-
-- title: Hydroxylammonium Tetrafluoridooxidovanadate(V) – (NH3OH)[VOF4]
-  image: dummy.png
-  description: ""
-  authors:
-    M. Lozinšek
-  link:
-    url: http://dx.doi.org/10.17344/acsi.2015.1424
-    display: Acta Chimica Slovenica 2015, 62, 378–384.
-  highlight: 0
-
-- title: "Xenon(II) Polyfluoridotitanates(IV): Synthesis and Structural Characterization of [Xe2F3]+ and [XeF]+ Salts"
   image: ACIE2014-TOC.jpg
-  description: ""
-  authors:
-    K. Radan, E. Goreshnik, B. Žemva
   link:
-    url: http://dx.doi.org/10.1002/anie.201406404
-    display: Angewandte Chemie International Edition 2014, 53, 13715–13719.
+    display: "Angewandte Chemie International Edition 2014, 53, 13715–13719."
+    url: "http://dx.doi.org/10.1002/anie.201406404"
+  title: "Xenon(II) Polyfluoridotitanates(IV): Synthesis and Structural Characterization of [Xe2F3]+ and [XeF]+ Salts"
+-
+  authors: "M. Lozinšek, E. Goreshnik, B. Žemva"
+  description: ""
+  highlight: 0
+  image: dummy.png
+  link:
+    display: "Acta Chimica Slovenica 2014, 61, 542–547."
+    url: "https://journals.matheo.si/index.php/ACSi/article/view/263/"
+  title: "Silver(I) Tetrafluoridooxidovanadate(V) – Ag[VOF4]"
+-
+  authors: "M. Dragomir, I. Arčon, S. Gardonio, M. Valant"
+  description: ""
+  highlight: 0
+  image: dummy.png
+  link:
+    display: "Acta Materialia 2013, 61, 1126–1135."
+    url: "http://dx.doi.org/10.1016/j.actamat.2012.10.020"
+  title: "Phase relations and optoelectronic characteristics in the NdVO4–BiVO4 system"
+-
+  authors: "S. A. Baer, M. Lozinšek, F. Kraus"
+  description: ""
+  highlight: 0
+  image: dummy.png
+  link:
+    display: "Zeitschrift für Anorganische und Allgemeine Chemie 2013, 639, 2586–2588."
+    url: "http://dx.doi.org/10.1002/zaac.201300342"
+  title: "Synthesis and Crystal Structure of Triammine Pentafluorido Tantalum(V) [TaF5(NH3)3]"
+-
+  authors: "M. Dragomir, M. Valant"
+  description: ""
+  highlight: 0
+  image: dummy.png
+  link:
+    display: "Ceramics International 2013, 39, 5963–5966."
+    url: "http://dx.doi.org/10.1016/j.ceramint.2012.12.035"
+  title: "Synthesis peculiarities of BiVO<sub>3</sub> perovskite"
+-
+  authors: "M. Lozinšek, E. Goreshnik, B. Žemva"
+  description: ""
+  highlight: 0
+  image: dummy.png
+  link:
+    display: "Zeitschrift für Anorganische und Allgemeine Chemie 2012, 638, 2123–2128."
+    url: "http://dx.doi.org/10.1002/zaac.201200176"
+  title: "Lead Fluoridooxidovanadates(V), Pb(V2O2F8), Pb(VOF5), and Mixed Valent Fluoridooxidovanadate(IV,V), Pb3F(V4O3F18)"
+-
+  authors: "K. Radan, M. Lozinšek, E. Goreshnik, B. Žemva"
+  description: ""
+  highlight: 0
+  image: dummy.png
+  link:
+    display: "Journal of Fluorine Chemistry 2011, 132, 767–771."
+    url: "http://dx.doi.org/10.1016/j.jfluchem.2011.05.033"
+  title: "Syntheses, structures and Raman spectra of Cd(BF<sub>4</sub>)(AF<sub>6</sub>) (A = Ta, Bi) compounds"
+-
+  authors: "M. Tramšek, E. Goreshnik, M. Lozinšek, B. Žemva"
+  description: ""
+  highlight: 0
+  image: dummy.png
+  link:
+    display: "Journal of Fluorine Chemistry 2009, 130, 1093–1098."
+    url: "http://dx.doi.org/10.1016/j.jfluchem.2009.06.008"
+  title: "HF molecules and poly(hydrogen fluoride) anions as ligands to metal centers"
+-
+  authors: "M. Lozinšek, T. Bunič, E. Goreshnik, A. Meden, M. Tramšek, G. Tavčar, B. Žemva"
+  description: ""
+  highlight: 0
+  image: dummy.png
+  link:
+    display: "Journal of Solid State Chemistry 2009, 182, 2897–2903."
+    url: "http://dx.doi.org/10.1016/j.jssc.2009.08.004"
+  title: "Syntheses, crystal structures and Raman spectra of Ba(BF4)(PF6), Ba(BF4)(AsF6) and Ba2(BF4)2(AsF6)(H3F4): the first examples of metal salts containing simultaneously tetrahedral BF4− and octahedral AF6− anions"
+-
+  authors: ~
+  description: ""
+  highlight: 0
+  image: dummy.png
+  link:
+    display: ~
+    url: "http://dx.doi.org/"
+  title: ~
+-
+  authors: "KM Bastiaans* & D Cho*, T Benschop, I Battisti, Y Huang, MS Golden, Q Dong, Y Jin, J Zaanen, MP Allan"
+  description: "Using our newly developed noise-spectroscopy technique we discover charge trapping in a cuprate high-temperature superconductor."
   highlight: 1
-
-- title: Silver(I) Tetrafluoridooxidovanadate(V) – Ag[VOF4]
-  image: dummy.png
-  description: ""
-  authors:
-    M. Lozinšek, E. Goreshnik, B. Žemva
-  link:
-    url: https://journals.matheo.si/index.php/ACSi/article/view/263/
-    display: Acta Chimica Slovenica 2014, 61, 542–547.
-  highlight: 0
-
-
-- title: Phase relations and optoelectronic characteristics in the NdVO4–BiVO4 system
-  image: dummy.png
-  description: ""
-  authors:
-    M. Dragomir, I. Arčon, S. Gardonio, M. Valant
-  link:
-    url: http://dx.doi.org/10.1016/j.actamat.2012.10.020
-    display: Acta Materialia 2013, 61, 1126–1135.
-  highlight: 0
-
-- title: Synthesis and Crystal Structure of Triammine Pentafluorido Tantalum(V) [TaF5(NH3)3]
-  image: dummy.png
-  description: ""
-  authors:
-    S. A. Baer, M. Lozinšek, F. Kraus
-  link:
-    url: http://dx.doi.org/10.1002/zaac.201300342
-    display: Zeitschrift für Anorganische und Allgemeine Chemie 2013, 639, 2586–2588.
-  highlight: 0
-
-- title: Synthesis peculiarities of BiVO<sub>3</sub> perovskite
-  image: dummy.png
-  description: ""
-  authors:
-    M. Dragomir, M. Valant
-  link:
-    url: http://dx.doi.org/10.1016/j.ceramint.2012.12.035
-    display: Ceramics International 2013, 39, 5963–5966.
-  highlight: 0
-
-- title: Lead Fluoridooxidovanadates(V), Pb(V2O2F8), Pb(VOF5), and Mixed Valent Fluoridooxidovanadate(IV,V), Pb3F(V4O3F18)
-  image: dummy.png
-  description: ""
-  authors:
-    M. Lozinšek, E. Goreshnik, B. Žemva
-  link:
-    url: http://dx.doi.org/10.1002/zaac.201200176
-    display: Zeitschrift für Anorganische und Allgemeine Chemie 2012, 638, 2123–2128.
-  highlight: 0
-
-- title: Syntheses, structures and Raman spectra of Cd(BF<sub>4</sub>)(AF<sub>6</sub>) (A = Ta, Bi) compounds
-  image: dummy.png
-  description: ""
-  authors:
-    K. Radan, M. Lozinšek, E. Goreshnik, B. Žemva
-  link:
-    url: http://dx.doi.org/10.1016/j.jfluchem.2011.05.033
-    display: Journal of Fluorine Chemistry 2011, 132, 767–771.
-  highlight: 0
-
-- title: HF molecules and poly(hydrogen fluoride) anions as ligands to metal centers
-  image: dummy.png
-  description: ""
-  authors:
-    M. Tramšek, E. Goreshnik, M. Lozinšek, B. Žemva
-  link:
-    url: http://dx.doi.org/10.1016/j.jfluchem.2009.06.008
-    display: Journal of Fluorine Chemistry 2009, 130, 1093–1098.
-  highlight: 0
-
-- title: "Syntheses, crystal structures and Raman spectra of Ba(BF4)(PF6), Ba(BF4)(AsF6) and Ba2(BF4)2(AsF6)(H3F4): the first examples of metal salts containing simultaneously tetrahedral BF4− and octahedral AF6− anions"
-  image: dummy.png
-  description: ""
-  authors:
-    M. Lozinšek, T. Bunič, E. Goreshnik, A. Meden, M. Tramšek, G. Tavčar, B. Žemva
-  link:
-    url: http://dx.doi.org/10.1016/j.jssc.2009.08.004
-    display: Journal of Solid State Chemistry 2009, 182, 2897–2903.
-  highlight: 0
-
-
-- title:
-  image: dummy.png
-  description: ""
-  authors:
-
-  link:
-    url: http://dx.doi.org/
-    display:
-  highlight: 0
-
-
-- title: "Charge trapping and super-Poissonian noise centres in a cuprate superconductor"
   image: Pub_BCl.png
-  description: Using our newly developed noise-spectroscopy technique we discover charge trapping in a cuprate high-temperature superconductor.
-  authors: KM Bastiaans* & D Cho*, T Benschop, I Battisti, Y Huang, MS Golden, Q Dong, Y Jin, J Zaanen, MP Allan
   link:
-    url: https://www.nature.com/articles/s41567-018-0300-z
-    display:  Nature Physics 14, 1183 (2018)
-  highlight: 1
-  news1: <a href="https://aip.scitation.org/doi/10.1063/1.5043267">Instrument details in Rev. Sci. Instrum. 89, 093709 (2018)</a>
-  news2: See also <a href="http://www.quantumuniverse.nl/een-isolerende-supergeleider"> quantum universe </a> (in dutch), <a href="https://phys.org/news/2018-10-mysterious-insulating-phenomenon-superconductor.html"> Phys.org </a>, <a href="https://www.universiteitleiden.nl/en/news/2018/10/insulating-phenomenon-in-superconductor"> Leiden University news</a>, <a href="http://iop.uva.nl/content/news/2018/10/noise-helps-physicists-discover-insulating-phenomenon-in-superconductor.html"> UvA news<a>.
-
-- title: Direct evidence for a magnetic f-electron mediated Cooper pairing mechanism of heavy fermion superconductivity in CeCoIn5
-  image: dummy.png
+    display: "Nature Physics 14, 1183 (2018)"
+    url: "https://www.nature.com/articles/s41567-018-0300-z"
+  news1: "<a href=\"https://aip.scitation.org/doi/10.1063/1.5043267\">Instrument details in Rev. Sci. Instrum. 89, 093709 (2018)</a>"
+  news2: "See also <a href=\"http://www.quantumuniverse.nl/een-isolerende-supergeleider\"> quantum universe </a> (in dutch), <a href=\"https://phys.org/news/2018-10-mysterious-insulating-phenomenon-superconductor.html\"> Phys.org </a>, <a href=\"https://www.universiteitleiden.nl/en/news/2018/10/insulating-phenomenon-in-superconductor\"> Leiden University news</a>, <a href=\"http://iop.uva.nl/content/news/2018/10/noise-helps-physicists-discover-insulating-phenomenon-in-superconductor.html\"> UvA news<a>."
+  title: "Charge trapping and super-Poissonian noise centres in a cuprate superconductor"
+-
+  authors: "J Van Dyke, F Massee, MP Allan, JC Davis, C Petrovic, and DK Morr"
   description: ""
-  authors:
-    J Van Dyke, F Massee, MP Allan, JC Davis, C Petrovic, and DK Morr
-  link:
-    url: http://www.pnas.org/content/111/32/11663
-    display: PNAS 111, 11663 (2014)
   highlight: 0
-  news1: <a style="color:#FF0000; text-decoration:underline" href="http://science.sciencemag.org/content/345/6203/twil">News item in Science</a>
-  news2:
-
-- title: Nematic electronic structure in the “parent” state of the iron-based superconductor Ca(Fe1−xCox)2As2
-  image: Pub_nemat1.png
-  description:
-    We discovered an electronic nematic in the iron based superconductor Co-CaFe2As2! This state is by now confirmed and quite well characterized  by transport, photoemission, and more SI-STM experiments.
-  authors:
-    T-M Chuang* & MP Allan*, J Lee, Y Xie, N Ni, SL Bud’ko, GS Boebinger PC Canfield, JC Davis
+  image: dummy.png
   link:
-    url: http://www.sciencemag.org/content/327/5962/181
-    display: Science 327, 181 (2010)
+    display: "PNAS 111, 11663 (2014)"
+    url: "http://www.pnas.org/content/111/32/11663"
+  news1: "<a style=\"color:#FF0000; text-decoration:underline\" href=\"http://science.sciencemag.org/content/345/6203/twil\">News item in Science</a>"
+  news2: ~
+  title: "Direct evidence for a magnetic f-electron mediated Cooper pairing mechanism of heavy fermion superconductivity in CeCoIn5"
+-
+  authors: "T-M Chuang* & MP Allan*, J Lee, Y Xie, N Ni, SL Bud’ko, GS Boebinger PC Canfield, JC Davis"
+  description: "We discovered an electronic nematic in the iron based superconductor Co-CaFe2As2! This state is by now confirmed and quite well characterized  by transport, photoemission, and more SI-STM experiments."
   highlight: 1
-  news1: <a style="color:#FF0000" href="http://www.sciencemag.org/content/327/5962/155"> Featured in a ‘Perspective’ by E Fradkin &amp; SA Kivelson</a>
-  news2: See also <a  href="https://www.newscientist.com/article/dn18354-electron-spotting-could-explain-warm-superconductors/">Article on NewScientist</a> by Colin Barras
-
-- title: Heavy d-electron quasiparticle interference and real-space electronic structure of Sr3Ru2O7
-  image: Pub_hBN.png
-  description:
-    QPI in Sr327.
-  authors: Jinho Lee* & M. P. Allan*, M. A.Wang, J. Farrell, S. A. Grigera, F. Baumberger, J. C. Davis and A. P. Mackenzie
+  image: Pub_nemat1.png
   link:
-    url: https://www.nature.com/nphys/journal/v5/n11/full/nphys1397.html
-    display: Nature Physics 5, 800 (2009)
+    display: "Science 327, 181 (2010)"
+    url: "http://www.sciencemag.org/content/327/5962/181"
+  news1: "<a style=\"color:#FF0000\" href=\"http://www.sciencemag.org/content/327/5962/155\"> Featured in a ‘Perspective’ by E Fradkin & SA Kivelson</a>"
+  news2: "See also <a  href=\"https://www.newscientist.com/article/dn18354-electron-spotting-could-explain-warm-superconductors/\">Article on NewScientist</a> by Colin Barras"
+  title: "Nematic electronic structure in the “parent” state of the iron-based superconductor Ca(Fe1−xCox)2As2"
+-
+  authors: "Jinho Lee* & M. P. Allan*, M. A.Wang, J. Farrell, S. A. Grigera, F. Baumberger, J. C. Davis and A. P. Mackenzie"
+  description: "QPI in Sr327."
   highlight: 0
-
+  image: Pub_hBN.png
+  link:
+    display: "Nature Physics 5, 800 (2009)"
+    url: "https://www.nature.com/nphys/journal/v5/n11/full/nphys1397.html"
+  title: "Heavy d-electron quasiparticle interference and real-space electronic structure of Sr3Ru2O7"
