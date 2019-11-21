@@ -1,11 +1,11 @@
 ---
 -
-  authors: "M. Dragomir*, P. A. Dube, I. Arčon, C. Boyer, M. Rutherford, C. R. Wiebe, G. King, H. A. Dabkowska, J. E. Greedan"
+  authors: "<b>M. Dragomir</b>*, P. A. Dube, I. Arčon, C. Boyer, M. Rutherford, C. R. Wiebe, G. King, H. A. Dabkowska, J. E. Greedan"
   description: ""
   highlight: 1
   image: dummy.png
   link:
-    display: "Chemistry of Materials 2019, 31, 7833–7844."
+    display: "<i>Chemistry of Materials</i> 2019, 31, 7833–7844."
     url: "http://dx.doi.org/10.1021/acs.chemmater.9b01466"
   title: "Comparing Magnetism in Isostructural Oxides A<sub>0.8</sub>La<sub>1.2</sub>MnO<sub>4.1</sub>: Anisotropic Spin Glass (A = Ba) versus Long-Range Order (A = Sr)"
 -
@@ -23,11 +23,11 @@
   highlight: 0
   image: dummy.png
   link:
-    display: "Organic Letters 2019, 21, 3644–3648."
+    display: "<i>Organic Letters</i> 2019, 21, 3644–3648."
     url: "http://dx.doi.org/10.1021/acs.orglett.9b01069"
   title: "<i>trans</i>-Diastereoselective Ru(II)-Catalyzed Asymmetric Transfer Hydrogenation of α-Acetamido Benzocyclic Ketones via Dynamic Kinetic Resolution"
 -
-  authors: "D. Kuščer, A. Kocjan, M. Majcen, A. Meden, K. Radan, J. Kovač, B. Malič"
+  authors: "D. Kuščer, A. Kocjan, M. Majcen, A. Meden, <b>K. Radan</b>, J. Kovač, B. Malič"
   description: ""
   highlight: 0
   image: dummy.png
