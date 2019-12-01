@@ -9,7 +9,7 @@
     url: "http://dx.doi.org/10.1021/acs.chemmater.9b01466"
   title: "Comparing Magnetism in Isostructural Oxides A<sub>0.8</sub>La<sub>1.2</sub>MnO<sub>4.1</sub>: Anisotropic Spin Glass (A = Ba) versus Long-Range Order (A = Sr)"
 -
-  authors: "B. Michon, C. Girod, S. Badoux, J. Kačmarčík, Q. Ma, <b>M. Dragomir</b>, H. A. Dabkowska, B. D. Gaulin, J.-S. Zhou, S. Pyon, T. Takayama, H. Takagi, S. Verret, N. Doiron-Leyraud, C. Marcenat, L. Taillefer*, T. Klein*"
+  authors: "B. Michon, C. Girod, S. Badoux, J. Kačmarčík, Q. Ma, <b>M. Dragomir</b>, H. A. Dabkowska, B. D. Gaulin, J.-S. Zhou, S. Pyon, T. Takayama, H. Takagi, S. Verret, N. Doiron-Leyraud, C. Marcenat, L. Taillefer*, T. Klein&#42;"
   description: ""
   highlight: 1
   image: dummy.png
@@ -36,7 +36,7 @@
     url: "http://dx.doi.org/10.1016/j.ceramint.2019.02.102"
   title: "Evolution of phase composition and microstructure of sodium potassium niobate–based ceramic during pressure-less spark plasma sintering and post-annealing"
 -
-  authors: "<b>M. Dragomir</b>*, M. Otoničar, M. Vrabelj, L. Fulanović, S. Drnovšek, T. Rojaca, B. Malič"
+  authors: "<b>M. Dragomir</b>*, M. Otoničar, M. Vrabelj, L. Fulanović, S. Drnovšek, T. Rojac, B. Malič"
   description: ""
   highlight: 0
   image: dummy.png
@@ -72,7 +72,7 @@
     url: "http://dx.doi.org/10.1016/j.apsusc.2018.12.246"
   title: "New insights into adsorption bonding of imidazole: a viable C2–H bond cleavage on copper surfaces"
 -
-  authors: "U. Prah, T. Rojac, M. Wencka, <b>M. Dragomir</b>, A. Bradeško, A. Benčan, R. Sherbondy, G. Brennecka, Z. Kutnjak, B.Malič, H. Uršič*"
+  authors: "U. Prah, T. Rojac, M. Wencka, <b>M. Dragomir</b>, A. Bradeško, A. Benčan, R. Sherbondy, G. Brennecka, Z. Kutnjak, B. Malič, H. Uršič*"
   description: ""
   highlight: 0
   image: dummy.png
@@ -81,7 +81,7 @@
     url: "http://dx.doi.org/10.1016/j.jeurceramsoc.2019.05.062"
   title: "Improving the multicaloric properties of Pb(Fe<sub>0.5</sub>Nb<sub>0.5</sub>)O<sub>3</sub> by controlling the sintering conditions and doping with manganese"
 -
-  authors: "M. R. Lacroix, E. V. Bukovsky, <b>M. Lozinšek</b>, T. C. Folsom, B. S. Newell*, Y. Liu*, D. V. Peryshkov*, S. H. Strauss*"
+  authors: "M. R. Lacroix, E. V. Bukovsky, <b>M. Lozinšek</b>, T. C. Folsom, B. S. Newell*, Y. Liu&#42;, D. V. Peryshkov&#42;, S. H. Strauss&#42;"
   description: ""
   highlight: 0
   image: dummy.png
@@ -90,7 +90,7 @@
     url: "http://dx.doi.org/10.1021/acs.inorgchem.8b02786"
   title: "Manifestations of Weak O–H···F Hydrogen Bonding in M(H<sub>2</sub>O)<sub><i>n</i></sub>(B<sub>12</sub>F<sub>12</sub>) Salt Hydrates: Unusually Sharp Fourier Transform Infrared ν(OH) Bands and Latent Porosity (M = Mg–Ba, Co, Ni, Zn)"
 -
-  authors: "J. Bobnar, <b>M. Lozinšek</b>, G. Kapun, R. Dedryvère, C. Njel, B. Genorio*, R. Dominko*"
+  authors: "J. Bobnar, <b>M. Lozinšek</b>, G. Kapun, R. Dedryvère, C. Njel, B. Genorio*, R. Dominko&#42;"
   description: ""
   highlight: 0
   image: dummy.png
@@ -126,7 +126,7 @@
     url: "http://dx.doi.org/10.17344/acsi.2018.4373"
   title: "Room-temperature synthesis and Optical Properties of NdVO<sub>4</sub> Nanoneedles"
 -
-  authors: "D. V. Peryshkov*, E. V. Bukovsky*, M. R. Lacroix, H. Wu, W. Zhou, W. M. Jones, <b>M. Lozinšek</b>, T. C. Folsom, D. L. Heyliger, T. J. Udovic, S. H. Strauss*"
+  authors: "D. V. Peryshkov*, E. V. Bukovsky&#42;, M. R. Lacroix, H. Wu, W. Zhou, W. M. Jones, <b>M. Lozinšek</b>, T. C. Folsom, D. L. Heyliger, T. J. Udovic, S. H. Strauss&#42;"
   description: ""
   highlight: 0
   image: dummy.png
@@ -154,7 +154,7 @@
     url: "http://dx.doi.org/10.1039/C6RA00789A"
   title: "A facile chemical method for the synthesis of 3C–SiC nanoflakes"
 -
-  authors: "<b>M. Lozinšek</b>&#42;, G. J. Schrobilgen&#42;"
+  authors: "<b>M. Lozinšek</b>*, G. J. Schrobilgen&#42;"
   description: ""
   highlight: 1
   image: dummy.png
@@ -181,7 +181,7 @@
     url: "http://dx.doi.org/10.17344/acsi.2015.1424"
   title: "Hydroxylammonium Tetrafluoridooxidovanadate(V) – (NH<sub>3</sub>OH)[VOF<sub>4</sub>]"
 -
-  authors: "<b>K. Radan</b>*, E. Goreshnik, B. Žemva*"
+  authors: "<b>K. Radan</b>*, E. Goreshnik, B. Žemva&#42;"
   description: ""
   highlight: 1
   image: ACIE2014-TOC.jpg
@@ -226,7 +226,7 @@
     url: "http://dx.doi.org/10.1016/j.ceramint.2012.12.035"
   title: "Synthesis peculiarities of BiVO<sub>3</sub> perovskite"
 -
-  authors: "<b>M. Lozinšek</b>*, E. Goreshnik, B. Žemva*"
+  authors: "<b>M. Lozinšek</b>*, E. Goreshnik, B. Žemva&#42;"
   description: ""
   highlight: 0
   image: dummy.png
