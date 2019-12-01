@@ -12,7 +12,7 @@ We are exploring chemistry under extreme conditions of high pressure in GPa rang
 
 (Page under construction...)
  
-![]({{ site.url }}{{ site.baseurl }}/images/KrF2-Photosynthesis.jpg){: style="width: 250px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/KrF2-Photosynthesis-C.jpg){: style="width: 250px; float: right; border: 10px"}
 
 
 
