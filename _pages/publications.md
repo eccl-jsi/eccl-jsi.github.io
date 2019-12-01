@@ -61,6 +61,7 @@ Publications authored and co-authored by current team members
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" style="float: left;" width="120" height="100">
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <p class="text-success">{{ publi.news1 }}</p>
   <div class="clearfix"></div>
   <hr>
 {% endfor %}
