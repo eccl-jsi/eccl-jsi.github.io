@@ -12,7 +12,7 @@ Jump to: [JSI](#JSI), [Outreach](#Outreach)
 
 ## JSI
 
-#### Photo Gallery
+# Photo Gallery
 
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures %}
