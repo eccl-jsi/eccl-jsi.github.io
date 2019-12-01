@@ -31,7 +31,7 @@
   authors: "D. Kuščer*, A. Kocjan, M. Majcen, A. Meden, <b>K. Radan</b>, J. Kovač, B. Malič"
   description: ""
   highlight: 0
-  image: dummy.png
+  image: CI2019-TOC.jpg
   link:
     display: "<i>Ceramics International</i> 2019, 45, 10429–10437."
     url: "http://dx.doi.org/10.1016/j.ceramint.2019.02.102"
@@ -40,7 +40,7 @@
   authors: "<b>M. Dragomir</b>*, M. Otoničar, M. Vrabelj, L. Fulanović, S. Drnovšek, T. Rojac, B. Malič"
   description: ""
   highlight: 0
-  image: dummy.png
+  image: JECS2019B-TOC.jpg
   link:
     display: "<i>Journal of the European Ceramic Society</i> 2019, 39, 1837–1845."
     url: "http://dx.doi.org/10.1016/j.jeurceramsoc.2018.12.021"
@@ -76,7 +76,7 @@
   authors: "U. Prah, T. Rojac, M. Wencka, <b>M. Dragomir</b>, A. Bradeško, A. Benčan, R. Sherbondy, G. Brennecka, Z. Kutnjak, B. Malič, H. Uršič*"
   description: ""
   highlight: 0
-  image: dummy.png
+  image: JECS2019A-TOC.jpg
   link:
     display: "<i>Journal of the European Ceramic Society</i> 2019, 39, 4122–4130."
     url: "http://dx.doi.org/10.1016/j.jeurceramsoc.2019.05.062"
@@ -113,7 +113,7 @@
   authors: "<b>K. Radan</b>*, B. Kmet, S. Drnovšek, U. Prah, T. Rojac, B. Malič"
   description: ""
   highlight: 0
-  image: dummy.png
+  image: C2018-TOC.jpg
   link:
     display: "<i>Ceramics</i> 2018, 1, 304–318."
     url: "http://dx.doi.org/10.3390/ceramics1020024"
@@ -122,7 +122,7 @@
   authors: "<b>M. Dragomir</b>*, M. Valant"
   description: ""
   highlight: 0
-  image: dummy.png
+  image: ACSi2018-TOC.jpg
   link:
     display: "<i>Acta Chimica Slovenica</i> 2018, 65, 679–686."
     url: "http://dx.doi.org/10.17344/acsi.2018.4373"
@@ -151,7 +151,7 @@
   authors: "<b>M. Dragomir</b>*, M. Valant, M. Fanettia, Y. Mozharivskyj"
   description: ""
   highlight: 0
-  image: dummy.png
+  image: RSCA2016-TOC.jpg
   link:
     display: "<i>RSC Advances</i> 2016, 6, 21795–21801."
     url: "http://dx.doi.org/10.1039/C6RA00789A"
@@ -207,7 +207,7 @@
   authors: "<b>M. Dragomir</b>*, I. Arčon, S. Gardonio, M. Valant"
   description: ""
   highlight: 0
-  image: dummy.png
+  image: AM2013-TOC.jpg
   link:
     display: "<i>Acta Materialia</i> 2013, 61, 1126–1135."
     url: "http://dx.doi.org/10.1016/j.actamat.2012.10.020"
@@ -225,7 +225,7 @@
   authors: "<b>M. Dragomir</b>*, M. Valant"
   description: ""
   highlight: 0
-  image: dummy.png
+  image: CI2013-TOC.jpg
   link:
     display: "<i>Ceramics International</i> 2013, 39, 5963–5966."
     url: "http://dx.doi.org/10.1016/j.ceramint.2012.12.035"
