@@ -6,7 +6,7 @@ permalink: /pictures/
 ---
 
 # Pictures
-Jump to: [JSI](#leiden), [1](#1), [2](#2), [3](#3)
+Jump to: [JSI](#JSI), [1](#Outreach)
 
 
 ## JSI
@@ -58,7 +58,7 @@ Our fluorine vacuum line
 </figure>
 
 
-## 1
+## Outreach
 From the [Festival della Scienza](http://festival2019.festivalscienza.it/site/home/programma-2019/esperimenti-chimici-in-cucina.html) 2019, Genoa, Italy.
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/gallery/IMG_2218.jpg" width="60%">
