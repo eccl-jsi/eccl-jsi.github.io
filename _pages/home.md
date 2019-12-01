@@ -66,7 +66,7 @@ We are located at Leiden University, the birthplace of superconductivity and hom
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-We are grateful for funding from [Jožef Stefan Institute](https://www.ijs.si/ijsw/V001/JSI), [Slovenian Research Agency - ARRS](http://www.arrs.si/en/), the Royal Society of Chemistry ([Researcher Mobility Grants](https://www.rsc.org/scienceandtechnology/funding/researcher-mobility/)), and from a [Marie Curie International Outgoing Fellowship](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en).
+We are grateful for funding from [Jožef Stefan Institute](https://www.ijs.si/ijsw/V001/JSI), [Slovenian Research Agency - ARRS](http://www.arrs.si/en/), the Royal Society of Chemistry ([Researcher Mobility Grant](https://www.rsc.org/scienceandtechnology/funding/researcher-mobility/)), and from a [Marie Curie International Outgoing Fellowship](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en).
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/JSI-logo.jpg" style="width: 150px">
