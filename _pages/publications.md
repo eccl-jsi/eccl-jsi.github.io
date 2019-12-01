@@ -56,7 +56,7 @@ permalink: /publications/
 ## Full List
 
 {% for publi in site.data.publist %}
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" style="float: left;" width="150" height="100">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" style="float: left;" width="120" height="100">
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
   <div class="clearfix"></div>
