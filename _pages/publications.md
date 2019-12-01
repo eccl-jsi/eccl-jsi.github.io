@@ -32,7 +32,7 @@ Publications authored and co-authored by current team members
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
-  <p class="text-info">{{ publi.news1 }}</p>
+  <p class="text-success">{{ publi.news1 }}</p>
   <p> {{ publi.news2 }}</p>
   <div class="clearfix"></div>
  </div>
