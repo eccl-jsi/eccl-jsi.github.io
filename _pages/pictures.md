@@ -55,6 +55,10 @@ Our fluorine vacuum line
 <img src="{{ site.url }}{{ site.baseurl }}/images/gallery/Lab.jpg" width="60%" >
 </figure>
 
+Single-Crystal X-ray Diffractometer 
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/gallery/Gemini.gif" width="60%" >
+</figure>
 
 ## Outreach
 Liquid Nitrogen Geysir - from the [Festival della Scienza](http://festival2019.festivalscienza.it/site/home/programma-2019/esperimenti-chimici-in-cucina.html) 2019, Genoa, Italy.
