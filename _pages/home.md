@@ -40,7 +40,7 @@ Extreme Conditions Chemistry Laboratory @ [Jožef Stefan Institute](http://www.i
             <img src="{{ site.url }}{{ site.baseurl }}/images/ACIE2017-TOC-C.jpg" alt="Slide 5" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Helicoid-C.jpg" alt="Slide 6" />
         </div>       
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab.jpg" alt="Slide 7" />
