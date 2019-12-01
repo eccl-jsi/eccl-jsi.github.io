@@ -262,33 +262,33 @@
     url: "http://dx.doi.org/10.1016/j.jssc.2009.08.004"
   title: "Syntheses, crystal structures and Raman spectra of Ba(BF<sub>4</sub>)(PF<sub>6</sub>), Ba(BF<sub>4</sub>)(AsF<sub>6</sub>) and Ba<sub>2</sub>(BF<sub>4</sub>)<sub>2</sub>(AsF<sub>6</sub>)(H<sub>3</sub>F<sub>4</sub>): the first examples of metal salts containing simultaneously tetrahedral BF<sub>4</sub><sup>−</sup> and octahedral AF<sub>6</sub><sup>−</sup> anions"
 -
-  authors: ~
-  description: ""
-  highlight: 0
-  image: dummy.png
-  link:
-    display: ~
-    url: "http://dx.doi.org/"
-  title: ~
--
-  authors: "KM Bastiaans* & D Cho*, T Benschop, I Battisti, Y Huang, MS Golden, Q Dong, Y Jin, J Zaanen, MP Allan"
-  description: "Using our newly developed noise-spectroscopy technique we discover charge trapping in a cuprate high-temperature superconductor."
-  highlight: 1
-  image: Pub_BCl.png
-  link:
-    display: "Nature Physics 14, 1183 (2018)"
-    url: "https://www.nature.com/articles/s41567-018-0300-z"
-  news1: "<a href=\"https://aip.scitation.org/doi/10.1063/1.5043267\">Instrument details in Rev. Sci. Instrum. 89, 093709 (2018)</a>"
-  news2: "See also <a href=\"http://www.quantumuniverse.nl/een-isolerende-supergeleider\"> quantum universe </a> (in dutch), <a href=\"https://phys.org/news/2018-10-mysterious-insulating-phenomenon-superconductor.html\"> Phys.org </a>, <a href=\"https://www.universiteitleiden.nl/en/news/2018/10/insulating-phenomenon-in-superconductor\"> Leiden University news</a>, <a href=\"http://iop.uva.nl/content/news/2018/10/noise-helps-physicists-discover-insulating-phenomenon-in-superconductor.html\"> UvA news<a>."
-  title: "Charge trapping and super-Poissonian noise centres in a cuprate superconductor"
--
-  authors: "T-M Chuang* & MP Allan*, J Lee, Y Xie, N Ni, SL Bud’ko, GS Boebinger PC Canfield, JC Davis"
-  description: "We discovered an electronic nematic in the iron based superconductor Co-CaFe2As2! This state is by now confirmed and quite well characterized  by transport, photoemission, and more SI-STM experiments."
-  highlight: 1
-  image: Pub_nemat1.png
-  link:
-    display: "Science 327, 181 (2010)"
-    url: "http://www.sciencemag.org/content/327/5962/181"
-  news1: "<a style=\"color:#FF0000\" href=\"http://www.sciencemag.org/content/327/5962/155\"> Featured in a ‘Perspective’ by E Fradkin & SA Kivelson</a>"
-  news2: "See also <a  href=\"https://www.newscientist.com/article/dn18354-electron-spotting-could-explain-warm-superconductors/\">Article on NewScientist</a> by Colin Barras"
-  title: "Nematic electronic structure in the “parent” state of the iron-based superconductor Ca(Fe1−xCox)2As2"
+#  authors: ~
+#  description: ""
+#  highlight: 0
+#  image: dummy.png
+#  link:
+#    display: ~
+#    url: "http://dx.doi.org/"
+#  title: ~
+#-
+#  authors: "KM Bastiaans* & D Cho*, T Benschop, I Battisti, Y Huang, MS Golden, Q Dong, Y Jin, J Zaanen, MP Allan"
+#  description: "Using our newly developed noise-spectroscopy technique we discover charge trapping in a cuprate high-temperature superconductor."
+#  highlight: 1
+#  image: Pub_BCl.png
+#  link:
+#    display: "Nature Physics 14, 1183 (2018)"
+#    url: "https://www.nature.com/articles/s41567-018-0300-z"
+#  news1: "<a href=\"https://aip.scitation.org/doi/10.1063/1.5043267\">Instrument details in Rev. Sci. Instrum. 89, 093709 (2018)</a>"
+#  news2: "See also <a href=\"http://www.quantumuniverse.nl/een-isolerende-supergeleider\"> quantum universe </a> (in dutch), <a href=\"https://phys.org/news/2018-10-mysterious-insulating-phenomenon-superconductor.html\"> Phys.org </a>, <a href=\"https://www.universiteitleiden.nl/en/news/2018/10/insulating-phenomenon-in-superconductor\"> Leiden University news</a>, <a href=\"http://iop.uva.nl/content/news/2018/10/noise-helps-physicists-discover-insulating-phenomenon-in-superconductor.html\"> UvA news<a>."
+#  title: "Charge trapping and super-Poissonian noise centres in a cuprate superconductor"
+#-
+#  authors: "T-M Chuang* & MP Allan*, J Lee, Y Xie, N Ni, SL Bud’ko, GS Boebinger PC Canfield, JC Davis"
+#  description: "We discovered an electronic nematic in the iron based superconductor Co-CaFe2As2! This state is by now confirmed and quite well characterized  by transport, photoemission, and more SI-STM experiments."
+#  highlight: 1
+#  image: Pub_nemat1.png
+#  link:
+#    display: "Science 327, 181 (2010)"
+#    url: "http://www.sciencemag.org/content/327/5962/181"
+#  news1: "<a style=\"color:#FF0000\" href=\"http://www.sciencemag.org/content/327/5962/155\"> Featured in a ‘Perspective’ by E Fradkin & SA Kivelson</a>"
+#  news2: "See also <a  href=\"https://www.newscientist.com/article/dn18354-electron-spotting-could-explain-warm-superconductors/\">Article on NewScientist</a> by Colin Barras"
+#  title: "Nematic electronic structure in the “parent” state of the iron-based superconductor Ca(Fe1−xCox)2As2"
