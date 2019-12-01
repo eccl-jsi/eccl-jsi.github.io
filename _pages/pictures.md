@@ -1,20 +1,19 @@
 ---
 title: "ECCL - Pictures"
 layout: piclay
-excerpt: "ECCL -- Pictures"
+excerpt: "ECCL - Pictures"
 permalink: /pictures/
 ---
 
 # Pictures
-Jump to: [JSI](#JSI), [1](#Outreach)
+Jump to: [JSI](#JSI), [Outreach](#Outreach)
 
+(Under construction)
 
 ## JSI
 
-#### Photo 
+#### Photo Gallery
 
-#### Gallery
-(Under construction)
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures %}
 
@@ -59,7 +58,7 @@ Our fluorine vacuum line
 
 
 ## Outreach
-From the [Festival della Scienza](http://festival2019.festivalscienza.it/site/home/programma-2019/esperimenti-chimici-in-cucina.html) 2019, Genoa, Italy.
+Liquid Nitrogen Geysir - from the [Festival della Scienza](http://festival2019.festivalscienza.it/site/home/programma-2019/esperimenti-chimici-in-cucina.html) 2019, Genoa, Italy.
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/gallery/IMG_2218.jpg" width="60%">
 </figure>
