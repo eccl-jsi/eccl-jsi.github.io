@@ -59,19 +59,7 @@ Our fluorine vacuum line
 
 
 ## 1
-From the [1](http://eccl.ijs.si).
+From the [Festival della Scienza](http://festival2019.festivalscienza.it/site/home/programma-2019/esperimenti-chimici-in-cucina.html) 2019, Genoa, Italy.
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageETH_red.jpg" width="60%">
-</figure>
-
-## 2
-From the [2](http://eccl.ijs.si).
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageCornell_red.jpg" width="60%">
-</figure>
-
-## 3
-From the [3](http://eccl.ijs.si) ().
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageSTA_red.jpg" width="60%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/gallery/IMG_2218.jpg" width="60%">
 </figure>
