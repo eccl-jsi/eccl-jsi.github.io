@@ -9,6 +9,8 @@ permalink: /publications/
 
 # Publications
 
+Publications authored and co-authored by current team members
+
 ## Highlights
 
 (For a full list see [below](#full-list))
