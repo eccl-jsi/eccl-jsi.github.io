@@ -66,7 +66,7 @@
   authors: "A. Kokalj*, D. Gustinčič, M. Poberžnik, <b>M. Lozinšek</b>"
   description: ""
   highlight: 0
-  image: dummy.png
+  image: ApSuSc2019-TOC.jpg
   link:
     display: "<i>Applied Surface Science</i> 2019, 479, 463–468."
     url: "http://dx.doi.org/10.1016/j.apsusc.2018.12.246"
@@ -238,7 +238,7 @@
   authors: "<b>K. Radan</b>, <b>M. Lozinšek</b>, E. Goreshnik, B. Žemva*"
   description: ""
   highlight: 0
-  image: dummy.png
+  image: JFC2011-TOC.jpg
   link:
     display: "<i>Journal of Fluorine Chemistry</i> 2011, 132, 767–771."
     url: "http://dx.doi.org/10.1016/j.jfluchem.2011.05.033"
@@ -247,7 +247,7 @@
   authors: "M. Tramšek*, E. Goreshnik, <b>M. Lozinšek</b>, B. Žemva"
   description: ""
   highlight: 0
-  image: dummy.png
+  image: JFC2009-TOC.jpg
   link:
     display: "<i>Journal of Fluorine Chemistry</i> 2009, 130, 1093–1098."
     url: "http://dx.doi.org/10.1016/j.jfluchem.2009.06.008"
@@ -256,7 +256,7 @@
   authors: "<b>M. Lozinšek</b>, T. Bunič, E. Goreshnik, A. Meden, M. Tramšek, G. Tavčar, B. Žemva*"
   description: ""
   highlight: 0
-  image: dummy.png
+  image: JSSC2009-TOC.jpg
   link:
     display: "<i>Journal of Solid State Chemistry</i> 2009, 182, 2897–2903."
     url: "http://dx.doi.org/10.1016/j.jssc.2009.08.004"
