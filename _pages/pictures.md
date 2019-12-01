@@ -16,7 +16,7 @@ Jump to: [JSI](#leiden), [1](#1), [2](#2), [3](#3)
 #### Gallery
 (Under construction)
 {% assign number_printed = 0 %}
-{% for pic in site.data.pictures_Leiden %}
+{% for pic in site.data.pictures %}
 
 {% assign even_odd = number_printed | modulo: 4 %}
 
@@ -52,9 +52,9 @@ Jump to: [JSI](#leiden), [1](#1), [2](#2), [3](#3)
 
 <p> &nbsp; </p>
 
-First advertisement.
+Our fluorine vacuum line
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg" width="60%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/gallery/Lab.jpg" width="60%" >
 </figure>
 
 
