@@ -8,11 +8,10 @@ permalink: /pictures/
 # Pictures
 Jump to: [JSI](#JSI), [Outreach](#Outreach)
 
-(Under construction)
+(Page under construction…)
+
 
 ## JSI
-
-# Photo Gallery
 
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures %}
