@@ -1,7 +1,7 @@
 ---
 title: "ECCL - Home"
 layout: homelay
-excerpt: "ECCL at JSI."
+excerpt: "ECCL - Home"
 sitemap: false
 permalink: /
 ---
