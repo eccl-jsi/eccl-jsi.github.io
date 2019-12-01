@@ -69,8 +69,8 @@ We are located at Leiden University, the birthplace of superconductivity and hom
 We are grateful for funding from [Jožef Stefan Institute](https://www.ijs.si/ijsw/V001/JSI), [Slovenian Research Agency - ARRS](http://www.arrs.si/en/), the Royal Society of Chemistry ([Researcher Mobility Grants](https://www.rsc.org/scienceandtechnology/funding/researcher-mobility/)), and from a [Marie Curie International Outgoing Fellowship](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en).
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/JSI-logo.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ARRS-logo.gif" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/RSC-logo.png" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MC-logo.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/JSI-logo.jpg" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ARRS-logo.gif" style="width: 200px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/RSC-logo.png" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MC-logo.jpg" style="width: 100px">
 </figure>
