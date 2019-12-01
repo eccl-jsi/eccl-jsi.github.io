@@ -1,5 +1,5 @@
 ---
-title: "News"
+title: "ECCL - News"
 layout: textlay
 excerpt: "ECCL @ JSI"
 sitemap: false
