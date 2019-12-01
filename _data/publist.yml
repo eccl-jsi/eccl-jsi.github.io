@@ -3,7 +3,7 @@
   authors: "<b>M. Dragomir</b>*, P. A. Dube, I. Arčon, C. Boyer, M. Rutherford, C. R. Wiebe, G. King, H. A. Dabkowska, J. E. Greedan"
   description: ""
   highlight: 1
-  image: dummy.png
+  image: CM2019-TOC.gif
   link:
     display: "<i>Chemistry of Materials</i> 2019, 31, 7833–7844."
     url: "http://dx.doi.org/10.1021/acs.chemmater.9b01466"
@@ -21,7 +21,7 @@
   authors: "A. E. Cotman, <b>M. Lozinšek</b>, B. Wang, M. Stephan, B. Mohar*"
   description: ""
   highlight: 0
-  image: dummy.png
+  image: OL2019-TOC.gif
   link:
     display: "<i>Organic Letters</i> 2019, 21, 3644–3648."
     url: "http://dx.doi.org/10.1021/acs.orglett.9b01069"
@@ -48,7 +48,7 @@
   authors: "M. Bieringer, J. R. Stewart, A. P. Grosvenor, <b>M. Dragomir</b>, J. E. Greedan*"
   description: ""
   highlight: 0
-  image: dummy.png
+  image: IC2019-TOC.gif
   link:
     display: "<i>Inorganic Chemistry</i> 2019, 58, 4300–4309."
     url: "http://dx.doi.org/10.1021/acs.inorgchem.8b03419"
@@ -57,7 +57,7 @@
   authors: "H. Uršič*, A. Benčan, U. Prah, <b>M. Dragomir</b>, B. Malič"
   description: ""
   highlight: 0
-  image: dummy.png
+  image: Materials2019-TOC.jpg
   link:
     display: "<i>Materials</i> 2019, 12, 1327."
     url: "http://dx.doi.org/10.3390/ma12081327"
@@ -84,7 +84,7 @@
   authors: "M. R. Lacroix, E. V. Bukovsky, <b>M. Lozinšek</b>, T. C. Folsom, B. S. Newell*, Y. Liu&#42;, D. V. Peryshkov&#42;, S. H. Strauss&#42;"
   description: ""
   highlight: 0
-  image: dummy.png
+  image: IC2018-TOC.gif
   link:
     display: "<i>Inorganic Chemistry</i> 2018, 57, 14983–15000."
     url: "http://dx.doi.org/10.1021/acs.inorgchem.8b02786"
@@ -129,7 +129,7 @@
   authors: "D. V. Peryshkov*, E. V. Bukovsky&#42;, M. R. Lacroix, H. Wu, W. Zhou, W. M. Jones, <b>M. Lozinšek</b>, T. C. Folsom, D. L. Heyliger, T. J. Udovic, S. H. Strauss&#42;"
   description: ""
   highlight: 0
-  image: dummy.png
+  image: IC2017-TOC.gif
   link:
     display: "<i>Inorganic Chemistry</i> 2017, 56, 12023–12041."
     url: "http://dx.doi.org/10.1021/acs.inorgchem.7b02081"
