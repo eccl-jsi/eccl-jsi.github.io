@@ -165,7 +165,7 @@
 -
   authors: "A. Vižintin, <b>M. Lozinšek</b>, R. K. Chellappan, D. Foix, A. Krajnc, G. Mali, G. Dražić, B. Genorio, R. Dedryvère, R. Dominko*"
   description: ""
-  highlight: 0
+  highlight: 1
   image: CM2015-TOC.gif
   link:
     display: "<i>Chemistry of Materials</i> 2015, 27, 7070–7081."
@@ -261,7 +261,7 @@
     display: "<i>Journal of Solid State Chemistry</i> 2009, 182, 2897–2903."
     url: "http://dx.doi.org/10.1016/j.jssc.2009.08.004"
   title: "Syntheses, crystal structures and Raman spectra of Ba(BF<sub>4</sub>)(PF<sub>6</sub>), Ba(BF<sub>4</sub>)(AsF<sub>6</sub>) and Ba<sub>2</sub>(BF<sub>4</sub>)<sub>2</sub>(AsF<sub>6</sub>)(H<sub>3</sub>F<sub>4</sub>): the first examples of metal salts containing simultaneously tetrahedral BF<sub>4</sub><sup>−</sup> and octahedral AF<sub>6</sub><sup>−</sup> anions"
--
+#-
 #  authors: ~
 #  description: ""
 #  highlight: 0
