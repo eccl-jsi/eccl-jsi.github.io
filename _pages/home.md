@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-## Extreme Conditions Chemistry Laboratory @ [Jožef Stefan Institute](http://www.ijs.si). 
+#### Extreme Conditions Chemistry Laboratory @ [Jožef Stefan Institute](http://www.ijs.si). 
 
 Our aim is to explore and understand chemistry at extreme conditions of pressure, temperature, and chemical reactivity.
 
