@@ -93,7 +93,7 @@
   authors: "J. Bobnar, <b>M. Lozinšek</b>, G. Kapun, R. Dedryvère, C. Njel, B. Genorio*, R. Dominko&#42;"
   description: ""
   highlight: 0
-  image: dummy.png
+  image: SREP2018-TOC.jpg
   link:
     display: "<i>Scientific Reports</i> 2018, 8, 5819."
     url: "http://dx.doi.org/10.1038/s41598-018-23991-2"
@@ -157,7 +157,7 @@
   authors: "<b>M. Lozinšek</b>*, G. J. Schrobilgen&#42;"
   description: ""
   highlight: 1
-  image: dummy.png
+  image: NC2016-TOC.jpg
   link:
     display: "<i>Nature Chemistry</i> 2016, 8, 732."
     url: "http://dx.doi.org/10.1038/nchem.2538"
@@ -166,7 +166,7 @@
   authors: "A. Vižintin, <b>M. Lozinšek</b>, R. K. Chellappan, D. Foix, A. Krajnc, G. Mali, G. Dražić, B. Genorio, R. Dedryvère, R. Dominko*"
   description: ""
   highlight: 0
-  image: dummy.png
+  image: CM2015-TOC.gif
   link:
     display: "<i>Chemistry of Materials</i> 2015, 27, 7070–7081."
     url: "http://dx.doi.org/10.1021/acs.chemmater.5b02906"
@@ -211,7 +211,7 @@
   authors: "S. A. Baer, <b>M. Lozinšek</b>, F. Kraus*"
   description: ""
   highlight: 0
-  image: dummy.png
+  image: ZAAC2013-TOC.jpg
   link:
     display: "<i>Zeitschrift für Anorganische und Allgemeine Chemie</i> 2013, 639, 2586–2588."
     url: "http://dx.doi.org/10.1002/zaac.201300342"
@@ -229,7 +229,7 @@
   authors: "<b>M. Lozinšek</b>*, E. Goreshnik, B. Žemva&#42;"
   description: ""
   highlight: 0
-  image: dummy.png
+  image: ZAAC2012-TOC.jpg
   link:
     display: "<i>Zeitschrift für Anorganische und Allgemeine Chemie</i> 2012, 638, 2123–2128."
     url: "http://dx.doi.org/10.1002/zaac.201200176"
