@@ -1,12 +1,12 @@
 ---
-title: "Allan Lab - Pictures"
+title: "ECCL - Pictures"
 layout: piclay
-excerpt: "Allan Lab -- Pictures"
+excerpt: "ECCL -- Pictures"
 permalink: /pictures/
 ---
 
 # Pictures
-Jump to: [JSI](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
+Jump to: [JSI](#leiden), [1](#1), [2](#2), [3](#3)
 
 
 ## JSI
@@ -59,19 +59,19 @@ First advertisement.
 
 
 ## 1
-From the [group of Andreas Wallraff](http://www.qudev.ethz.ch/).
+From the [1](http://eccl.ijs.si).
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageETH_red.jpg" width="60%">
 </figure>
 
 ## 2
-From the [group of Seamus JC Davis](http://davisgroup.lassp.cornell.edu).
+From the [2](http://eccl.ijs.si).
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageCornell_red.jpg" width="60%">
 </figure>
 
 ## 3
-From the [group of Felix Baumberger](http://dqmp.unige.ch/baumberger/) (now at University of Geneva).
+From the [3](http://eccl.ijs.si) ().
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageSTA_red.jpg" width="60%">
 </figure>
