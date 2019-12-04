@@ -14,6 +14,10 @@ This small archive is our effort to provide access to some of these works...
 
 ### 1980s
 
+**Concerning XeF<sub>2</sub> interactions with XeF<sub>5</sub><sup>+</sup>MF<sub>6</sub><sup>–</sup>, the existance of XeF<sub>2</sub>&#183;XeF<sub>5</sub><sup>+</sup>RuF<sub>6</sub><sup>–</sup> and the absence of XeF<sub>2</sub>&#183;XeF<sub>5</sub><sup>+</sup>NbF<sub>6</sub><sup>–</sup>**
+<br>B. Žemva, L. Golič, J. Slivnik
+<br>*Vestn. Slov. Kem. Drus.* **1983**, 30(3), 365–376. [PDF]({{ site.baseurl }}/ngarxiv/1983_VSKD.pdf)
+
 **Fotokemična sinteza ksenonovega difluorida v večjem laboratorijskem merilu**
 <br>(On a Large Laboratory Scale Photochemical Synthesis of Xenon Difluoride)
 <br>K. Lutar, A. Šmalc
