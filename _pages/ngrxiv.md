@@ -10,7 +10,7 @@ permalink: /ngrxiv
 
 Many interesting publications on the chemistry of noble gases are unfortunately not available in digital format. 
 
-This small archive is our effort to provide access to some of these works...
+This small archive is our ongoing effort to provide access to some of these works...
 
 ### 1980s
 
