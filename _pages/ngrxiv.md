@@ -8,13 +8,17 @@ permalink: /ngrxiv
 
 # Noble-Gas Chemistry Archive
 
-Many interesting publications on the chemistry of noble gases are unfortunately not available in digital format. 
+Many interesting publications on the chemistry of noble gases (Ng) are unfortunately not available in digital format. 
 
 This small archive is our ongoing effort to provide the access to some of these works...
 
 <hr>
 
 ### 1960s
+
+**Über die Synthese von XeF<sub>6</sub>**
+<br>J. Slivnik, B. Brčić, B. Volavšek, J. Marsel, V. Vrščaj, A. Šmalc, B. Frlec, Z. Zemljič
+<br>*Croat. Chem. Acta* 1962, 34, 253. [PDF](https://pubweb.carnet.hr/ccacaa/wp-content/uploads/sites/182/2017/12/CCA_34_1962_253.pdf)
 
 **The Chemistry of the noble gases**
 <br>C. L. Chernick
