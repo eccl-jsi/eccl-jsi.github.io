@@ -39,12 +39,12 @@ This small archive is our ongoing effort to provide the access to some of these 
 
 **Concerning XeF<sub>2</sub> interactions with XeF<sub>5</sub><sup>+</sup>MF<sub>6</sub><sup>–</sup>, the existance of XeF<sub>2</sub>&#183;XeF<sub>5</sub><sup>+</sup>RuF<sub>6</sub><sup>–</sup> and the absence of XeF<sub>2</sub>&#183;XeF<sub>5</sub><sup>+</sup>NbF<sub>6</sub><sup>–</sup>**
 <br>B. Žemva, L. Golič, J. Slivnik
-<br>*Vestn. Slov. Kem. Drus.* **1983**, 30(3), 365–376. [PDF]({{ site.baseurl }}/ngarxiv/1983_VSKD.pdf)
+<br>*Vestnik Slovenskega Kemijskega Društva* **1983**, 30(3), 365–376. [PDF]({{ site.baseurl }}/ngarxiv/1983_VSKD.pdf)
 
 **Fotokemična sinteza ksenonovega difluorida v večjem laboratorijskem merilu**
 <br>(On a Large Laboratory Scale Photochemical Synthesis of Xenon Difluoride)
 <br>K. Lutar, A. Šmalc
-<br>*Kem. Ind.* **1989**, 38(12), 589–591. [PDF]({{ site.baseurl }}/ngarxiv/1989_KI.pdf)
+<br>*Kemija u Industriji* **1989**, 38(12), 589–591. [PDF]({{ site.baseurl }}/ngarxiv/1989_KI.pdf)
 
 <hr>
 
