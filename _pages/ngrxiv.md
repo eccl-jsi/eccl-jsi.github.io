@@ -25,7 +25,7 @@ This small archive is our effort to provide access to some of these works...
 <br>A. Jesih, K. Lutar, I. Leban, B. Žemva
 <br>*Eur. J. Solid State Chem.* **1991**, 28, 829–840. [PDF]({{ site.baseurl }}/ngarxiv/1991_EJSSIC.pdf)
 
-**XeF<sub>2</sub>&#183;CrF<sub>4</sub> and (XeF<sub>5</sub><sup>+</sup>CrF<sub>5</sub><sup>–</sup>)<sub>4</sub>&#183;CrF<sub>4</sub>: Syntheses, crystal structures and some properties**
+**XeF<sub>2</sub>&#183;CrF<sub>4</sub> and (XeF<sub>5</sub><sup>+</sup>CrF<sub>5</sub><sup>–</sup>)<sub>4</sub>&#183;XeF<sub>4</sub>: Syntheses, crystal structures and some properties**
 <br>K. Lutar, I. Leban, T. Ogrin, B. Žemva
 <br>*Eur. J. Solid State Chem.* **1992**, 29, 713–727. [PDF]({{ site.baseurl }}/ngarxiv/1992_EJSSIC.pdf)
 
