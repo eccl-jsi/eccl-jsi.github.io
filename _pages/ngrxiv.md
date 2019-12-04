@@ -11,16 +11,16 @@ permalink: /ngrxiv
 Many interesting publications on the chemistry of noble gases are unfortunately not available in digital format. 
 
 This small archive is our ongoing effort to provide access to some of these works...
-
 <br>
+
 ### 1970s
 
 **Kemija žlahtnih plinov**
 <br>(Noble-Gas Chemistry)
 <br>J. Slivnik, A. Šmalc
 <br>*Proteus* **1971**, 33(6), 243–252. [PDF]({{ site.baseurl }}/ngarxiv/1971_P.pdf)
-
 <br>
+
 ### 1980s
 
 **Concerning XeF<sub>2</sub> interactions with XeF<sub>5</sub><sup>+</sup>MF<sub>6</sub><sup>–</sup>, the existance of XeF<sub>2</sub>&#183;XeF<sub>5</sub><sup>+</sup>RuF<sub>6</sub><sup>–</sup> and the absence of XeF<sub>2</sub>&#183;XeF<sub>5</sub><sup>+</sup>NbF<sub>6</sub><sup>–</sup>**
@@ -31,8 +31,8 @@ This small archive is our ongoing effort to provide access to some of these work
 <br>(On a Large Laboratory Scale Photochemical Synthesis of Xenon Difluoride)
 <br>K. Lutar, A. Šmalc
 <br>*Kem. Ind.* **1989**, 38(12), 589–591. [PDF]({{ site.baseurl }}/ngarxiv/1989_KI.pdf)
-
 <br>
+
 ### 1990s
 
 **Vibrational spectra and crystal structure of (XeF<sub>5</sub>)<sub>2</sub>NiF<sub>6</sub> and its decomposition in the laser beam followed by raman spectroscopy**
