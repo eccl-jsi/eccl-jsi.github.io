@@ -14,6 +14,15 @@ This small archive is our effort to provide access to some of these works...
 
 ### Current open positions
 
+**Fotokemična sinteza ksenonovega difluorida v večjem laboratorijskem merilu**
+(On a Large Laboratory Scale Photochemical Synthesis of Xenon Difluoride)
+K. Lutar, A. Šmalc
+*Kem. Ind.* **1989**, 38(12), 589–591. [PDF]({{ site.baseurl }}/ngarxiv/1989_KI.pdf)
+
+Vibrational spectra and crystal structure of (XeF<sub>5</sub>)2NiF6 and its decomposition in the laser beam followed by raman spectroscopy
+A. Jesih, K. Lutar, I. Leban, B. Žemva
+*Eur. J. Solid State Chem.* **1991**, 28, 829–840. [PDF]({{ site.baseurl }}/ngarxiv/1989_KI.pdf)
+
 You find the current job openings here:
 [Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf),
 [Opening 2]({{ site.baseurl }}/downloads/PPMS_PhD_2019_v01.pdf).
