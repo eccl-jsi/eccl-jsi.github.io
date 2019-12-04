@@ -23,7 +23,7 @@ This small archive is our effort to provide access to some of these works...
 <br>K. Lutar, A. Šmalc
 <br>*Kem. Ind.* **1989**, 38(12), 589–591. [PDF]({{ site.baseurl }}/ngarxiv/1989_KI.pdf)
 
-#### 1990s
+### 1990s
 
 **Vibrational spectra and crystal structure of (XeF<sub>5</sub>)<sub>2</sub>NiF<sub>6</sub> and its decomposition in the laser beam followed by raman spectroscopy**
 <br>A. Jesih, K. Lutar, I. Leban, B. Žemva
