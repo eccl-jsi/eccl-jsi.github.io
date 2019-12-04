@@ -14,6 +14,14 @@ This small archive is our ongoing effort to provide the access to some of these 
 
 <hr>
 
+### 1960s
+
+**The Chemistry of the noble gases**
+<br>C. L. Chernick
+<br>*Understanding the Atom Series*, U.S. Atomic Energy Commission,  **1967**, pp. 48. [PDF](https://www.osti.gov/includes/opennet/includes/Understanding%20the%20Atom/The%20Chemistry%20of%20Noble%20Gases.pdf)
+
+<hr>
+
 ### 1970s
 
 **Kemija žlahtnih plinov**
