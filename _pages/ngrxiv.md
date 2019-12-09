@@ -28,7 +28,7 @@ This small archive is our ongoing effort to provide the access to some of these 
 
 ### 1970s
 
-**Kemija žlahtnih plinov**   &nbsp;&nbsp;&nbsp;<font color="#e41959"><i>Popular Science</i></font>
+**Kemija žlahtnih plinov**   &nbsp;&nbsp;&nbsp;<font color="#e41959"><sup>(<i>Popular Science</i>)</sup></font>
 <br>(Noble-Gas Chemistry)
 <br>J. Slivnik, A. Šmalc
 <br>*Proteus* **1971**, 33(6), 243–252. [PDF]({{ site.baseurl }}/ngarxiv/1971_P.pdf)
@@ -45,7 +45,7 @@ This small archive is our ongoing effort to provide the access to some of these 
 <br>B. Žemva, L. Golič, J. Slivnik
 <br>*Vestnik Slovenskega Kemijskega Društva* **1983**, 30(3), 365–376. [PDF]({{ site.baseurl }}/ngarxiv/1983_VSKD.pdf)
 
-**Binary Fluorides of Noble-Gases and Their Compounds**   &nbsp;&nbsp;&nbsp;<font color="#e41959"><i>Review</i></font>
+**Binary Fluorides of Noble-Gases and Their Compounds**   &nbsp;&nbsp;&nbsp;&nbsp;<font color="#e41959"><sup>(<i>Review</i>)</sup></font>
 <br>B. Žemva
 <br>*Croat. Chem. Acta* **1988**, 61(1), 163–187. [PDF](https://hrcak.srce.hr/file/259460)
 
