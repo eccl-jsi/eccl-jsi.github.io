@@ -20,7 +20,7 @@ This small archive is our ongoing effort to provide the access to some of these 
 <br>J. Slivnik, B. Brčić, B. Volavšek, J. Marsel, V. Vrščaj, A. Šmalc, B. Frlec, Z. Zemljič
 <br>*Croat. Chem. Acta* **1962**, 34, 253. [PDF](https://pubweb.carnet.hr/ccacaa/wp-content/uploads/sites/182/2017/12/CCA_34_1962_253.pdf)
 
-**The Chemistry of the noble gases**   <font color="gray">*Popular Science*</font>
+**The Chemistry of the noble gases**    <font color="teal"><i>Popular Science</i></font>
 <br>C. L. Chernick
 <br>*Understanding the Atom Series*, U.S. Atomic Energy Commission,  **1967**, pp. 48. [PDF](https://www.osti.gov/includes/opennet/includes/Understanding%20the%20Atom/The%20Chemistry%20of%20Noble%20Gases.pdf)
 
@@ -28,7 +28,7 @@ This small archive is our ongoing effort to provide the access to some of these 
 
 ### 1970s
 
-**Kemija žlahtnih plinov**
+**Kemija žlahtnih plinov**    <font color="teal"><i>Popular Science</i></font>
 <br>(Noble-Gas Chemistry)
 <br>J. Slivnik, A. Šmalc
 <br>*Proteus* **1971**, 33(6), 243–252. [PDF]({{ site.baseurl }}/ngarxiv/1971_P.pdf)
@@ -45,7 +45,7 @@ This small archive is our ongoing effort to provide the access to some of these 
 <br>B. Žemva, L. Golič, J. Slivnik
 <br>*Vestnik Slovenskega Kemijskega Društva* **1983**, 30(3), 365–376. [PDF]({{ site.baseurl }}/ngarxiv/1983_VSKD.pdf)
 
-**Binary Fluorides of Noble-Gases and Their Compounds**
+**Binary Fluorides of Noble-Gases and Their Compounds**     <font color="teal"><i>Review</i></font>
 <br>B. Žemva
 <br>*Croat. Chem. Acta* **1988**, 61(1), 163–187. [PDF](https://hrcak.srce.hr/file/259460)
 
