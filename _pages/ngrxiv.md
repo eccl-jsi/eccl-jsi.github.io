@@ -18,11 +18,11 @@ This small archive is our ongoing effort to provide the access to some of these 
 
 **Über die Synthese von XeF<sub>6</sub>**
 <br>J. Slivnik, B. Brčić, B. Volavšek, J. Marsel, V. Vrščaj, A. Šmalc, B. Frlec, Z. Zemljič
-<br>*Croat. Chem. Acta* **1962**, 34, 253. [PDF](https://pubweb.carnet.hr/ccacaa/wp-content/uploads/sites/182/2017/12/CCA_34_1962_253.pdf)
+<br>*Croat. Chem. Acta* **1962**, 34, 253. &nbsp;[PDF](https://pubweb.carnet.hr/ccacaa/wp-content/uploads/sites/182/2017/12/CCA_34_1962_253.pdf)
 
 **The Chemistry of the noble gases**   &nbsp;&nbsp;&nbsp;<font color="#e41959" size="-1">(<i>Popular Science</i>)</font>
 <br>C. L. Chernick
-<br>*Understanding the Atom Series*, U.S. Atomic Energy Commission,  **1967**, pp. 48. [PDF](https://www.osti.gov/includes/opennet/includes/Understanding%20the%20Atom/The%20Chemistry%20of%20Noble%20Gases.pdf)
+<br>*Understanding the Atom Series*, U.S. Atomic Energy Commission,  **1967**, pp. 48. &nbsp;[PDF](https://www.osti.gov/includes/opennet/includes/Understanding%20the%20Atom/The%20Chemistry%20of%20Noble%20Gases.pdf)
 
 <hr>
 
@@ -31,11 +31,11 @@ This small archive is our ongoing effort to provide the access to some of these 
 **Kemija žlahtnih plinov**   &nbsp;&nbsp;&nbsp;<font color="#e41959"><sup>(<i>Popular Science</i>)</sup></font>
 <br>(Noble-Gas Chemistry)
 <br>J. Slivnik, A. Šmalc
-<br>*Proteus* **1971**, 33(6), 243–252. [PDF]({{ site.baseurl }}/ngarxiv/1971_P.pdf)
+<br>*Proteus* **1971**, 33(6), 243–252. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1971_P.pdf)
 
 **On the preparation of pure xenon tetrafluoride**
 <br>M. Bohinc, J. Slivnik
-<br>*Vestnik Slovenskega Kemijskega Društva* **1973**, 20, 9–12. [PDF]({{ site.baseurl }}/ngarxiv/1973_VSKD.pdf)
+<br>*Vestnik Slovenskega Kemijskega Društva* **1973**, 20, 9–12. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1973_VSKD.pdf)
 
 <hr>
 
@@ -43,16 +43,16 @@ This small archive is our ongoing effort to provide the access to some of these 
 
 **Concerning XeF<sub>2</sub> interactions with XeF<sub>5</sub><sup>+</sup>MF<sub>6</sub><sup>–</sup>, the existance of XeF<sub>2</sub>&#183;XeF<sub>5</sub><sup>+</sup>RuF<sub>6</sub><sup>–</sup> and the absence of XeF<sub>2</sub>&#183;XeF<sub>5</sub><sup>+</sup>NbF<sub>6</sub><sup>–</sup>**
 <br>B. Žemva, L. Golič, J. Slivnik
-<br>*Vestnik Slovenskega Kemijskega Društva* **1983**, 30(3), 365–376. [PDF]({{ site.baseurl }}/ngarxiv/1983_VSKD.pdf)
+<br>*Vestnik Slovenskega Kemijskega Društva* **1983**, 30(3), 365–376. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1983_VSKD.pdf)
 
-**Binary Fluorides of Noble-Gases and Their Compounds**   &nbsp;&nbsp;&nbsp;&nbsp;<font color="#e41959"><sup>(<i>Review</i>)</sup></font>
+**Binary Fluorides of Noble-Gases and Their Compounds**   &nbsp;&nbsp;&nbsp;<font color="#e41959"><sup>(<i>Review</i>)</sup></font>
 <br>B. Žemva
-<br>*Croat. Chem. Acta* **1988**, 61(1), 163–187. [PDF](https://hrcak.srce.hr/file/259460)
+<br>*Croat. Chem. Acta* **1988**, 61(1), 163–187. &nbsp;[PDF](https://hrcak.srce.hr/file/259460)
 
 **Fotokemična sinteza ksenonovega difluorida v večjem laboratorijskem merilu**
 <br>(On a Large Laboratory Scale Photochemical Synthesis of Xenon Difluoride)
 <br>K. Lutar, A. Šmalc
-<br>*Kemija u Industriji* **1989**, 38(12), 589–591. [PDF]({{ site.baseurl }}/ngarxiv/1989_KI.pdf)
+<br>*Kemija u Industriji* **1989**, 38(12), 589–591. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1989_KI.pdf)
 
 <hr>
 
@@ -60,15 +60,15 @@ This small archive is our ongoing effort to provide the access to some of these 
 
 **Vibrational spectra and crystal structure of (XeF<sub>5</sub>)<sub>2</sub>NiF<sub>6</sub> and its decomposition in the laser beam followed by raman spectroscopy**
 <br>A. Jesih, K. Lutar, I. Leban, B. Žemva
-<br>*Eur. J. Solid State Chem.* **1991**, 28, 829–840. [PDF]({{ site.baseurl }}/ngarxiv/1991_EJSSIC.pdf)
+<br>*Eur. J. Solid State Chem.* **1991**, 28, 829–840. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1991_EJSSIC.pdf)
 
 **XeF<sub>2</sub>&#183;CrF<sub>4</sub> and (XeF<sub>5</sub><sup>+</sup>CrF<sub>5</sub><sup>–</sup>)<sub>4</sub>&#183;XeF<sub>4</sub>: Syntheses, crystal structures and some properties**
 <br>K. Lutar, I. Leban, T. Ogrin, B. Žemva
-<br>*Eur. J. Solid State Chem.* **1992**, 29, 713–727. [PDF]({{ site.baseurl }}/ngarxiv/1992_EJSSIC.pdf)
+<br>*Eur. J. Solid State Chem.* **1992**, 29, 713–727. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1992_EJSSIC.pdf)
 
 **Syntheses, some properties and Infrared and Raman spectra of new xenon(VI) fluorometalates of rare earth elements**
 <br>M. Fele Beuermann, S. Milićev, K. Lutar, B. Žemva
-<br>*Eur. J. Solid State Chem.* **1994**, 31, 545–556. [PDF]({{ site.baseurl }}/ngarxiv/1994_EJSSIC.pdf)
+<br>*Eur. J. Solid State Chem.* **1994**, 31, 545–556. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1994_EJSSIC.pdf)
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/NgRXeiv.png" width="40%">
