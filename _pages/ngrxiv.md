@@ -35,7 +35,7 @@ This small archive is our ongoing effort to provide the access to some of these 
 
 **On the preparation of pure xenon tetrafluoride**
 <br>M. Bohinc, J. Slivnik
-<br>*Vestnik Slovenskega Kemijskega Društva* **1973**, 20(3), 9–12. [PDF]({{ site.baseurl }}/ngarxiv/1973_VSKD.pdf)
+<br>*Vestnik Slovenskega Kemijskega Društva* **1973**, 20, 9–12. [PDF]({{ site.baseurl }}/ngarxiv/1973_VSKD.pdf)
 
 <hr>
 
