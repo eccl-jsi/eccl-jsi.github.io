@@ -20,7 +20,7 @@ This small archive is our ongoing effort to provide the access to some of these 
 <br>J. Slivnik, B. Brčić, B. Volavšek, J. Marsel, V. Vrščaj, A. Šmalc, B. Frlec, Z. Zemljič
 <br>*Croat. Chem. Acta* **1962**, 34, 253. [PDF](https://pubweb.carnet.hr/ccacaa/wp-content/uploads/sites/182/2017/12/CCA_34_1962_253.pdf)
 
-**The Chemistry of the noble gases**   &nbsp;&nbsp;&nbsp;&nbsp;<font color="#e41959"><sub>(<i>Popular Science</i>)</sub></font>
+**The Chemistry of the noble gases**   &nbsp;&nbsp;&nbsp;<font color="#e41959" font-size:0.5em>(<i>Popular Science</i>)</font>
 <br>C. L. Chernick
 <br>*Understanding the Atom Series*, U.S. Atomic Energy Commission,  **1967**, pp. 48. [PDF](https://www.osti.gov/includes/opennet/includes/Understanding%20the%20Atom/The%20Chemistry%20of%20Noble%20Gases.pdf)
 
