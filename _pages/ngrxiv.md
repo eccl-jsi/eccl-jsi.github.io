@@ -33,6 +33,10 @@ This small archive is our ongoing effort to provide the access to some of these 
 <br>J. Slivnik, A. Šmalc
 <br>*Proteus* **1971**, 33(6), 243–252. [PDF]({{ site.baseurl }}/ngarxiv/1971_P.pdf)
 
+**On the preparation of pure xenon tetrafluoride**
+<br>M. Bohinc, J. Slivnik
+<br>*Vestnik Slovenskega Kemijskega Društva* **1973**, 20(3), 9–12. [PDF]({{ site.baseurl }}/ngarxiv/1973_VSKD.pdf)
+
 <hr>
 
 ### 1980s
@@ -40,6 +44,10 @@ This small archive is our ongoing effort to provide the access to some of these 
 **Concerning XeF<sub>2</sub> interactions with XeF<sub>5</sub><sup>+</sup>MF<sub>6</sub><sup>–</sup>, the existance of XeF<sub>2</sub>&#183;XeF<sub>5</sub><sup>+</sup>RuF<sub>6</sub><sup>–</sup> and the absence of XeF<sub>2</sub>&#183;XeF<sub>5</sub><sup>+</sup>NbF<sub>6</sub><sup>–</sup>**
 <br>B. Žemva, L. Golič, J. Slivnik
 <br>*Vestnik Slovenskega Kemijskega Društva* **1983**, 30(3), 365–376. [PDF]({{ site.baseurl }}/ngarxiv/1983_VSKD.pdf)
+
+**Binary Fluorides of Noble-Gases and Their Compounds**
+<br>B. Žemva
+<br>*Croat. Chem. Acta* **1988**, 61(1), 163–187. [PDF](https://hrcak.srce.hr/file/259460)
 
 **Fotokemična sinteza ksenonovega difluorida v večjem laboratorijskem merilu**
 <br>(On a Large Laboratory Scale Photochemical Synthesis of Xenon Difluoride)
@@ -57,6 +65,10 @@ This small archive is our ongoing effort to provide the access to some of these 
 **XeF<sub>2</sub>&#183;CrF<sub>4</sub> and (XeF<sub>5</sub><sup>+</sup>CrF<sub>5</sub><sup>–</sup>)<sub>4</sub>&#183;XeF<sub>4</sub>: Syntheses, crystal structures and some properties**
 <br>K. Lutar, I. Leban, T. Ogrin, B. Žemva
 <br>*Eur. J. Solid State Chem.* **1992**, 29, 713–727. [PDF]({{ site.baseurl }}/ngarxiv/1992_EJSSIC.pdf)
+
+**Syntheses, some properties and Infrared and Raman spectra of new xenon(VI) fluorometalates of rare earth elements**
+<br>M. Fele Beuermann, S. Milićev, K. Lutar, B. Žemva
+<br>*Eur. J. Solid State Chem.* **1994**, 31, 545–556. [PDF]({{ site.baseurl }}/ngarxiv/1994_EJSSIC.pdf)
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/NgRXeiv.png" width="40%">
