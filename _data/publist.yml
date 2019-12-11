@@ -1,5 +1,14 @@
 ---
 -
+  authors: "O. A. Condurache*, <b>K. Radan</b>, U. Prah, M. Otoničar, B. Kmet, G. Kapun, G. Dražić, B. Malič, A. Benčan"
+  description: ""
+  highlight: 0
+  image: Materials2019B-TOC.jpg
+  link:
+    display: "<i>Materials</i> 2019, 12, 4049."
+    url: "http://dx.doi.org/10.3390/ma12244049"
+  title: "Heterogeneity Challenges in Multiple-Element-Modified Lead-Free Piezoelectric Ceramics"
+-
   authors: "<b>M. Dragomir</b>*, P. A. Dube, I. Arčon, C. Boyer, M. Rutherford, C. R. Wiebe, G. King, H. A. Dabkowska, J. E. Greedan"
   description: ""
   highlight: 1
