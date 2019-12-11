@@ -61,7 +61,7 @@ Our aim is to explore and understand chemistry at extreme conditions of pressure
 
 
 
-The ECCL was established and is being built by the members of the *Department of Inorganic Chemistry and Technology* – [K1](http://k1.ijs.si/en/) (dr. Matic Lozinšek, dr. Blaž Alič) and the *Electronic Ceramics Department* – [K5](http://www-k5.ijs.si/en/) (dr. Mirela Dragomir, dr. Kristian Radan), who won the [Director's Fund](https://www.ijs.si/ijsw/Zmagovalci) project in 2019.
+The ECCL was established and is being built by the members of the ***Department of Inorganic Chemistry and Technology* – [K1](http://k1.ijs.si/en/)** (dr. Matic Lozinšek, dr. Blaž Alič) and the ***Electronic Ceramics Department* – [K5](http://www-k5.ijs.si/en/)** (dr. Mirela Dragomir, dr. Kristian Radan), who won the [Director's Fund](https://www.ijs.si/ijsw/Zmagovalci) project in 2019.
 
 
  **We are  looking for passionate new students to join the team!** Contact us...
