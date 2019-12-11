@@ -17,8 +17,14 @@ This small archive is our ongoing effort to provide the access to some of these 
 ### 1960s
 
 **Über die Synthese von XeF<sub>6</sub>**
+<br>(On the Synthesis of XeF<sub>6</sub>)
 <br>J. Slivnik, B. Brčić, B. Volavšek, J. Marsel, V. Vrščaj, A. Šmalc, B. Frlec, Z. Zemljič
 <br>*Croat. Chem. Acta* **1962**, 34, 253. &nbsp;[PDF](https://pubweb.carnet.hr/ccacaa/wp-content/uploads/sites/182/2017/12/CCA_34_1962_253.pdf)
+
+**Die Synthese von Bromtrifluorid in einer Glasapparatur**
+<br>(The Synthesis of BrF<sub>3</sub> in a Glass Apparatus)
+<br>J. Slivnik, A. Zemljič
+<br>*Vestnik Slovenskega Kemijskega Društva* **1962**, 9(3–4), 57–59. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1962-57_VSKD.pdf)
 
 **The Chemistry of the noble gases**   &nbsp;&nbsp;&nbsp;<font color="#e41959" size="-1">(<i>Popular Science</i>)</font>
 <br>C. L. Chernick
@@ -36,6 +42,10 @@ This small archive is our ongoing effort to provide the access to some of these 
 **On the preparation of pure xenon tetrafluoride**
 <br>M. Bohinc, J. Slivnik
 <br>*Vestnik Slovenskega Kemijskega Društva* **1973**, 20, 9–12. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1973_VSKD.pdf)
+
+**The influence of some hexafluoromanganates(IV) on the reaction between xenon and fluorine under pressure**
+<br>J. Levec, J. Slivnik, B. Žemva
+<br>*Vestnik Slovenskega Kemijskega Društva* **1973**, 20, 13–20. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1973-13_VSKD.pdf)
 
 <hr>
 
