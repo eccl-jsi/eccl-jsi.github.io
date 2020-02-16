@@ -51,7 +51,7 @@ Jump to: [JSI](#JSI), [Outreach](#Outreach)
 <p> &nbsp; </p>
 
 Photochemical synthesis of KrF<sub>2</sub> from liquid F<sub>2</sub> and solid Kr at −196 °C. (Photo: M. Lozinšek)
-This image was published in:
+> This image was published in:
 - <i>Nature Chemistry</i>
 <p>[The world of krypton revisited](https://www.nature.com/articles/nchem.2538) In Your Element</p>
 Matic Lozinšek and Gary J. Schrobilgen consider krypton — namesake of Superman's home planet — its superoxidant compounds, and their roles in coaxing elements into their highest oxidation states
