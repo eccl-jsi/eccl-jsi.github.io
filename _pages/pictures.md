@@ -50,7 +50,7 @@ Jump to: [JSI](#JSI), [Outreach](#Outreach)
 
 <p> &nbsp; </p>
 
-Photochemical synthesis of KrF<sub>2</sub> from liquid F<sub>2</sub> and solid Kr at −196 °C. (Photo: M. Lozinšek)
+Photochemical synthesis of KrF<sub>2</sub> from liquid F<sub>2</sub> and solid Kr at −196 °C (Photo: M. Lozinšek)
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/KrF2-Photosynthesis-C.jpg" width="40%" >
 </figure>
