@@ -51,9 +51,12 @@ Jump to: [JSI](#JSI), [Outreach](#Outreach)
 <p> &nbsp; </p>
 
 Photochemical synthesis of KrF<sub>2</sub> from liquid F<sub>2</sub> and solid Kr at −196 °C. (Photo: M. Lozinšek)
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/KrF2-Photosynthesis-C.jpg" width="40%" >
+</figure>
 <br>This image was published in:
 - <i>Nature Chemistry</i>
-<br>[The world of krypton revisited](https://www.nature.com/articles/nchem.2538) In Your Element
+<br>In Your Element: [The world of krypton revisited](https://www.nature.com/articles/nchem.2538) 
 <br>Matic Lozinšek and Gary J. Schrobilgen consider krypton — namesake of Superman's home planet — its superoxidant compounds, and their roles in coaxing elements into their highest oxidation states
 - <i>ACS Central Science</i>
 <br>[Coaxing Reactivity from the Noble Gases](https://pubs.acs.org/doi/10.1021/acscentsci.9b00631) by Bethany Halford
@@ -61,10 +64,6 @@ Photochemical synthesis of KrF<sub>2</sub> from liquid F<sub>2</sub> and solid K
 - <i>Chemical & Engineering News</i>
 <br>[To get noble gases to forge bonds, chemists go to extremes](https://cen.acs.org/materials/inorganic-chemistry/IYPT-get-noble-gases-to-forge-bonds-chemists-go-to-extremes/97/i22) by Bethany Halford
 <br>Despite challenging conditions and a lack of funding, some researchers still see rewards in coaxing reactivity from these nearly inert elements 
-
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/KrF2-Photosynthesis-C.jpg" width="40%" >
-</figure>
 
 <p> &nbsp; </p>
 
