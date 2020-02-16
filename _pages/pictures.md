@@ -51,9 +51,9 @@ Jump to: [JSI](#JSI), [Outreach](#Outreach)
 <p> &nbsp; </p>
 
 Photochemical synthesis of KrF<sub>2</sub> from liquid F<sub>2</sub> and solid Kr at −196 °C. (Photo: M. Lozinšek)
-| This image was published in:
+<br>This image was published in:
 - <i>Nature Chemistry</i>
-<p>[The world of krypton revisited](https://www.nature.com/articles/nchem.2538) In Your Element</p>
+<br>[The world of krypton revisited](https://www.nature.com/articles/nchem.2538) In Your Element</p>
 Matic Lozinšek and Gary J. Schrobilgen consider krypton — namesake of Superman's home planet — its superoxidant compounds, and their roles in coaxing elements into their highest oxidation states
 - <i>ACS Central Science</i> &nbsp;
 [Coaxing Reactivity from the Noble Gases](https://pubs.acs.org/doi/10.1021/acscentsci.9b00631) by Bethany Halford
@@ -63,7 +63,7 @@ Rule-breaking chemists go to extremes to make the least-reactive elements forge 
 Despite challenging conditions and a lack of funding, some researchers still see rewards in coaxing reactivity from these nearly inert elements 
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/KrF2-Photosynthesis-C.jpg" width="60%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/KrF2-Photosynthesis-C.jpg" width="40%" >
 </figure>
 
 <p> &nbsp; </p>
