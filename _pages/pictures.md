@@ -26,7 +26,7 @@ Jump to: [JSI](#JSI), [Outreach](#Outreach)
 <img src="{{ site.url }}{{ site.baseurl }}/images/gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
 </div>
 
-{% assign number_printed = number_printed | plus: 0 %}
+{% assign number_printed = number_printed | plus: 1 %}
 
 {% if even_odd > 2 %}
 </div>
