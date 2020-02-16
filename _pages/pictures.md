@@ -54,7 +54,7 @@ Photochemical synthesis of KrF<sub>2</sub> from liquid F<sub>2</sub> and solid K
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/KrF2-Photosynthesis-C.jpg" width="40%" >
 </figure>
-<br>This image was published in:
+This image was published in:
 - <i>Nature Chemistry</i>
 <br>In Your Element: [The world of krypton revisited](https://www.nature.com/articles/nchem.2538) 
 <br>Matic Lozinšek and Gary J. Schrobilgen consider krypton — namesake of Superman's home planet — its superoxidant compounds, and their roles in coaxing elements into their highest oxidation states
