@@ -28,7 +28,7 @@ Jump to: [JSI](#JSI), [Outreach](#Outreach)
 
 {% assign number_printed = number_printed | plus: 1 %}
 
-{% if even_odd > 2 %}
+{% if even_odd > 0 %}
 </div>
 {% endif %}
 
