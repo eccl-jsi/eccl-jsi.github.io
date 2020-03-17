@@ -1,6 +1,6 @@
 ---
 -
-  authors: "Uroš Prah, <b>Mirela Dragomir</b>, Tadej Rojac, Andreja Benčan, Rachel Broughton, Ching-Chang Chung, Jacob L. Jones, Rachel Sherbondy, Geoff Brennecka, Hana Uršič*"
+  authors: "U. Prah, <b>M. Dragomir</b>, T. Rojac, A. Benčan, R. Broughton, C.-C. Chung, J. L. Jones, R. Sherbondy, G. Brennecka, H. Uršič*"
   description: ""
   highlight: 0
   image: JMC-C2020-TOC.jpg
@@ -28,15 +28,14 @@
   news1: "Featured in: <a href=\"http://www.ung.si/en/news/2110/a-list-of-ten-most-prominent-articles-in-2019\">Top 10 articles in 2019 (University of Nova Gorica)</a>"
   title: "Comparing Magnetism in Isostructural Oxides A<sub>0.8</sub>La<sub>1.2</sub>MnO<sub>4.1</sub>: Anisotropic Spin Glass (A = Ba) versus Long-Range Order (A = Sr)"
 -
-  authors: "B. Michon, C. Girod, S. Badoux, J. Kačmarčík, Q. Ma, <b>M. Dragomir</b>, H. A. Dabkowska, B. D. Gaulin, J.-S. Zhou, S. Pyon, T. Takayama, H. Takagi, S. Verret, N. Doiron-Leyraud, C. Marcenat, L. Taillefer*, T. Klein&#42;"
+  authors: "U. Prah, T. Rojac, M. Wencka, <b>M. Dragomir</b>, A. Bradeško, A. Benčan, R. Sherbondy, G. Brennecka, Z. Kutnjak, B. Malič, H. Uršič*"
   description: ""
-  highlight: 1
-  image: Nature2019-TOC.jpg
+  highlight: 0
+  image: JECS2019A-TOC.jpg
   link:
-    display: "<i>Nature</i> 2019, 567, 218–222."
-    url: "http://dx.doi.org/10.1038/s41586-019-0932-x"
-  news1: "Featured in: <a href=\"https://www.eurekalert.org/pub_releases/2019-02/uota-nsr022519.php\">EurekAlert!</a> & <a href=\"https://phys.org/news/2019-02-reveals-superconductor-super.html\">Phys.org</a>"
-  title: "Thermodynamic signatures of quantum criticality in cuprate superconductors"
+    display: "<i>Journal of the European Ceramic Society</i> 2019, 39, 4122–4130."
+    url: "http://dx.doi.org/10.1016/j.jeurceramsoc.2019.05.062"
+  title: "Improving the multicaloric properties of Pb(Fe<sub>0.5</sub>Nb<sub>0.5</sub>)O<sub>3</sub> by controlling the sintering conditions and doping with manganese"
 -
   authors: "A. E. Cotman, <b>M. Lozinšek</b>, B. Wang, M. Stephan, B. Mohar*"
   description: ""
@@ -48,23 +47,14 @@
   news1: "Featured in: <a href=\"http://dx.doi.org/10.1055/s-0039-1689806\"><i>Synfacts</i></a> 2019, 15, 0905"
   title: "<i>trans</i>-Diastereoselective Ru(II)-Catalyzed Asymmetric Transfer Hydrogenation of α-Acetamido Benzocyclic Ketones via Dynamic Kinetic Resolution"
 -
-  authors: "D. Kuščer*, A. Kocjan, M. Majcen, A. Meden, <b>K. Radan</b>, J. Kovač, B. Malič"
+  authors: "H. Uršič*, A. Benčan, U. Prah, <b>M. Dragomir</b>, B. Malič"
   description: ""
   highlight: 0
-  image: CI2019-TOC.jpg
+  image: Materials2019-TOC.jpg
   link:
-    display: "<i>Ceramics International</i> 2019, 45, 10429–10437."
-    url: "http://dx.doi.org/10.1016/j.ceramint.2019.02.102"
-  title: "Evolution of phase composition and microstructure of sodium potassium niobate–based ceramic during pressure-less spark plasma sintering and post-annealing"
--
-  authors: "<b>M. Dragomir</b>*, M. Otoničar, M. Vrabelj, L. Fulanović, S. Drnovšek, T. Rojac, B. Malič"
-  description: ""
-  highlight: 0
-  image: JECS2019B-TOC.jpg
-  link:
-    display: "<i>Journal of the European Ceramic Society</i> 2019, 39, 1837–1845."
-    url: "http://dx.doi.org/10.1016/j.jeurceramsoc.2018.12.021"
-  title: "Seeding effects on the mechanochemical synthesis of 0.9Pb(Mg<sub>1/3</sub>Nb<sub>2/3</sub>)O<sub>3</sub>–0.1PbTiO<sub>3</sub>"
+    display: "<i>Materials</i> 2019, 12, 1327."
+    url: "http://dx.doi.org/10.3390/ma12081327"
+  title: "Structure and Dynamics of Ferroelectric Domains in Polycrystalline Pb(Fe<sub>1/2</sub>Nb<sub>1/2</sub>)O<sub>3</sub>"
 -
   authors: "M. Bieringer, J. R. Stewart, A. P. Grosvenor, <b>M. Dragomir</b>, J. E. Greedan*"
   description: ""
@@ -75,14 +65,24 @@
     url: "http://dx.doi.org/10.1021/acs.inorgchem.8b03419"
   title: "Quenching of Long Range Order and the Mn<sup>3+</sup> Ordered Moment in the Layered Antiferromagnet, Ba<sub><i>x</i></sub>Sr<sub>1–<i>x</i></sub>LaMnO<sub>4</sub>. A Polarized Neutron Scattering Study"
 -
-  authors: "H. Uršič*, A. Benčan, U. Prah, <b>M. Dragomir</b>, B. Malič"
+  authors: "D. Kuščer*, A. Kocjan, M. Majcen, A. Meden, <b>K. Radan</b>, J. Kovač, B. Malič"
   description: ""
   highlight: 0
-  image: Materials2019-TOC.jpg
+  image: CI2019-TOC.jpg
   link:
-    display: "<i>Materials</i> 2019, 12, 1327."
-    url: "http://dx.doi.org/10.3390/ma12081327"
-  title: "Structure and Dynamics of Ferroelectric Domains in Polycrystalline Pb(Fe<sub>1/2</sub>Nb<sub>1/2</sub>)O<sub>3</sub>"
+    display: "<i>Ceramics International</i> 2019, 45, 10429–10437."
+    url: "http://dx.doi.org/10.1016/j.ceramint.2019.02.102"
+  title: "Evolution of phase composition and microstructure of sodium potassium niobate–based ceramic during pressure-less spark plasma sintering and post-annealing"
+-
+  authors: "B. Michon, C. Girod, S. Badoux, J. Kačmarčík, Q. Ma, <b>M. Dragomir</b>, H. A. Dabkowska, B. D. Gaulin, J.-S. Zhou, S. Pyon, T. Takayama, H. Takagi, S. Verret, N. Doiron-Leyraud, C. Marcenat, L. Taillefer*, T. Klein&#42;"
+  description: ""
+  highlight: 1
+  image: Nature2019-TOC.jpg
+  link:
+    display: "<i>Nature</i> 2019, 567, 218–222."
+    url: "http://dx.doi.org/10.1038/s41586-019-0932-x"
+  news1: "Featured in: <a href=\"https://www.eurekalert.org/pub_releases/2019-02/uota-nsr022519.php\">EurekAlert!</a> & <a href=\"https://phys.org/news/2019-02-reveals-superconductor-super.html\">Phys.org</a>"
+  title: "Thermodynamic signatures of quantum criticality in cuprate superconductors"
 -
   authors: "A. Kokalj*, D. Gustinčič, M. Poberžnik, <b>M. Lozinšek</b>"
   description: ""
@@ -93,14 +93,14 @@
     url: "http://dx.doi.org/10.1016/j.apsusc.2018.12.246"
   title: "New insights into adsorption bonding of imidazole: a viable C2–H bond cleavage on copper surfaces"
 -
-  authors: "U. Prah, T. Rojac, M. Wencka, <b>M. Dragomir</b>, A. Bradeško, A. Benčan, R. Sherbondy, G. Brennecka, Z. Kutnjak, B. Malič, H. Uršič*"
+  authors: "<b>M. Dragomir</b>*, M. Otoničar, M. Vrabelj, L. Fulanović, S. Drnovšek, T. Rojac, B. Malič"
   description: ""
   highlight: 0
-  image: JECS2019A-TOC.jpg
+  image: JECS2019B-TOC.jpg
   link:
-    display: "<i>Journal of the European Ceramic Society</i> 2019, 39, 4122–4130."
-    url: "http://dx.doi.org/10.1016/j.jeurceramsoc.2019.05.062"
-  title: "Improving the multicaloric properties of Pb(Fe<sub>0.5</sub>Nb<sub>0.5</sub>)O<sub>3</sub> by controlling the sintering conditions and doping with manganese"
+    display: "<i>Journal of the European Ceramic Society</i> 2019, 39, 1837–1845."
+    url: "http://dx.doi.org/10.1016/j.jeurceramsoc.2018.12.021"
+  title: "Seeding effects on the mechanochemical synthesis of 0.9Pb(Mg<sub>1/3</sub>Nb<sub>2/3</sub>)O<sub>3</sub>–0.1PbTiO<sub>3</sub>"  
 -
   authors: "M. R. Lacroix, E. V. Bukovsky, <b>M. Lozinšek</b>, T. C. Folsom, B. S. Newell*, Y. Liu&#42;, D. V. Peryshkov&#42;, S. H. Strauss&#42;"
   description: ""
