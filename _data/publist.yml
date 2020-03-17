@@ -270,15 +270,6 @@
     url: "http://dx.doi.org/10.1016/j.jfluchem.2011.05.033"
   title: "Syntheses, structures and Raman spectra of Cd(BF<sub>4</sub>)(AF<sub>6</sub>) (A = Ta, Bi) compounds"
 -
-  authors: "M. Tramšek*, E. Goreshnik, <b>M. Lozinšek</b>, B. Žemva"
-  description: ""
-  highlight: 0
-  image: JFC2009-TOC.jpg
-  link:
-    display: "<i>Journal of Fluorine Chemistry</i> 2009, 130, 1093–1098."
-    url: "http://dx.doi.org/10.1016/j.jfluchem.2009.06.008"
-  title: "HF molecules and poly(hydrogen fluoride) anions as ligands to metal centers"
--
   authors: "<b>M. Lozinšek</b>, T. Bunič, E. Goreshnik, A. Meden, M. Tramšek, G. Tavčar, B. Žemva*"
   description: ""
   highlight: 0
@@ -287,6 +278,15 @@
     display: "<i>Journal of Solid State Chemistry</i> 2009, 182, 2897–2903."
     url: "http://dx.doi.org/10.1016/j.jssc.2009.08.004"
   title: "Syntheses, crystal structures and Raman spectra of Ba(BF<sub>4</sub>)(PF<sub>6</sub>), Ba(BF<sub>4</sub>)(AsF<sub>6</sub>) and Ba<sub>2</sub>(BF<sub>4</sub>)<sub>2</sub>(AsF<sub>6</sub>)(H<sub>3</sub>F<sub>4</sub>): the first examples of metal salts containing simultaneously tetrahedral BF<sub>4</sub><sup>−</sup> and octahedral AF<sub>6</sub><sup>−</sup> anions"
+-
+  authors: "M. Tramšek*, E. Goreshnik, <b>M. Lozinšek</b>, B. Žemva"
+  description: ""
+  highlight: 0
+  image: JFC2009-TOC.jpg
+  link:
+    display: "<i>Journal of Fluorine Chemistry</i> 2009, 130, 1093–1098."
+    url: "http://dx.doi.org/10.1016/j.jfluchem.2009.06.008"
+  title: "HF molecules and poly(hydrogen fluoride) anions as ligands to metal centers"
 #-
 #  authors: ~
 #  description: ""
