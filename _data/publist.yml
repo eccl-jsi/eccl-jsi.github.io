@@ -111,25 +111,6 @@
     url: "http://dx.doi.org/10.1021/acs.inorgchem.8b02786"
   title: "Manifestations of Weak O–H···F Hydrogen Bonding in M(H<sub>2</sub>O)<sub><i>n</i></sub>(B<sub>12</sub>F<sub>12</sub>) Salt Hydrates: Unusually Sharp Fourier Transform Infrared ν(OH) Bands and Latent Porosity (M = Mg–Ba, Co, Ni, Zn)"
 -
-  authors: "J. Bobnar, <b>M. Lozinšek</b>, G. Kapun, R. Dedryvère, C. Njel, B. Genorio*, R. Dominko&#42;"
-  description: ""
-  highlight: 0
-  image: SREP2018-TOC.jpg
-  link:
-    display: "<i>Scientific Reports</i> 2018, 8, 5819."
-    url: "http://dx.doi.org/10.1038/s41598-018-23991-2"
-  news1: "Featured in: <a href=\"https://www.nature.com/collections/fhacegjgia\">Top 100 in Materials Science</a> (Most highly accessed Materials science articles in 2018)"
-  title: "Fluorinated reduced graphene oxide as a protective layer on the metallic lithium for application in the high energy batteries"
--
-  authors: "M. Otoničar*, H. Uršič, <b>M. Dragomir</b>, A. Bradeško, G. Esteves, J. L.Jones, A. Benčan, B. Malič, T. Rojac"
-  description: ""
-  highlight: 0
-  image: AM2018-TOC.jpg
-  link:
-    display: "<i>Acta Materialia</i> 2018, 154, 14–24."
-    url: "http://dx.doi.org/10.1016/j.actamat.2018.05.028"
-  title: "Multiscale field-induced structure of (1–<i>x</i>)Pb(Mg<sub>1/3</sub>Nb<sub>2/3</sub>)O<sub>3</sub>–<i>x</i>PbTiO<sub>3</sub> ceramics from combined techniques"
--
   authors: "<b>K. Radan</b>*, B. Kmet, S. Drnovšek, U. Prah, T. Rojac, B. Malič"
   description: ""
   highlight: 0
@@ -147,6 +128,25 @@
     display: "<i>Acta Chimica Slovenica</i> 2018, 65, 679–686."
     url: "http://dx.doi.org/10.17344/acsi.2018.4373"
   title: "Room-temperature synthesis and Optical Properties of NdVO<sub>4</sub> Nanoneedles"
+-
+  authors: "M. Otoničar*, H. Uršič, <b>M. Dragomir</b>, A. Bradeško, G. Esteves, J. L.Jones, A. Benčan, B. Malič, T. Rojac"
+  description: ""
+  highlight: 0
+  image: AM2018-TOC.jpg
+  link:
+    display: "<i>Acta Materialia</i> 2018, 154, 14–24."
+    url: "http://dx.doi.org/10.1016/j.actamat.2018.05.028"
+  title: "Multiscale field-induced structure of (1–<i>x</i>)Pb(Mg<sub>1/3</sub>Nb<sub>2/3</sub>)O<sub>3</sub>–<i>x</i>PbTiO<sub>3</sub> ceramics from combined techniques"
+-
+  authors: "J. Bobnar, <b>M. Lozinšek</b>, G. Kapun, R. Dedryvère, C. Njel, B. Genorio*, R. Dominko&#42;"
+  description: ""
+  highlight: 0
+  image: SREP2018-TOC.jpg
+  link:
+    display: "<i>Scientific Reports</i> 2018, 8, 5819."
+    url: "http://dx.doi.org/10.1038/s41598-018-23991-2"
+  news1: "Featured in: <a href=\"https://www.nature.com/collections/fhacegjgia\">Top 100 in Materials Science</a> (Most highly accessed Materials science articles in 2018)"
+  title: "Fluorinated reduced graphene oxide as a protective layer on the metallic lithium for application in the high energy batteries"
 -
   authors: "D. V. Peryshkov*, E. V. Bukovsky&#42;, M. R. Lacroix, H. Wu, W. Zhou, W. M. Jones, <b>M. Lozinšek</b>, T. C. Folsom, D. L. Heyliger, T. J. Udovic, S. H. Strauss&#42;"
   description: ""
@@ -168,15 +168,6 @@
   news1: "Featured in: <a href=\"https://onlinelibrary.wiley.com/journal/18680054\"><i>Nachrichten aus der Chemie</i></a> 2017, 65, 758 (<a href=\"https://onlinelibrary.wiley.com/doi/10.1002/nadc.20174065239\">Notizen aus der Chemie</a>) & 2018, 66, 209 (<a href=\"https://onlinelibrary.wiley.com/doi/10.1002/nadc.20184071863\">Anorganische Chemie 2017</a>)"
   title: "Coordination of KrF<sub>2</sub> to a Naked Metal Cation, Mg<sup>2+</sup>"
 -
-  authors: "<b>M. Dragomir</b>*, M. Valant, M. Fanettia, Y. Mozharivskyj"
-  description: ""
-  highlight: 0
-  image: RSCA2016-TOC.jpg
-  link:
-    display: "<i>RSC Advances</i> 2016, 6, 21795–21801."
-    url: "http://dx.doi.org/10.1039/C6RA00789A"
-  title: "A facile chemical method for the synthesis of 3C–SiC nanoflakes"
--
   authors: "<b>M. Lozinšek</b>*, G. J. Schrobilgen&#42;"
   description: ""
   highlight: 1
@@ -185,6 +176,15 @@
     display: "<i>Nature Chemistry</i> 2016, 8, 732."
     url: "http://dx.doi.org/10.1038/nchem.2538"
   title: "The world of krypton revisited"
+-
+  authors: "<b>M. Dragomir</b>*, M. Valant, M. Fanettia, Y. Mozharivskyj"
+  description: ""
+  highlight: 0
+  image: RSCA2016-TOC.jpg
+  link:
+    display: "<i>RSC Advances</i> 2016, 6, 21795–21801."
+    url: "http://dx.doi.org/10.1039/C6RA00789A"
+  title: "A facile chemical method for the synthesis of 3C–SiC nanoflakes"
 -
   authors: "A. Vižintin, <b>M. Lozinšek</b>, R. K. Chellappan, D. Foix, A. Krajnc, G. Mali, G. Dražić, B. Genorio, R. Dedryvère, R. Dominko*"
   description: ""
@@ -224,15 +224,6 @@
     url: "https://journals.matheo.si/index.php/ACSi/article/view/263/"
   title: "Silver(I) Tetrafluoridooxidovanadate(V) – Ag[VOF<sub>4</sub>]"
 -
-  authors: "<b>M. Dragomir</b>*, I. Arčon, S. Gardonio, M. Valant"
-  description: ""
-  highlight: 0
-  image: AM2013-TOC.jpg
-  link:
-    display: "<i>Acta Materialia</i> 2013, 61, 1126–1135."
-    url: "http://dx.doi.org/10.1016/j.actamat.2012.10.020"
-  title: "Phase relations and optoelectronic characteristics in the NdVO<sub>4</sub>–BiVO<sub>4</sub> system"
--
   authors: "S. A. Baer, <b>M. Lozinšek</b>, F. Kraus*"
   description: ""
   highlight: 0
@@ -250,6 +241,15 @@
     display: "<i>Ceramics International</i> 2013, 39, 5963–5966."
     url: "http://dx.doi.org/10.1016/j.ceramint.2012.12.035"
   title: "Synthesis peculiarities of BiVO<sub>3</sub> perovskite"
+-
+  authors: "<b>M. Dragomir</b>*, I. Arčon, S. Gardonio, M. Valant"
+  description: ""
+  highlight: 0
+  image: AM2013-TOC.jpg
+  link:
+    display: "<i>Acta Materialia</i> 2013, 61, 1126–1135."
+    url: "http://dx.doi.org/10.1016/j.actamat.2012.10.020"
+  title: "Phase relations and optoelectronic characteristics in the NdVO<sub>4</sub>–BiVO<sub>4</sub> system"
 -
   authors: "<b>M. Lozinšek</b>*, E. Goreshnik, B. Žemva&#42;"
   description: ""
