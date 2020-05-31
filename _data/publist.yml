@@ -1,11 +1,20 @@
 ---
 -
+  authors: "J. Bitenc, A. Scafuri, K. Pirnat, <b>M. Lozinšek</b>, I. Jerman, J. Grdadolnik, B. Fraisse, R. Berthelot, L. Stievano, R. Dominko"
+  description: ""
+  highlight: 0
+  image: Submitted.jpg
+  link:
+    display: "<i>Under Review</i>"
+    url: ""
+  title: "A Case Study of a Rechargeable Calcium Metal Anode‒Organic Polymer Cathode Battery"
+-
   authors: "A. Kokalj*, <b>M. Lozinšek</b>, B. Kapun, P. Taheri, S. Neupane, P. Losada-Pérez, C. Xie, S. Stavber, D. Crespo, F. U. Renner, A. Mol, I. Milošev"
   description: ""
   highlight: 0
   image: Submitted.jpg
   link:
-    display: "<i>Under review</i>."
+    display: "<i>Under Review</i>"
     url: ""
   title: "Simplistic correlations between molecular electronic properties and inhibition efficiencies: Do they really exist?"
 -
