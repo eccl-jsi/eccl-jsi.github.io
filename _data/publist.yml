@@ -1,14 +1,5 @@
 ---
 -
-  authors: "J. D. Forero-Saboya, <b>M. Lozinšek</b>&#42;, A. Ponrouch*"
-  description: ""
-  highlight: 0
-  image: Submitted.jpg
-  link:
-    display: "<i>Under Review</i>"
-    url: ""
-  title: "Towards dry and contaminant free Ca(BF<sub>4</sub>)<sub>2</sub>-based electrolytes for Ca plating"
--
   authors: "J. Bitenc, A. Scafuri, K. Pirnat, <b>M. Lozinšek</b>, I. Jerman, J. Grdadolnik, B. Fraisse, R. Berthelot, L. Stievano, R. Dominko"
   description: ""
   highlight: 0
@@ -18,6 +9,15 @@
     url: ""
   title: "Electrochemical Performance and Mechanism of Novel Calcium Metal–Organic Battery"
 -
+  authors: "J. D. Forero-Saboya, <b>M. Lozinšek</b>&#42;, A. Ponrouch*"
+  description: ""
+  highlight: 0
+  image: Accepted.jpg
+  link:
+    display: "<i>Journal of Power Sources Advances</i> 2020"
+    url: "https://www.journals.elsevier.com/journal-of-power-sources-advances/"
+  title: "Towards dry and contaminant free Ca(BF<sub>4</sub>)<sub>2</sub>-based electrolytes for Ca plating"
+-
   authors: "A. Kokalj*, <b>M. Lozinšek</b>, B. Kapun, P. Taheri, S. Neupane, P. Losada-Pérez, C. Xie, S. Stavber, D. Crespo, F. U. Renner, A. Mol, I. Milošev"
   description: ""
   highlight: 0
@@ -26,6 +26,15 @@
     display: "<i>Corrosion Science</i> 2020, In Press."
     url: "https://doi.org/10.1016/j.corsci.2020.108856"
   title: "Simplistic correlations between molecular electronic properties and inhibition efficiencies: Do they really exist?"
+-
+  authors: "B. Malič, M. Otoničar, <b>K. Radan</b>, J. Koruza"
+  description: ""
+  highlight: 0
+  image: MSME2020.gif
+  link:
+    display: "<i>Reference Module in Materials Science and Materials Engineering</i> 2020."
+    url: "https://doi.org/10.1016/B978-0-12-803581-8.12131-9"
+  title: "Lead-Free Piezoelectric Ceramics"
 -
   authors: "U. Prah, <b>M. Dragomir</b>, T. Rojac, A. Benčan, R. Broughton, C.-C. Chung, J. L. Jones, R. Sherbondy, G. Brennecka, H. Uršič*"
   description: ""
