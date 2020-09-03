@@ -67,11 +67,12 @@ The ECCL was established and is being built by the members of the ***Department 
  **We are  looking for passionate new students to join the team!** Contact us...
  
 
-We are grateful for funding from [Jožef Stefan Institute](https://www.ijs.si/ijsw/V001/JSI), [Slovenian Research Agency - ARRS](http://www.arrs.si/en/), the Royal Society of Chemistry ([Researcher Mobility Grant](https://www.rsc.org/scienceandtechnology/funding/researcher-mobility/)), and from a [Marie Curie International Outgoing Fellowship](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en).
+We are grateful for funding from the [European Research Council](https://erc.europa.eu/), [Jožef Stefan Institute](https://www.ijs.si/ijsw/V001/JSI), [Slovenian Research Agency - ARRS](http://www.arrs.si/en/), the Royal Society of Chemistry ([Researcher Mobility Grant](https://www.rsc.org/scienceandtechnology/funding/researcher-mobility/)), and from a [Marie Curie International Outgoing Fellowship](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en).
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/JSI-logo.jpg" style="width: 150px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ARRS-logo.gif" style="width: 200px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/RSC-logo.png" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ERC-logo.png" style="width: 100px">  
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/JSI-logo.jpg" style="width: 125px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ARRS-logo.gif" style="width: 175px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/RSC-logo.png" style="width: 125px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MC-logo.jpg" style="width: 100px">
 </figure>
