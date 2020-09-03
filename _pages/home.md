@@ -71,8 +71,8 @@ We are grateful for funding from the [European Research Council - ERC](https://e
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/JSI-logo.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ARRS-logo.gif" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ARRS-logo.gif" style="width: 130px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/RSC-logo.png" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ERC-logo.png" style="width: 95px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MC-logo.jpg" style="width: 95px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MC-logo.jpg" style="width: 90px">
 </figure>
