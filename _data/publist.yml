@@ -12,10 +12,10 @@
   authors: "J. Bitenc&#42;, A. Scafuri, K. Pirnat, <b>M. Lozinšek</b>, I. Jerman, J. Grdadolnik, B. Fraisse, R. Berthelot, L. Stievano, R. Dominko*"
   description: ""
   highlight: 0
-  image: Accepted.jpg
+  image: B&S2020-TOC.jpg
   link:
     display: "<i>Batteries & Supercaps</i> 2020"
-    url: "https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/batt.202000197"
+    url: "https://doi.org/10.1002/batt.202000197"
   title: "Electrochemical Performance and Mechanism of Calcium Metal–Organic Battery"
 -
   authors: "J. D. Forero-Saboya, <b>M. Lozinšek</b>&#42;, A. Ponrouch*"
@@ -32,8 +32,8 @@
   highlight: 0
   image: PRM2020A-TOC.png
   link:
-    display: "<i>Physical Review Materials</i> 2020"
-    url: "https://journals.aps.org/prmaterials/accepted/1d079Z18E1d1d702b1366377a86dfd6fae2e33474"
+    display: "<i>Physical Review Materials</i> 2020, 4, 104406."
+    url: "https://doi.org/10.1103/PhysRevMaterials.4.104406"
   title: "Magnetic ground state of La<sub>2</sub>LiMoO<sub>6</sub>: A comparison with other Mo<sup>5+</sup> (<i>S</i> = 1/2) double perovskites"
 -
   authors: "A. Kokalj*, <b>M. Lozinšek</b>, B. Kapun, P. Taheri, S. Neupane, P. Losada-Pérez, C. Xie, S. Stavber, D. Crespo, F. U. Renner, A. Mol, I. Milošev"
