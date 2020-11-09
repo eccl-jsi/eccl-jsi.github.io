@@ -5,8 +5,8 @@
   highlight: 0
   image: Accepted.jpg
   link:
-    display: "<i>Physical Review Materials</i> 2020"
-    url: "https://journals.aps.org/prmaterials/accepted/b2071Z59I551dc0cb19924424b9d7503a61b59948"
+    display: "<i>Physical Review Materials</i> 2020, 4, 114801."
+    url: "https://doi.org/10.1103/PhysRevMaterials.4.114801"
   title: "Materials preparation, single crystal growth, and the phase diagram of the cuprate high temperature superconductor La<sub>1.6−<i>x</i></sub>Nd<sub>0.4</sub>Sr<sub><i>x</i></sub>CuO<sub>4</sub>"
 -
   authors: "J. Bitenc&#42;, A. Scafuri, K. Pirnat, <b>M. Lozinšek</b>, I. Jerman, J. Grdadolnik, B. Fraisse, R. Berthelot, L. Stievano, R. Dominko*"
