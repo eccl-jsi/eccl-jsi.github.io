@@ -26,7 +26,7 @@ We work on fluorinated materials for batteries.
 
 ### Frustrated Magnetism and Superconductivity
 We are interested in novel materials displaying exotic magnetic properties or supeconductivity.
-<br>*cf.* [*Chem. Mater.* 2019](https://doi.org/10.1021/acs.chemmater.9b01466), [*Nature* 2019](https://doi.org/10.1038/s41586-019-0932-x)
+<br>*cf.* [*Phys. Rev. Mater.* 2020](https://doi.org/10.1103/PhysRevMaterials.4.114801), [*Chem. Mater.* 2019](https://doi.org/10.1021/acs.chemmater.9b01466), [*Nature* 2019](https://doi.org/10.1038/s41586-019-0932-x)
 <br>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/KrF2-Photosynthesis-C.jpg){: style="width: 250px; float: right; border: 10px"}
