@@ -14,7 +14,7 @@ We are exploring chemistry under extreme conditions of high pressure in GPa rang
 
 ### Noble-Gas Chemistry
 We explore XeF<sub>2</sub> and KrF<sub>2</sub> coordination complexes and Lewis acid-base adducts.
-<br>*cf.* [*Angew. Chem.* 2017](http://dx.doi.org/10.1002/anie.201611534), [*Angew. Chem.* 2014](http://dx.doi.org/10.1002/anie.201406404)
+<br>*cf.* [*Angew. Chem.* 2020](#publications), [*Angew. Chem.* 2017](http://dx.doi.org/10.1002/anie.201611534), [*Angew. Chem.* 2014](http://dx.doi.org/10.1002/anie.201406404)
 <br>
 <br>
 
