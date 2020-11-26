@@ -5,8 +5,8 @@
   highlight: 0
   image: Accepted.jpg
   link:
-    display: "<i>Angewandte Chemie International Edition</i> 2020, Accepted."
-    url: "https://onlinelibrary.wiley.com/journal/15213773"
+    display: "<i>Angewandte Chemie International Edition</i> 2020, 59, Accepted Article."
+    url: "https://doi.org/10.1002/anie.202014682"
   title: "Mixed Noble-Gas Compounds of Krypton(II) and Xenon(VI); [F<sub>5</sub>Xe(FKrF)AsF<sub>6</sub>] and [F<sub>5</sub>Xe(FKrF)<sub>2</sub>AsF<sub>6</sub>]"
 -
   authors: "<b>M. Dragomir</b>, Q. Ma, J. P. Clancy, A. Ataei, P. A. Dube, S. Sharma, A. Huq, H. A. Dabkowska, L. Taillefer, B. D. Gaulin"
@@ -23,7 +23,7 @@
   highlight: 0
   image: B&S2020-TOC.jpg
   link:
-    display: "<i>Batteries & Supercaps</i> 2020"
+    display: "<i>Batteries & Supercaps</i> 2020, 3, Early View."
     url: "https://doi.org/10.1002/batt.202000197"
   title: "Electrochemical Performance and Mechanism of Calcium Metal–Organic Battery"
 -
