@@ -6,12 +6,12 @@ permalink: /pictures/
 ---
 
 # Pictures
-Jump to: [JSI](#jsi), [Outreach](#outreach)
+Jump to: [Laboratory](#laboratory), [Outreach](#outreach)
 
 (Page under construction…)
 
 
-## JSI
+## Laboratory
 
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures %}
