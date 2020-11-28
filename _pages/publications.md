@@ -52,8 +52,6 @@ Publications authored and co-authored by current team members
 </div>
 {% endif %}
 
-<p> &nbsp; </p>
-
 
 ## Full List
 
