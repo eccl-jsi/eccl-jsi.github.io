@@ -13,7 +13,7 @@ Publications authored and co-authored by current team members
 
 ## Highlights
 
-(For a full list see [below](#full-list))
+(For a [Full List](#full-list) and [Popular Science Articles](#popular science articles) in Slovene see below)
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -66,8 +66,8 @@ Publications authored and co-authored by current team members
   <hr>
 {% endfor %}
 
-<div class="clearfix"></div>
-<div class="clearfix"></div>
+<hr>
+<hr>
 
 ## Popular Science Articles
 
