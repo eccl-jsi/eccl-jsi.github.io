@@ -6,7 +6,7 @@ permalink: /pictures/
 ---
 
 # Pictures
-Jump to: [JSI](#JSI), [Outreach](#outreach)
+Jump to: [JSI](#jsi), [Outreach](#outreach)
 
 (Page under construction…)
 
