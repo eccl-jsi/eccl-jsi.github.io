@@ -1,10 +1,19 @@
 ---
 -
-  authors: "<b>M. Lozinšek</b>, M. Dragomir"
+  authors: "<b>M. Lozinšek, B. Alič, M. Dragomir, K. Radan</b>"
   description: ""
   highlight: 0
-  image: Fluorescence.jpg
+  image: NIJS2019.jpg
   link:
-    display: "<i>Novice IJS</i> 2018, 184, 19-23"
+    display: "<i>Novice IJS</i> 2019, 190, 9–13"
+    url: "https://www.ijs.si/ijsw/Arhiv%20Novic?action=AttachFile&do=get&target=Novice190.pdf"
+  title: "Kemija pod ekstremnimi pogoji"
+-
+  authors: "<b>M. Lozinšek, M. Dragomir</b>"
+  description: ""
+  highlight: 0
+  image: NIJS2018.jpg
+  link:
+    display: "<i>Novice IJS</i> 2018, 184, 19–23"
     url: "https://www.ijs.si/ijsw/Arhiv%20Novic?action=AttachFile&do=get&target=Novice184.pdf"
   title: "Fluorescenca v kuhinji"
