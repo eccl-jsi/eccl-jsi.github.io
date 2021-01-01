@@ -59,6 +59,10 @@ This small archive is our ongoing effort to provide the access to some of these 
 <br>K. Lutar, A. Jesih, B. Žemva
 <br>*Revue de Chimie Minérale* **1986**, 23, 565–571. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1986_RCM.pdf)
 
+**Twenty-five years of noble gas chemistry**   &nbsp;&nbsp;&nbsp;<font color="#e41959" size="-1">(<i>Popular Science</i>)</font>
+<br>J. Holloway 
+<br>*Chemistry in Britain* **1987**, 23(7), 658–664. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1987_CB.pdf)
+
 **Binary Fluorides of Noble-Gases and Their Compounds**   &nbsp;&nbsp;&nbsp;<font color="#e41959" size="-1">(<i>Review</i>)</font>
 <br>B. Žemva
 <br>*Croat. Chem. Acta* **1988**, 61(1), 163–187. &nbsp;[PDF](https://hrcak.srce.hr/file/259460)
