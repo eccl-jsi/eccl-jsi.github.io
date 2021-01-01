@@ -5,9 +5,27 @@
   highlight: 1
   image: ACIE2020-TOC.png
   link:
-    display: "<i>Angewandte Chemie International Edition</i> 2020, 59, Accepted Article."
+    display: "<i>Angewandte Chemie International Edition</i> 2021, 60, Accepted Article."
     url: "https://doi.org/10.1002/anie.202014682"
   title: "Mixed Noble-Gas Compounds of Krypton(II) and Xenon(VI); [F<sub>5</sub>Xe(FKrF)AsF<sub>6</sub>] and [F<sub>5</sub>Xe(FKrF)<sub>2</sub>AsF<sub>6</sub>]"
+-
+  authors: "J. Bitenc&#42;, A. Scafuri, K. Pirnat, <b>M. Lozinšek</b>, I. Jerman, J. Grdadolnik, B. Fraisse, R. Berthelot, L. Stievano, R. Dominko*"
+  description: ""
+  highlight: 0
+  image: B&S2020-TOC.jpg
+  link:
+    display: "<i>Batteries & Supercaps</i> 2021, 4, Early View."
+    url: "https://doi.org/10.1002/batt.202000197"
+  title: "Electrochemical Performance and Mechanism of Calcium Metal–Organic Battery"
+-
+  authors: "A. Kokalj*, <b>M. Lozinšek</b>, B. Kapun, P. Taheri, S. Neupane, P. Losada-Pérez, C. Xie, S. Stavber, D. Crespo, F. U. Renner, A. Mol, I. Milošev"
+  description: ""
+  highlight: 0
+  image: CorrSci2020-TOC.jpg
+  link:
+    display: "<i>Corrosion Science</i> 2021, 179, 108856."
+    url: "https://doi.org/10.1016/j.corsci.2020.108856"
+  title: "Simplistic correlations between molecular electronic properties and inhibition efficiencies: Do they really exist?"
 -
   authors: "<b>M. Dragomir</b>, Q. Ma, J. P. Clancy, A. Ataei, P. A. Dube, S. Sharma, A. Huq, H. A. Dabkowska, L. Taillefer, B. D. Gaulin"
   description: ""
@@ -17,15 +35,6 @@
     display: "<i>Physical Review Materials</i> 2020, 4, 114801."
     url: "https://doi.org/10.1103/PhysRevMaterials.4.114801"
   title: "Materials preparation, single crystal growth, and the phase diagram of the cuprate high temperature superconductor La<sub>1.6−<i>x</i></sub>Nd<sub>0.4</sub>Sr<sub><i>x</i></sub>CuO<sub>4</sub>"
--
-  authors: "J. Bitenc&#42;, A. Scafuri, K. Pirnat, <b>M. Lozinšek</b>, I. Jerman, J. Grdadolnik, B. Fraisse, R. Berthelot, L. Stievano, R. Dominko*"
-  description: ""
-  highlight: 0
-  image: B&S2020-TOC.jpg
-  link:
-    display: "<i>Batteries & Supercaps</i> 2020, 3, Early View."
-    url: "https://doi.org/10.1002/batt.202000197"
-  title: "Electrochemical Performance and Mechanism of Calcium Metal–Organic Battery"
 -
   authors: "J. D. Forero-Saboya, <b>M. Lozinšek</b>&#42;, A. Ponrouch*"
   description: ""
@@ -44,15 +53,6 @@
     display: "<i>Physical Review Materials</i> 2020, 4, 104406."
     url: "https://doi.org/10.1103/PhysRevMaterials.4.104406"
   title: "Magnetic ground state of La<sub>2</sub>LiMoO<sub>6</sub>: A comparison with other Mo<sup>5+</sup> (<i>S</i> = 1/2) double perovskites"
--
-  authors: "A. Kokalj*, <b>M. Lozinšek</b>, B. Kapun, P. Taheri, S. Neupane, P. Losada-Pérez, C. Xie, S. Stavber, D. Crespo, F. U. Renner, A. Mol, I. Milošev"
-  description: ""
-  highlight: 0
-  image: CorrSci2020-TOC.jpg
-  link:
-    display: "<i>Corrosion Science</i> 2020, 108856, In Press."
-    url: "https://doi.org/10.1016/j.corsci.2020.108856"
-  title: "Simplistic correlations between molecular electronic properties and inhibition efficiencies: Do they really exist?"
 -
   authors: "B. Malič, M. Otoničar, <b>K. Radan</b>, J. Koruza"
   description: ""
