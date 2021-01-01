@@ -26,6 +26,10 @@ This small archive is our ongoing effort to provide the access to some of these 
 <br>J. Slivnik, A. Zemljič
 <br>*Vestnik Slovenskega Kemijskega Društva* **1962**, 9(3–4), 57–59. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1962-57_VSKD.pdf)
 
+**Noble-Gas Compounds**   &nbsp;&nbsp;&nbsp;<font color="#e41959" size="-1">(<i>Review</i>)</font>
+<br>N. Bartlett
+<br>*International Science and Technology* **1964**, 33, 55–66. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1964_IST.pdf)
+
 **The Chemistry of the noble gases**   &nbsp;&nbsp;&nbsp;<font color="#e41959" size="-1">(<i>Popular Science</i>)</font>
 <br>C. L. Chernick
 <br>*Understanding the Atom Series*, U.S. Atomic Energy Commission,  **1967**, pp. 48. &nbsp;[PDF](https://www.osti.gov/includes/opennet/includes/Understanding%20the%20Atom/The%20Chemistry%20of%20Noble%20Gases.pdf)
@@ -52,8 +56,9 @@ This small archive is our ongoing effort to provide the access to some of these 
 ### 1980s
 
 **Raziskave fotokemijskih reakcij z elementarnim fluorom**
+<br>(Investigations of photochemical reactions with elementary fluorine)
 <br>A. Šmalc, K. Lutar
-<br>*Vestnik Slovenskega Kemijskega Društva* **1983**, 30(3), 345–355. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1983A_VSKD.pdf)
+<br>*Vestnik Slovenskega Kemijskega Društva* **1983**, 30(3), 345–355. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1983-345_VSKD.pdf)
 
 **Concerning XeF<sub>2</sub> interactions with XeF<sub>5</sub><sup>+</sup>MF<sub>6</sub><sup>–</sup>, the existance of XeF<sub>2</sub>&#183;XeF<sub>5</sub><sup>+</sup>RuF<sub>6</sub><sup>–</sup> and the absence of XeF<sub>2</sub>&#183;XeF<sub>5</sub><sup>+</sup>NbF<sub>6</sub><sup>–</sup>**
 <br>B. Žemva, L. Golič, J. Slivnik
