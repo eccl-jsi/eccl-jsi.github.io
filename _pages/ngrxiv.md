@@ -47,6 +47,10 @@ This small archive is our ongoing effort to provide the access to some of these 
 <br>J. Slivnik, A. Šmalc
 <br>*Proteus* **1971**, 33(6), 243–252. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1971_P.pdf)
 
+**Lively Xenon**   &nbsp;&nbsp;&nbsp;<font color="#e41959" size="-1">(<i>Audio</i>)</font>
+<br>N. Bartlett
+<br>*Men & Molecules* (Tape Cassette), American Chemical Society, **1972**. &nbsp;[MP3]({{ site.baseurl }}/ngarxiv/Lively_Xenon.mp3) (32 MB)
+
 **On the preparation of pure xenon tetrafluoride**
 <br>M. Bohinc, J. Slivnik
 <br>*Vestnik Slovenskega Kemijskega Društva* **1973**, 20, 9–12. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1973_VSKD.pdf)
