@@ -10,7 +10,7 @@ permalink: /ngrxiv
 
 Many interesting publications on the chemistry of noble gases (Ng) are unfortunately not available in digital format. 
 
-This small archive is our ongoing effort to provide the access to some of these works...
+This small archive is our ongoing effort to provide the access to some of these works ...
 
 <hr>
 
@@ -29,6 +29,10 @@ This small archive is our ongoing effort to provide the access to some of these 
 **Noble-Gas Compounds**   &nbsp;&nbsp;&nbsp;<font color="#e41959" size="-1">(<i>Review</i>)</font>
 <br>N. Bartlett
 <br>*International Science and Technology* **1964**, 33, 55–66. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1964_IST.pdf)
+
+**A Research Problem: Inert (?) Gas Compounds**   &nbsp;&nbsp;&nbsp;<font color="#e41959" size="-1">(<i>Video</i>)</font>
+<br>G. C. Pimentel, J. J. Turner
+<br>*CHEM-Study, College of Chemistry, University of California, Berkeley* **1964**. &nbsp;[MP4]({{ site.baseurl }}https://archive.org/download/research_problem_inert_gas_compounds/research_problem_inert_gas_compounds_512kb.mp4)(75 MB) [MP4]({{ site.baseurl }}https://archive.org/download/research_problem_inert_gas_compounds/research_problem_inert_gas_compounds.mp4)(594 MB)
 
 **The Chemistry of the noble gases**   &nbsp;&nbsp;&nbsp;<font color="#e41959" size="-1">(<i>Popular Science</i>)</font>
 <br>C. L. Chernick
