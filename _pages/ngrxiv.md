@@ -49,7 +49,7 @@ This small archive is our ongoing effort to provide the access to some of these 
 
 **Lively Xenon**   &nbsp;&nbsp;&nbsp;<font color="#009933" size="-1">(<i>Audio</i>)</font>
 <br>N. Bartlett, S. Finley
-<br>*Men & Molecules* (Tape Cassette), American Chemical Society, **1972**. &nbsp;[MP3]({{ site.baseurl }}/ngarxiv/Lively_Xenon.mp3) (32 MB)
+<br>*Men & Molecules* (Tape Cassette), American Chemical Society, **1972**. &nbsp;[MP3]({{ site.baseurl }}/ngarxiv/Lively_Xenon.mp3) (23 MB)
 
 **On the preparation of pure xenon tetrafluoride**
 <br>M. Bohinc, J. Slivnik
