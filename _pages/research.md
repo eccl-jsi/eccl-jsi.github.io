@@ -10,17 +10,17 @@ permalink: /research/
 
 We are exploring chemistry under extreme conditions of high pressure in GPa range (1 GPa = 10,000 bar) in combination with extreme chemical reactivity displayed by fluorine chemistry.
 
-(Page under construction...)
+(Page under construction ...)
 
 ### Noble-Gas Chemistry
 We explore XeF<sub>2</sub> and KrF<sub>2</sub> coordination complexes and Lewis acid-base adducts.
-<br>*cf.* [*Angew. Chem.* 2020](/publications), [*Angew. Chem.* 2017](http://dx.doi.org/10.1002/anie.201611534), [*Angew. Chem.* 2014](http://dx.doi.org/10.1002/anie.201406404)
+<br>*cf.* [*Angew. Chem.* 2020](https://doi.org/10.1002/anie.202014682), [*Angew. Chem.* 2017](https://doi.org/10.1002/anie.201611534), [*Angew. Chem.* 2014](https://doi.org/10.1002/anie.201406404)
 <br>
 <br>
 
 ### Fluorinated Materials
 We work on fluorinated materials for batteries.
-<br>*cf.* [*J. Power Sources Adv.* 2020](https://doi.org/10.1016/j.powera.2020.100032), [*Sci. Rep.* 2018](http://dx.doi.org/10.1038/s41598-018-23991-2), [*Chem. Mater.* 2015](http://dx.doi.org/10.1021/acs.chemmater.5b02906)
+<br>*cf.* [*J. Power Sources Adv.* 2020](https://doi.org/10.1016/j.powera.2020.100032), [*Sci. Rep.* 2018](http://doi.org/10.1038/s41598-018-23991-2), [*Chem. Mater.* 2015](http://dx.doi.org/10.1021/acs.chemmater.5b02906)
 <br>
 <br>
 
