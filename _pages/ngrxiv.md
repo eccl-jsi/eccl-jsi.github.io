@@ -32,7 +32,7 @@ This small archive is our ongoing effort to provide the access to some of these 
 
 **A Research Problem: Inert (?) Gas Compounds**   &nbsp;&nbsp;&nbsp;<font color="#009933" size="-1">(<i>Video</i>)</font>
 <br>G. C. Pimentel, J. J. Turner
-<br>*CHEM-Study*, College of Chemistry, University of California, Berkeley **1964**. &nbsp;[MP4]({{ site.baseurl }}https://archive.org/download/research_problem_inert_gas_compounds/research_problem_inert_gas_compounds_512kb.mp4) (75 MB) &nbsp;[MP4]({{ site.baseurl }}https://archive.org/download/research_problem_inert_gas_compounds/research_problem_inert_gas_compounds.mp4) (594 MB) &nbsp;<font color="#00ff00" size="-1">&#123;<i>use</i> right click & Save Link As&#125;</font>
+<br>*CHEM-Study*, College of Chemistry, University of California, Berkeley **1964**. &nbsp;[MP4]({{ site.baseurl }}https://archive.org/download/research_problem_inert_gas_compounds/research_problem_inert_gas_compounds_512kb.mp4) (75 MB) &nbsp;[MP4]({{ site.baseurl }}https://archive.org/download/research_problem_inert_gas_compounds/research_problem_inert_gas_compounds.mp4) (594 MB) &nbsp;<font color="#6699ff" size="-1">&#123;<i>use</i> right click & Save Link As&#125;</font>
 
 **The Chemistry of the noble gases**   &nbsp;&nbsp;&nbsp;<font color="#e41959" size="-1">(<i>Popular Science</i>)</font>
 <br>C. L. Chernick
@@ -49,7 +49,7 @@ This small archive is our ongoing effort to provide the access to some of these 
 
 **Lively Xenon**   &nbsp;&nbsp;&nbsp;<font color="#009933" size="-1">(<i>Audio</i>)</font>
 <br>N. Bartlett, S. Finley
-<br>*Men & Molecules* (Tape Cassette), American Chemical Society, **1972**. &nbsp;[MP3]({{ site.baseurl }}/ngarxiv/Lively_Xenon.mp3) (23 MB)
+<br>*Men & Molecules* (Tape Cassette), American Chemical Society, **1972**. &nbsp;[MP3]({{ site.baseurl }}/ngarxiv/Lively_Xenon.mp3) (23 MB) &nbsp;<font color="#6699ff" size="-1">&#123;<i>use</i> right click & Save Link As&#125;</font>
 
 **On the preparation of pure xenon tetrafluoride**
 <br>M. Bohinc, J. Slivnik
