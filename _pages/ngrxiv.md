@@ -32,7 +32,7 @@ This small archive is our ongoing effort to provide the access to some of these 
 
 **A Research Problem: Inert (?) Gas Compounds**   &nbsp;&nbsp;&nbsp;<font color="#009933" size="-1">(<i>Video</i>)</font>
 <br>G. C. Pimentel, J. J. Turner
-<br>*CHEM-Study, College of Chemistry, University of California, Berkeley* **1964**. &nbsp;[MP4]({{ site.baseurl }}https://archive.org/download/research_problem_inert_gas_compounds/research_problem_inert_gas_compounds_512kb.mp4) (75 MB) &nbsp;[MP4]({{ site.baseurl }}https://archive.org/download/research_problem_inert_gas_compounds/research_problem_inert_gas_compounds.mp4) (594 MB) &#123;use right click & *Save Link As*&#125;
+<br>*CHEM-Study*, College of Chemistry, University of California, Berkeley **1964**. &nbsp;[MP4]({{ site.baseurl }}https://archive.org/download/research_problem_inert_gas_compounds/research_problem_inert_gas_compounds_512kb.mp4) (75 MB) &nbsp;[MP4]({{ site.baseurl }}https://archive.org/download/research_problem_inert_gas_compounds/research_problem_inert_gas_compounds.mp4) (594 MB) &nbsp;<font color="#19bfe4" size="-1">&#123;*use* right click & Save Link As&#125;</font>
 
 **The Chemistry of the noble gases**   &nbsp;&nbsp;&nbsp;<font color="#e41959" size="-1">(<i>Popular Science</i>)</font>
 <br>C. L. Chernick
