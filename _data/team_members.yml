@@ -1,6 +1,6 @@
 - name: Matic Lozinšek
   photo: Matic.jpg
-  info: Assistant Professor, Senior Research Associate, Head
+  info: Assistant Professor, Senior Research Associate, Lab Founder
   email: matic.lozinsek@ijs.si
   ID: <a href='https://orcid.org/0000-0002-1864-4248'>ORCID</a>, <a href='https://scholar.google.si/citations?user=K4yfxLsAAAAJ'>Google Scholar</a>
   number_educ: 4
@@ -11,7 +11,7 @@
   
 - name: Mirela Dragomir
   photo: Mirela.jpg
-  info: Postdoctoral Associate
+  info: Postdoctoral Associate, Lab Co-Founder
   email: mirela.dragomir@ijs.si
   ID: <a href='https://orcid.org/0000-0002-4910-253X'>ORCID</a>, <a href='https://scholar.google.si/citations?hl=en&user=AyHGl34AAAAJ'>Google Scholar</a>
   number_educ: 4
@@ -22,7 +22,7 @@
 
 - name: Kristian Radan
   photo: Kristian.jpg
-  info: Postdoctoral Associate
+  info: Postdoctoral Associate, Lab Co-Founder
   email: kristian.radan@ijs.si
   ID: <a href='https://orcid.org/0000-0003-4554-3976'>ORCID</a>, <a href='https://scholar.google.si/citations?user=Chz9JMsAAAAJ'>Google Scholar</a>
   number_educ: 3
