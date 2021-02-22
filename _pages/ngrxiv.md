@@ -38,6 +38,10 @@ This small archive is our ongoing effort to provide the access to some of these 
 <br>C. L. Chernick
 <br>*Understanding the Atom Series*, U.S. Atomic Energy Commission,  **1967**, pp. 48. &nbsp;[PDF](https://www.osti.gov/includes/opennet/includes/Understanding%20the%20Atom/The%20Chemistry%20of%20Noble%20Gases.pdf)
 
+**Chemistry of the noble gases**   &nbsp;&nbsp;&nbsp;<font color="#e41959" size="-1">(<i>Review</i>)</font>
+<br>N. N. Greenwood
+<br>*Education in Chemistry* **1964**, 1, 176–188. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1964_EiC.pdf)
+
 <hr>
 
 ### 1970s
@@ -58,6 +62,14 @@ This small archive is our ongoing effort to provide the access to some of these 
 **The influence of some hexafluoromanganates(IV) on the reaction between xenon and fluorine under pressure**
 <br>J. Levec, J. Slivnik, B. Žemva
 <br>*Vestnik Slovenskega Kemijskega Društva* **1973**, 20, 13–20. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1973-13_VSKD.pdf)
+
+**The reaction of krypton difluoride with xenon hexafluoride in nonaqueous solvents**
+<br>V. D. Klimov, V. N. Prusakov, V. B. Sokolov
+<br>*Doklady Chemistry* **1974**, 217, 549–551. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1974-549_DC.pdf)
+
+**Synthesis of krypton difluoride using a thermally generated flow of atomic fluorine**
+<br>V. N. Bezmel'nitsyn, V. A. Legasov, B. B. Chaivanov
+<br>*Doklady Chemistry* **1977**, 235, 365–367. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1977-365_DC.pdf)
 
 <hr>
 
