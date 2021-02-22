@@ -34,13 +34,13 @@ This small archive is our ongoing effort to provide the access to some of these 
 <br>G. C. Pimentel, J. J. Turner
 <br>*CHEM-Study*, College of Chemistry, University of California, Berkeley **1964**. &nbsp;[MP4]({{ site.baseurl }}https://archive.org/download/research_problem_inert_gas_compounds/research_problem_inert_gas_compounds_512kb.mp4) (75 MB) &nbsp;[MP4]({{ site.baseurl }}https://archive.org/download/research_problem_inert_gas_compounds/research_problem_inert_gas_compounds.mp4) (594 MB) &nbsp;<font color="#6699ff" size="-1">&#123;<i>use</i> right click & Save Link As&#125;</font>
 
-**The Chemistry of the noble gases**   &nbsp;&nbsp;&nbsp;<font color="#e41959" size="-1">(<i>Popular Science</i>)</font>
-<br>C. L. Chernick
-<br>*Understanding the Atom Series*, U.S. Atomic Energy Commission,  **1967**, pp. 48. &nbsp;[PDF](https://www.osti.gov/includes/opennet/includes/Understanding%20the%20Atom/The%20Chemistry%20of%20Noble%20Gases.pdf)
-
 **Chemistry of the noble gases**   &nbsp;&nbsp;&nbsp;<font color="#e41959" size="-1">(<i>Review</i>)</font>
 <br>N. N. Greenwood
 <br>*Education in Chemistry* **1964**, 1, 176–188. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1964_EiC.pdf)
+
+**The Chemistry of the noble gases**   &nbsp;&nbsp;&nbsp;<font color="#e41959" size="-1">(<i>Popular Science</i>)</font>
+<br>C. L. Chernick
+<br>*Understanding the Atom Series*, U.S. Atomic Energy Commission,  **1967**, pp. 48. &nbsp;[PDF](https://www.osti.gov/includes/opennet/includes/Understanding%20the%20Atom/The%20Chemistry%20of%20Noble%20Gases.pdf)
 
 <hr>
 
