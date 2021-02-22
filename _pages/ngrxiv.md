@@ -51,7 +51,7 @@ This small archive is our ongoing effort to provide the access to some of these 
 <br>J. Slivnik, A. Šmalc
 <br>*Proteus* **1971**, 33(6), 243–252. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1971_P.pdf)
 
-**The Krypton Difluoride–Bromine Pentafluoride Binary System **
+**The Krypton Difluoride–Bromine Pentafluoride Binary System**
 <br>V. N. Prusakov, V. B. Sokolov
 <br>*Russian Journal of Physical Chemistry* **1974**, 45, 1673–1674. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1971_RJPC.pdf)
 
