@@ -19,7 +19,7 @@ This small archive is our ongoing effort to provide the access to some of these 
 **Über die Synthese von XeF<sub>6</sub>**
 <br>(On the Synthesis of XeF<sub>6</sub>)
 <br>J. Slivnik, B. Brčić, B. Volavšek, J. Marsel, V. Vrščaj, A. Šmalc, B. Frlec, Z. Zemljič
-<br>*Croat. Chem. Acta* **1962**, 34, 253. &nbsp;[PDF](https://pubweb.carnet.hr/ccacaa/wp-content/uploads/sites/182/2017/12/CCA_34_1962_253.pdf)
+<br>*Croatica Chemica Acta* **1962**, 34, 253. &nbsp;[PDF](https://pubweb.carnet.hr/ccacaa/wp-content/uploads/sites/182/2017/12/CCA_34_1962_253.pdf)
 
 **Die Synthese von Bromtrifluorid in einer Glasapparatur**
 <br>(The Synthesis of BrF<sub>3</sub> in a Glass Apparatus)
@@ -51,6 +51,10 @@ This small archive is our ongoing effort to provide the access to some of these 
 <br>J. Slivnik, A. Šmalc
 <br>*Proteus* **1971**, 33(6), 243–252. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1971_P.pdf)
 
+**The Krypton Difluoride–Bromine Pentafluoride Binary System **
+<br>V. N. Prusakov, V. B. Sokolov
+<br>*Russian Journal of Physical Chemistry* **1974**, 45, 1673–1674. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1971_RJPC.pdf)
+
 **Lively Xenon**   &nbsp;&nbsp;&nbsp;<font color="#009933" size="-1">(<i>Audio</i>)</font>
 <br>N. Bartlett, S. Finley
 <br>*Men & Molecules* (Tape Cassette), American Chemical Society, **1972**. &nbsp;[MP3]({{ site.baseurl }}/ngarxiv/Lively_Xenon.mp3) (23 MB) &nbsp;<font color="#6699ff" size="-1">&#123;<i>use</i> right click & Save Link As&#125;</font>
@@ -65,11 +69,15 @@ This small archive is our ongoing effort to provide the access to some of these 
 
 **The reaction of krypton difluoride with xenon hexafluoride in nonaqueous solvents**
 <br>V. D. Klimov, V. N. Prusakov, V. B. Sokolov
-<br>*Doklady Chemistry* **1974**, 217, 549–551. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1974-549_DC.pdf)
+<br>*Doklady Chemistry* **1974**, 217, 549–551. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1974_DC.pdf)
+
+**Production of higher fluorides of platinum group metals in anhydrous solvents**
+<br>V. B. Sokolov, Yu. V. Drobyshevskii, V. N. Prusakov, A. V. Ryzhkov, S. S. Khoroshev
+<br>*Doklady Chemistry* **1976**, 229, 503–505. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1976_DC.pdf)
 
 **Synthesis of krypton difluoride using a thermally generated flow of atomic fluorine**
 <br>V. N. Bezmel'nitsyn, V. A. Legasov, B. B. Chaivanov
-<br>*Doklady Chemistry* **1977**, 235, 365–367. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1977-365_DC.pdf)
+<br>*Doklady Chemistry* **1977**, 235, 365–367. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1977_DC.pdf)
 
 <hr>
 
@@ -94,7 +102,7 @@ This small archive is our ongoing effort to provide the access to some of these 
 
 **Binary Fluorides of Noble-Gases and Their Compounds**   &nbsp;&nbsp;&nbsp;<font color="#e41959" size="-1">(<i>Review</i>)</font>
 <br>B. Žemva
-<br>*Croat. Chem. Acta* **1988**, 61(1), 163–187. &nbsp;[PDF](https://hrcak.srce.hr/file/259460)
+<br>*Croatica Chemica Acta* **1988**, 61(1), 163–187. &nbsp;[PDF](https://hrcak.srce.hr/file/259460)
 
 **Fotokemična sinteza ksenonovega difluorida v večjem laboratorijskem merilu**
 <br>(On a Large Laboratory Scale Photochemical Synthesis of Xenon Difluoride)
@@ -107,15 +115,15 @@ This small archive is our ongoing effort to provide the access to some of these 
 
 **Vibrational spectra and crystal structure of (XeF<sub>5</sub>)<sub>2</sub>NiF<sub>6</sub> and its decomposition in the laser beam followed by raman spectroscopy**
 <br>A. Jesih, K. Lutar, I. Leban, B. Žemva
-<br>*Eur. J. Solid State Chem.* **1991**, 28, 829–840. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1991_EJSSIC.pdf)
+<br>*European Journal of Solid State and Inorganic Chemistry* **1991**, 28, 829–840. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1991_EJSSIC.pdf)
 
 **XeF<sub>2</sub>&#183;CrF<sub>4</sub> and (XeF<sub>5</sub><sup>+</sup>CrF<sub>5</sub><sup>–</sup>)<sub>4</sub>&#183;XeF<sub>4</sub>: Syntheses, crystal structures and some properties**
 <br>K. Lutar, I. Leban, T. Ogrin, B. Žemva
-<br>*Eur. J. Solid State Chem.* **1992**, 29, 713–727. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1992_EJSSIC.pdf)
+<br>*European Journal of Solid State and Inorganic Chemistry* **1992**, 29, 713–727. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1992_EJSSIC.pdf)
 
 **Syntheses, some properties and Infrared and Raman spectra of new xenon(VI) fluorometalates of rare earth elements**
 <br>M. Fele Beuermann, S. Milićev, K. Lutar, B. Žemva
-<br>*Eur. J. Solid State Chem.* **1994**, 31, 545–556. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1994_EJSSIC.pdf)
+<br>*European Journal of Solid State and Inorganic Chemistry* **1994**, 31, 545–556. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1994_EJSSIC.pdf)
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/NgRXeiv.png" width="40%">
