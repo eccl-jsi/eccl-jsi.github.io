@@ -38,6 +38,10 @@ This small archive is our ongoing effort to provide the access to some of these 
 <br>N. N. Greenwood
 <br>*Education in Chemistry* **1964**, 1, 176–188. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1964_EiC.pdf)
 
+**The compounds of the noble gases**   &nbsp;&nbsp;&nbsp;<font color="#e41959" size="-1">(<i>Review</i>)</font>
+<br>G. J. Moody, J. D. R. Thomas
+<br>*Journal of the Royal Institute of Chemistry* **1964**, 88, 31–33. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1964_JRIC.pdf)
+
 **The Chemistry of the noble gases**   &nbsp;&nbsp;&nbsp;<font color="#e41959" size="-1">(<i>Popular Science</i>)</font>
 <br>C. L. Chernick
 <br>*Understanding the Atom Series*, U.S. Atomic Energy Commission,  **1967**, pp. 48. &nbsp;[PDF](https://www.osti.gov/includes/opennet/includes/Understanding%20the%20Atom/The%20Chemistry%20of%20Noble%20Gases.pdf)
