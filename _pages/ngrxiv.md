@@ -55,10 +55,6 @@ This small archive is our ongoing effort to provide the access to some of these 
 <br>J. Slivnik, A. Šmalc
 <br>*Proteus* **1971**, 33(6), 243–252. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1971_P.pdf)
 
-**The Krypton Difluoride–Bromine Pentafluoride Binary System**
-<br>V. N. Prusakov, V. B. Sokolov
-<br>*Russian Journal of Physical Chemistry* **1974**, 45, 1673–1674. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1971_RJPC.pdf)
-
 **Lively Xenon**   &nbsp;&nbsp;&nbsp;<font color="#009933" size="-1">(<i>Audio</i>)</font>
 <br>N. Bartlett, S. Finley
 <br>*Men & Molecules* (Tape Cassette), American Chemical Society, **1972**. &nbsp;[MP3]({{ site.baseurl }}/ngarxiv/Lively_Xenon.mp3) (23 MB) &nbsp;<font color="#6699ff" size="-1">&#123;<i>use</i> right click & Save Link As&#125;</font>
@@ -70,6 +66,10 @@ This small archive is our ongoing effort to provide the access to some of these 
 **The influence of some hexafluoromanganates(IV) on the reaction between xenon and fluorine under pressure**
 <br>J. Levec, J. Slivnik, B. Žemva
 <br>*Vestnik Slovenskega Kemijskega Društva* **1973**, 20, 13–20. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1973-13_VSKD.pdf)
+
+**The Krypton Difluoride–Bromine Pentafluoride Binary System**
+<br>V. N. Prusakov, V. B. Sokolov
+<br>*Russian Journal of Physical Chemistry* **1974**, 45, 1673–1674. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1971_RJPC.pdf)
 
 **The reaction of krypton difluoride with xenon hexafluoride in nonaqueous solvents**
 <br>V. D. Klimov, V. N. Prusakov, V. B. Sokolov
