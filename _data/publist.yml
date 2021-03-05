@@ -1,11 +1,20 @@
 ---
 -
+  authors: "G. G. Prinčič, <b>M. Lozinšek</b>&#42;, J. Iskra*"
+  description: ""
+  highlight: 1
+  image: Accepted.jpg
+  link:
+    display: "<i>Dyes and Pigments</i> 2021, Accepted."
+    url: "https://www.journals.elsevier.com/dyes-and-pigments"
+  title: "Expanding the Boron Peroxide Chemistry on BODIPY Scaffold"
+-
   authors: "<b>M. Lozinšek</b>&#42;, H. P. A. Mercier&#42;, G. J. Schrobilgen*"
   description: ""
   highlight: 1
   image: ACIE2020-TOC.png
   link:
-    display: "<i>Angewandte Chemie International Edition</i> 2021, 60, Accepted Article."
+    display: "<i>Angewandte Chemie International Edition</i> 2021, 60, Early View."
     url: "https://doi.org/10.1002/anie.202014682"
   title: "Mixed Noble-Gas Compounds of Krypton(II) and Xenon(VI); [F<sub>5</sub>Xe(FKrF)AsF<sub>6</sub>] and [F<sub>5</sub>Xe(FKrF)<sub>2</sub>AsF<sub>6</sub>]"
 -
