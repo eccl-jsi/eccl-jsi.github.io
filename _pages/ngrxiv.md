@@ -79,6 +79,11 @@ This small archive is our ongoing effort to provide the access to some of these 
 <br>V. B. Sokolov, Yu. V. Drobyshevskii, V. N. Prusakov, A. V. Ryzhkov, S. S. Khoroshev
 <br>*Doklady Chemistry* **1976**, 229, 503–505. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1976_DC.pdf)
 
+**Nova sinteza kriptonovega difluorida**   &nbsp;&nbsp;&nbsp;<font color="#e41959" size="-1">(<i>Popular Science</i>)</font>
+<br>(A New Synthesis of Krypton Difluoride)
+<br>A. Šmalc, J. Slivnik
+<br>*Proteus* **1976**, 38(8), 309–311. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1976_P.pdf)
+
 **Synthesis of krypton difluoride using a thermally generated flow of atomic fluorine**
 <br>V. N. Bezmel'nitsyn, V. A. Legasov, B. B. Chaivanov
 <br>*Doklady Chemistry* **1977**, 235, 365–367. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1977_DC.pdf)
