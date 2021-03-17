@@ -45,7 +45,7 @@ Our aim is to explore and understand chemistry at extreme conditions of pressure
             <img src="{{ site.url }}{{ site.baseurl }}/images/Helicoid-C.jpg" alt="Slide 6" />
         </div>       
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Fluorescence-C.jpg" alt="Slide 7" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Novice_IJS.jpg" alt="Slide 7" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
