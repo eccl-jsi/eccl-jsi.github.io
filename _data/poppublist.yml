@@ -5,7 +5,7 @@
   highlight: 0
   image: NIJS2021.jpg
   link:
-    display: "<i>Novice IJS</i> 2021, 196, 13–20"
+    display: "<i>Novice IJS</i> 2021, 196, 13–20."
     url: "https://www.ijs.si/ijsw/Arhiv%20Novic?action=AttachFile&do=get&target=Novice196.pdf"
   title: "Kemija kriptona"
 -
@@ -14,7 +14,7 @@
   highlight: 0
   image: NIJS2019.jpg
   link:
-    display: "<i>Novice IJS</i> 2019, 190, 9–13"
+    display: "<i>Novice IJS</i> 2019, 190, 9–13."
     url: "https://www.ijs.si/ijsw/Arhiv%20Novic?action=AttachFile&do=get&target=Novice190.pdf"
   title: "Kemija pod ekstremnimi pogoji"
 -
@@ -23,6 +23,6 @@
   highlight: 0
   image: NIJS2018.jpg
   link:
-    display: "<i>Novice IJS</i> 2018, 184, 19–23"
+    display: "<i>Novice IJS</i> 2018, 184, 19–23."
     url: "https://www.ijs.si/ijsw/Arhiv%20Novic?action=AttachFile&do=get&target=Novice184.pdf"
   title: "Fluorescenca v kuhinji"
