@@ -35,4 +35,11 @@ We are interested in novel materials displaying exotic magnetic properties or su
 
 ![]({{ site.url }}{{ site.baseurl }}/images/Gasket-XeTa2-C.jpg){: style="width: 250px; float: left; border: 10px"}
 
+## EQUIPMENT
+- FT-IR spectrometer Bruker Alpha II with Platinum Diamond-ATR
+- Single-crystal X-ray diffractometer Rigaku XtaLAB Synergy-S with dual Ag/Cu micro-focus source and Dectris EIGER2 R CdTe 1M detector
+- Glovebox system composed of 2-port and 3-port Vigor gloveboxes
+- Stereo microscope Motic SMZ-171-TLED with Moticam S12 Camera
+- Spark eroder LOTO-eng SEC-400
+
 
