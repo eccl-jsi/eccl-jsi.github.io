@@ -28,18 +28,21 @@ We work on fluorinated materials for batteries.
 We are interested in novel materials displaying exotic magnetic properties or supeconductivity.
 <br>*cf.* [*Phys. Rev. Mater.* 2020](https://doi.org/10.1103/PhysRevMaterials.4.114801), [*Chem. Mater.* 2019](https://doi.org/10.1021/acs.chemmater.9b01466), [*Nature* 2019](https://doi.org/10.1038/s41586-019-0932-x)
 <br>
+<br>
+<br>
+
+## EQUIPMENT
+- Single-crystal X-ray diffractometer Rigaku XtaLAB Synergy-S with dual Ag/Cu micro-focus source and Dectris EIGER2 R CdTe 1M detector
+- Glovebox system composed of 2-port and 3-port Vigor gloveboxes
+- FT-IR spectrometer Bruker Alpha II with Platinum Diamond-ATR
+- Stereo microscope Motic SMZ-171-TLED with Moticam S12 Camera
+- Spark eroder LOTO-eng SEC-400
+<br>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/KrF2-Photosynthesis-C.jpg){: style="width: 250px; float: right; border: 10px"}
 
 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/Gasket-XeTa2-C.jpg){: style="width: 250px; float: left; border: 10px"}
-
-## EQUIPMENT
-- FT-IR spectrometer Bruker Alpha II with Platinum Diamond-ATR
-- Single-crystal X-ray diffractometer Rigaku XtaLAB Synergy-S with dual Ag/Cu micro-focus source and Dectris EIGER2 R CdTe 1M detector
-- Glovebox system composed of 2-port and 3-port Vigor gloveboxes
-- Stereo microscope Motic SMZ-171-TLED with Moticam S12 Camera
-- Spark eroder LOTO-eng SEC-400
 
 
