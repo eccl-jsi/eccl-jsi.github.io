@@ -3,7 +3,7 @@ title: "ECCL - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
-permalink: /vacancies
+permalink: 
 ---
 
 # Open positions
