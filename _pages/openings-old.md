@@ -20,7 +20,7 @@ We are looking for new enthusiastic group members!
 
 ### Applications for Ph.D. positions
 For more information and if you are interested in working with us as a Ph.D. student, please send an e-mail to [Dr. Matic Lozinšek](mailto:matic.lozinsek@ijs.si). 
-<br>Briefly describe why are you interested in our research and attach a CV, including the information about your undergraduate grades.
+<br>Briefly describe why are you interested in our research and attach a CV including the information about your undergraduate grades.
 
 <br>
 <br>
