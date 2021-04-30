@@ -61,7 +61,7 @@ This small archive is our ongoing effort to provide the access to some of these 
 
 **Noble-gas compounds**   &nbsp;&nbsp;&nbsp;<font color="#e41959" size="-1">(<i>Review</i>)</font>
 <br>N. Bartlett
-<br>*Endeavour* **1972**, 31, 107–112. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1964_E.pdf)
+<br>*Endeavour* **1972**, 31, 107–112. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1972_E.pdf)
 
 **Lively Xenon**   &nbsp;&nbsp;&nbsp;<font color="#009933" size="-1">(<i>Audio</i>)</font>
 <br>N. Bartlett, S. Finley
