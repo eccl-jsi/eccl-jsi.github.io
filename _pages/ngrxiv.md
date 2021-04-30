@@ -30,6 +30,10 @@ This small archive is our ongoing effort to provide the access to some of these 
 <br>N. Bartlett
 <br>*International Science and Technology* **1964**, 33, 55–66. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1964_IST.pdf)
 
+**The chemistry of the noble gases**   &nbsp;&nbsp;&nbsp;<font color="#e41959" size="-1">(<i>Review</i>)</font>
+<br>N. Bartlett
+<br>*Endeavour* **1964**, 23, 3–7. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1964_E.pdf)
+
 **A Research Problem: Inert (?) Gas Compounds**   &nbsp;&nbsp;&nbsp;<font color="#009933" size="-1">(<i>Video</i>)</font>
 <br>G. C. Pimentel, J. J. Turner
 <br>*CHEM-Study*, College of Chemistry, University of California, Berkeley **1964**. &nbsp;[MP4]({{ site.baseurl }}https://archive.org/download/research_problem_inert_gas_compounds/research_problem_inert_gas_compounds_512kb.mp4) (75 MB) &nbsp;[MP4]({{ site.baseurl }}https://archive.org/download/research_problem_inert_gas_compounds/research_problem_inert_gas_compounds.mp4) (594 MB) &nbsp;<font color="#6699ff" size="-1">&#123;<i>use</i> right click & Save Link As&#125;</font>
@@ -54,6 +58,10 @@ This small archive is our ongoing effort to provide the access to some of these 
 <br>(Noble-Gas Chemistry)
 <br>J. Slivnik, A. Šmalc
 <br>*Proteus* **1971**, 33(6), 243–252. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1971_P.pdf)
+
+**Noble-gas compounds**   &nbsp;&nbsp;&nbsp;<font color="#e41959" size="-1">(<i>Review</i>)</font>
+<br>N. Bartlett
+<br>*Endeavour* **1972**, 31, 107–112. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1964_E.pdf)
 
 **Lively Xenon**   &nbsp;&nbsp;&nbsp;<font color="#009933" size="-1">(<i>Audio</i>)</font>
 <br>N. Bartlett, S. Finley
