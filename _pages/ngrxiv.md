@@ -26,6 +26,10 @@ This small archive is our ongoing effort to provide the access to some of these 
 <br>J. Slivnik, A. Zemljič
 <br>*Vestnik Slovenskega Kemijskega Društva* **1962**, 9(3–4), 57–59. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1962-57_VSKD.pdf)
 
+**Unusual Oxidation States of the Noble Elements**   &nbsp;&nbsp;&nbsp;<font color="#e41959" size="-1">(<i>Review</i>)</font>
+<br>N. Bartlett
+<br>*Chemistry in Canada* **1963**, 15, 33–40. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1963_CC.pdf)
+
 **Noble-Gas Compounds**   &nbsp;&nbsp;&nbsp;<font color="#e41959" size="-1">(<i>Review</i>)</font>
 <br>N. Bartlett
 <br>*International Science and Technology* **1964**, 33, 55–66. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1964_IST.pdf)
