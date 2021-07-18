@@ -1,12 +1,12 @@
 ---
 -
-  authors: "<b>M. Dragomir</b>*, I. Arčon, P. A. Dube, J. Beam, A. Grosvenor, G. King, J. E. Greedan"
+  authors: "<b>M. Dragomir</b>*, I. Arčon, P. A. Dube, J. C. Beam, A. P. Grosvenor, G. King, J. E. Greedan"
   description: ""
   highlight: 0
   image: Accepted.jpg
   link:
-    display: "<i>Physical Review Materials</i> 2021."
-    url: "https://journals.aps.org/prmaterials/accepted/34073Z78O8216406e17c1301b6f8e2f88e55d2121"
+    display: "<i>Physical Review Materials</i> 2021, 5, 074403."
+    url: "https://doi.org/10.1103/PhysRevMaterials.5.074403"
   title: "Family of anisotropic spin glasses Ba<sub>1−<i>x</i></sub>La<sub>1+<i>x</i></sub>MnO<sub>4+<i>δ</i></sub>"
 -
   authors: "Q. Ma*, K. C. Rule, Z. W. Cronkwright, <b>M. Dragomir</b>, G. Mitchell, E. M. Smith, S. Chi, A. I. Kolesnikov, M. B. Stone, B. D. Gaulin"
