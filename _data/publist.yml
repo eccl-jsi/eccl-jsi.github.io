@@ -1,5 +1,14 @@
 ---
 -
+  authors: "<b>M. Lozinšek</b>*"
+  description: ""
+  highlight: 0
+  image: ID2021-TOC.png
+  link:
+    display: "<i>IUCrData</i> 2021, 6, x211215. &nbsp;&nbsp;(Open Access)"
+    url: "https://doi.org/10.1107/S2414314621012153" 
+  title: "Nitrosonium tetrafluoridoborate, NOBF<sub>4</sub>"
+-
   authors: "N. K. Gupta, C. McMahon, R. Sutarto, T. Shi, R. Gong, H. I. Wei, K. M. Shen, F. He, Q. Ma, <b>M. Dragomir</b>, B. D. Gaulin, D. G. Hawthorn*"
   description: ""
   highlight: 1
