@@ -9,7 +9,7 @@ permalink: /openings
 # Open positions
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/UA.png" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/UA.png" style="width: 100px">
 </figure>
 
 <b><i>A postdoc, PhD student, or researcher from any Ukrainian institution interested in inorganic chemistry, fluorine compounds, crystallography, or high-pressure research is welcome to join our laboratory. Funding is available. [Contact us!](mailto:matic.lozinsek@ijs.si)</i></b>
