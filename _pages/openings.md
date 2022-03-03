@@ -8,9 +8,17 @@ permalink: /openings
 
 # Open positions
 
+<b><i>A postdoc, PhD student, or researcher from any Ukrainian institution interested in inorganic chemistry, fluorine compounds, crystallography, or high-pressure research is welcome to join our laboratory. Funding is available. [Contact us!](mailto:matic.lozinsek@ijs.si)</b></i>
+
+Slovenian research groups offering research positions to fleeing Ukrainian scientists: [List](https://docs.google.com/spreadsheets/d/12vJgLkrlCfFhlAKYPtjnkPt1InSojKcO6-BZRn-G4e8/edit#gid=0)
+
+Follow Twitter account of [Science for Ukraine](https://twitter.com/Sci_for_Ukraine) and their [interactive map](https://scienceforukraine.eu/) for information about practical support for students and researchers directly affected by Russia's invasion of Ukraine.
+
+<br>
+<br>
+<br>
+
 We are looking for new enthusiastic group members!
-
-
 
 ### Current open positions
 
