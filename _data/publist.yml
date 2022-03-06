@@ -1,5 +1,14 @@
 ---
 -
+  authors: "Q. Ma, E. M. Smith, Z. W. Cronkwright, <b>M. Dragomir</b>, G. Mitchell, A. I. Kolesnikov, M. B. Stone, B. D. Gaulin"
+  description: ""
+  highlight: 0
+  image: PRR2022-TOC.png
+  link:
+    display: "<i>Physical Review Research</i> 2022, 4, 013175. &nbsp;&nbsp;(Open Access)"
+    url: "https://doi.org/10.1103/PhysRevResearch.4.013175"
+  title: "Dynamic parallel spin stripes from the 1/8 anomaly to the end of superconductivity in La<sub>1.6−<i>x</i></sub>Nd<sub>0.4</sub>Sr<sub><i>x</i></sub>CuO<sub>4</sub>"
+-
   authors: "<b>M. Lozinšek</b>*"
   description: ""
   highlight: 0
