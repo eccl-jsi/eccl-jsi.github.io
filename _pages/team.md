@@ -11,7 +11,7 @@ permalink: /team/
  **We are looking for an enthusiastic Ph.D. student to join the team!** [Job Openings](../openings)
 
 
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [lab visitors](#lab-visitors).
+Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [lab visitors](#lab-visitors), [alumni](#alumni).
 
 ## Staff
 {% assign number_printed = 0 %}
