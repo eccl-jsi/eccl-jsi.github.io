@@ -1,5 +1,14 @@
 ---
 -
+ authors: "T. Pavčnik, <b>M Lozinšek</b>, K. Pirnat, A. Vizintin, T. Mandai, D. Aurbach, R. Dominko, J. Bitenc*"
+  description: ""
+  highlight: 0
+  image: ACSAMI-TOC.png
+  link:
+    display: "<i>ACS Applied Materials & Interfaces</i> 2022. &nbsp;&nbsp;(Open Access)"
+    url: "https://doi.org/10.1021/acsami.2c05141"
+  title: "On the Practical Applications of the Magnesium Fluorinated Alkoxyaluminate Electrolyte in Mg Battery Cells"
+-
   authors: "Q. Ma, E. M. Smith, Z. W. Cronkwright, <b>M. Dragomir</b>, G. Mitchell, A. I. Kolesnikov, M. B. Stone, B. D. Gaulin"
   description: ""
   highlight: 0
