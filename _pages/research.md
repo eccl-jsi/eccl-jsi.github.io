@@ -33,9 +33,10 @@ We are interested in novel materials displaying exotic magnetic properties or su
 
 ## EQUIPMENT
 - Single-crystal X-ray diffractometer Rigaku XtaLAB Synergy-S with dual Ag/Cu micro-focus source and Dectris EIGER2 R CdTe 1M detector
-- Glovebox system composed of 2-port and 3-port Vigor gloveboxes
-- FT-IR spectrometer Bruker Alpha II with Platinum Diamond-ATR
-- Stereo microscope Motic SMZ-171-TLED with Moticam S12 Camera
+- Confocal Raman microscope Bruker SENTERRA II with 532-nm and 785-nm lasers
+- FT-IR spectrometer Bruker Alpha II with Platinum Diamond-ATR 
+- Glovebox system composed of 2-port and 3-port Vigor gloveboxes with integrated stereomicroscope Nikon SMZ745T
+- Stereo microscopes Olympus SZ61, Motic SMZ-171-TLED, and KRÜSS MSZ5000-TS-RL
 - Spark eroder LOTO-eng SEC-400
 <br>
 
