@@ -9,6 +9,15 @@
     url: "https://doi.org/10.1021/acscatal.3c00980"
   title: "Hydrogen-Bonding Ability of Noyori−Ikariya Catalysts Enables Stereoselective Access to CF<sub>3</sub>‑Substituted <i>syn</i>-1,2-Diols via Dynamic Kinetic Resolution"
 -
+  authors: "A. P. Jevnikar, T. Malgaj, <b>K. Radan</b>, I. Özden, M. Kušter, A. Kocjan*"
+  description: ""
+  highlight: 0
+  image: Materials2023-TOC.jpg
+  link:
+    display: "<i>Materials</i> 2023, 16, 3174. &nbsp;&nbsp;(Open Access)"
+    url: "https://doi.org/10.3390/ma16083174"
+  title: "Rheological Properties and Setting Kinetics of Bioceramic Hydraulic Cements: ProRoot MTA versus RS+"
+-
   authors: "M. Urlep, J. Cerkovnik, <b>M. Lozinšek</b>*"
   description: ""
   highlight: 0
@@ -66,7 +75,7 @@
   authors: "C. Bodin, J. D. Forero-Saboya, P. Jankowski, <b>K. Radan</b>, D. Foix, C. Courrèges, I. Yousef, R. Dedryvère, C. Davoisne, <b>M. Lozinšek</b>&#42;, A. Ponrouch*"
   description: ""
   highlight: 0
-  image: Accepted.jpg
+  image: B&S2023-TOC.jpg
   link:
     display: "<i>Batteries & Supercaps</i> 2023, 6, e202200433. &nbsp;&nbsp;(Open Access)"
     url: "https://doi.org/10.1002/batt.202200433"
