@@ -7,9 +7,9 @@ permalink: /team/
 ---
 
 # Group Members
-
+{% comment %}
  **We are looking for an enthusiastic Ph.D. student to join the team!** [Job Openings](../openings)
-
+{% endcomment %}
 
 Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [lab visitors](#lab-visitors), [alumni](#alumni).
 
