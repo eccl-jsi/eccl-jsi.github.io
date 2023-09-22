@@ -1,9 +1,18 @@
 ---
 -  
+  authors: "<b>M. Virant</b>*, A. Siljanovska, J. Cerkovnik, <b>M. Lozinšek</b>"
+  description: ""
+  highlight: 0
+  image: ID2023G-TOC.jpg
+  link:
+    display: "<i>IUCrData</i> 2023, 8, x230814. &nbsp;&nbsp;(Open Access)"
+    url: "https://doi.org/10.1107/S2414314623008143"
+  title: "3-Nitro­benzo­nitrile"
+-  
   authors: "<b>M. Lozinšek</b>*, T. Pavčnik, J. Bitenc"
   description: ""
   highlight: 0
-  image: Accepted.jpg
+  image: ID2023F-TOC.jpg
   link:
     display: "<i>IUCrData</i> 2023, 8, x230716. &nbsp;&nbsp;(Open Access)"
     url: "https://doi.org/10.1107/S2414314623007162"
