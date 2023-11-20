@@ -11,6 +11,7 @@ permalink: /awards
 ### 2023
 
 - Edward C. Henry Award for the best paper published in 2022, <b>Mirela Dragomir</b>, The Electronic Division of the American Ceramic Society, October 2023
+
 - Third place at the Student Paper Contest – Posters, <b>Olha Sanko</b>, 29th Annual Meeting of the Slovenian Chemical Society, September 2023, Portorož, Slovenia
 - Poster presentation award, <b>Erik Uran</b>, Solid-State Science & Research meeting – SCIRES 2023, June 2023, Zagreb, Croatia
 - CCDC Award for best short oral presentation, <b>Klemen Motaln</b>, 29th Slovenian-Croatian Crystallographic Meeting – SCCM29, June 2023, Topolšica, Slovenia
