@@ -38,6 +38,7 @@ We are interested in novel materials displaying exotic magnetic properties or su
 - Confocal Raman microscope Bruker SENTERRA II with 532-nm and 785-nm lasers
 - FT-IR spectrometer Bruker Alpha II with Platinum Diamond-ATR 
 - Glovebox system composed of 2-port and 3-port Vigor gloveboxes with integrated stereomicroscope Nikon SMZ745T
+- Stereo microscope Nikon SMZ25, fully motorized
 - Stereo microscopes Olympus SZ61, Motic SMZ-171-TLED, and KRÜSS MSZ5000-TS-RL
 - Spark eroder LOTO-eng SEC-400
 <br>
