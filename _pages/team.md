@@ -13,7 +13,7 @@ permalink: /team/
 
 Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [lab visitors](#lab-visitors), [alumni](#alumni).
 
-**[Awards and Recognitions](awards)** received by our team
+**[Awards and Recognitions](../awards)** received by our team
 
 ## Staff
 {% assign number_printed = 0 %}
