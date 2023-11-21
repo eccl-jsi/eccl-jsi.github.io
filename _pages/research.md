@@ -10,7 +10,7 @@ permalink: /research/
 
 We are exploring chemistry under extreme conditions of high pressure in GPa range (1 GPa = 10,000 bar) in combination with extreme chemical reactivity displayed by fluorine chemistry.
 
- **[Awards and Recognitions](awards)**
+ **[Awards and Recognitions](../awards)**
 
 (Page under construction ...)
 
