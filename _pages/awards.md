@@ -8,6 +8,8 @@ permalink: /awards
 
 # Awards and Recognitions
 
+<hr>
+
 ### 2023
 
 - Edward C. Henry Award for the best paper published in 2022, <b>Mirela Dragomir</b>, The Electronic Division of the American Ceramic Society, October 2023
@@ -20,7 +22,7 @@ permalink: /awards
 
 - Best presentation award, <b>Erik Uran</b>, 29th Slovenian-Croatian Crystallographic Meeting – SCCM29, June 2023, Topolšica, Slovenia
 
-<br>
+<hr>
 
 ### 2022
 
@@ -34,6 +36,13 @@ permalink: /awards
 
 - Best contribution in nanosciences and nanotechnologies award, <b>Klemen Motaln</b>, 14th Jozef Stefan IPSS Conference, June 2022, Kamnik, Slovenia
 
-<br>
+<hr>
+
+### 2021
+
+- [Excellent in Science 2021](http://www.aris-rs.si/en/gradivo/dokum/inc/22/LP-ARRS-2021-ENG.pdf), <b>Matic Lozinšek</b>, Slovenian Research Agency, Slovenia
+
+<hr>
+
 <br>
 <br>
