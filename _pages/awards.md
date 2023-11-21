@@ -12,7 +12,7 @@ permalink: /awards
 
 ### 2023
 
-- Edward C. Henry Award for the best paper published in 2022, <b>Mirela Dragomir</b>, The Electronic Division of the American Ceramic Society, October 2023
+- Edward C. Henry Award for the best paper published in 2022, <b>Mirela Dragomir</b>, The Electronic Division of the American Ceramic Society, October 2023, Columbus, Ohio, USA
 
 - Third place at the Student Paper Contest – Posters, <b>Olha Sanko</b>, 29th Annual Meeting of the Slovenian Chemical Society, September 2023, Portorož, Slovenia
 
@@ -40,7 +40,7 @@ permalink: /awards
 
 ### 2021
 
-- [Excellent in Science 2021](http://www.aris-rs.si/en/gradivo/dokum/inc/22/LP-ARRS-2021-ENG.pdf), <b>Matic Lozinšek</b>, Slovenian Research Agency, Slovenia
+- [Excellent in Science 2021](http://www.aris-rs.si/en/gradivo/dokum/inc/22/LP-ARRS-2021-ENG.pdf), <b>Matic Lozinšek</b>, Slovenian Research Agency, Ljubljana, Slovenia
 
 <hr>
 
