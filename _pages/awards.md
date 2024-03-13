@@ -14,6 +14,7 @@ permalink: /awards
 
 - Poster presentation award, <b>Matic Belak Vivod</b>, HERCULES School: Neutrons & Synchrotron Radiation for Science, February–March 2024, Grenoble, France
 
+<hr>
 
 ### 2023
 
