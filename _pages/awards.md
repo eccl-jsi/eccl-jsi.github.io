@@ -10,6 +10,11 @@ permalink: /awards
 
 <hr>
 
+### 2024
+
+- Poster presentation award, <b>Matic Belak Vivod</b>, HERCULES School: Neutrons & Synchrotron Radiation for Science, February–March 2024, Grenoble, France
+
+
 ### 2023
 
 - Edward C. Henry Award for the best paper published in 2022, <b>Mirela Dragomir</b>, The Electronic Division of the American Ceramic Society, October 2023, Columbus, Ohio, USA
