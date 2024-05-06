@@ -12,7 +12,7 @@
   authors: "<b>L. Šibav</b>, Ž. Gosar, T. Knaflič, Z. Jagličić, G. King, H. Nojiri, D. Arčon, <b>M. Dragomir</b>*"
   description: ""
   highlight: 0
-  image: 
+  image: arXiv.png 
   link:
     display: "<i>arXiv:2404.15732</i> 2024. &nbsp;&nbsp;"
     url: "https://doi.org/10.48550/arXiv.2404.15732"
@@ -21,7 +21,7 @@
   authors: "<b>M. Belak Vivod</b>, Z. Jagličić, G. King, T. C. Hansen, <b>M. Lozinšek</b>, <b>M. Dragomir</b>*"
   description: ""
   highlight: 0
-  image: 
+  image: arXiv.png
   link:
     display: "<i>arXiv:2404.15021</i> 2024. &nbsp;&nbsp;"
     url: "https://doi.org/10.48550/arXiv.2404.15021"
