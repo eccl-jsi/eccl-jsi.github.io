@@ -1,9 +1,36 @@
 ---
 -
+  authors: "L. Rejc, D. Knez, G. Molina-Aguirre, A. Espargaró, J. Kladnik, A. Meden, L. Blinc, <b>M. Lozinšek</b>, R. D. Jansen-van Vuuren, M. Rogan, B. A. Martek, J. Mlakar, A. Dremelj, A. Petrič, S. Gobec*, R. Sabaté*, M. Bresjanac*, B. Pinter*, J. Košmrlj*"
+  description: ""
+  highlight: 0
+  image: Accepted.png
+  link:
+    display: "<i>Biomedicine & Pharmacotherapy</i> 2024, 116616, Accepted. &nbsp;&nbsp;(Open Access)"
+    url: "https://doi.org/10.1016/j.biopha.2024.116616"
+  title: "Probing Alzheimer's pathology: Exploring the next generation of FDDNP analogues for amyloid β detection"
+-
+  authors: "<b>L. Šibav</b>, Ž. Gosar, T. Knaflič, Z. Jagličić, G. King, H. Nojiri, D. Arčon, <b>M. Dragomir</b>*"
+  description: ""
+  highlight: 0
+  image: 
+  link:
+    display: "<i>arXiv:2404.15732</i> 2024. &nbsp;&nbsp;"
+    url: "https://doi.org/10.48550/arXiv.2404.15732"
+  title: "Mechanochemical Synthesis and Magnetic Properties of the Mixed-Valent Binary Silver(I,II) Fluorides, Ag<sup>I</sup><sub>2</sub>Ag<sup>II</sup>F<sub>4</sub> and Ag<sup>I</sup>Ag<sup>II</sup>F<sub>3</sub>"
+-
+  authors: "<b>Matic Belak Vivod</b>, Z. Jagličić, G. King, T. C. Hansen, <b>M. Lozinšek</b>, <b>M. Dragomir</b>*"
+  description: ""
+  highlight: 0
+  image: 
+  link:
+    display: "<i>arXiv:2404.15021</i> 2024. &nbsp;&nbsp;"
+    url: "https://doi.org/10.48550/arXiv.2404.15021"
+  title: "Higher-magnesium-doping effects on the singlet ground state of the Shastry-Sutherland SrCu<sub>2</sub>(BO<sub>3</sub>)<sub>2</sub>"
+-
   authors: "T. Ževart, B. Pinter, <b>M. Lozinšek</b>, D. Urankar, R. D. Jansen-van Vuuren, J. Košmrlj*"
   description: ""
   highlight: 0
-  image: Accepted.jpg
+  image: DT2024-TOC.gif
   link:
     display: "<i>Dalton Transactions</i> 2024, Accepted. &nbsp;&nbsp;(Open Access)"
     url: "https://doi.org/10.1039/D4DT00195H"
