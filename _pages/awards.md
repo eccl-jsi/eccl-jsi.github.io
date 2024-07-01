@@ -12,6 +12,8 @@ permalink: /awards
 
 ### 2024
 
+- Best presentation award, <b>Klemen Motaln</b>, 29th Conference of the Serbian Crystallographic Society, June 2024, Ruma, Serbia
+
 - Poster presentation award, <b>Matic Belak Vivod</b>, HERCULES School: Neutrons & Synchrotron Radiation for Science, February–March 2024, Grenoble, France
 
 <hr>
