@@ -67,7 +67,7 @@ The ECCL was established by the members of the ***Department of Inorganic Chemis
  **Want to join the team?** **[Job Openings](openings)**
 {% endcomment %} 
 
-We are grateful for funding from the [European Research Council - ERC](https://erc.europa.eu/), [Marie Skłodowska-Curie Postdoctoral Fellowship](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en), [Marie Skłodowska-Curie Individual Fellowship](https://cordis.europa.eu/programme/id/H2020_MSCA-IF-2020), [Jožef Stefan Institute](https://www.ijs.si/ijsw/V001/JSI), [Slovenian Research and Innovation Agency - ARIS](http://www.aris-rs.si/en/), the Royal Society of Chemistry ([Researcher Mobility Grant](https://www.rsc.org/scienceandtechnology/funding/researcher-mobility/)), and from a Marie Curie International Outgoing Fellowship.
+We are grateful for funding from the [European Research Council - ERC](https://erc.europa.eu/), [Marie Skłodowska-Curie Postdoctoral Fellowship](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en), [Marie Skłodowska-Curie Individual Fellowship](https://cordis.europa.eu/programme/id/H2020_MSCA-IF-2020), [Jožef Stefan Institute](https://www.ijs.si/ijsw/V001/JSI), [Slovenian Research and Innovation Agency - ARIS](http://www.aris-rs.si/en/), the Royal Society of Chemistry ([Researcher Mobility Grant](https://www.rscbmcs.org/grants/researchermobilityfellowship/)), and from a Marie Curie International Outgoing Fellowship.
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/JSI-logo.jpg" style="width: 110px">
