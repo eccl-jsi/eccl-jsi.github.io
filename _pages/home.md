@@ -21,31 +21,36 @@ Our aim is to explore and understand chemistry at extreme conditions of pressure
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
         <li data-target="#carousel" data-slide-to="6"></li>
+        <li data-target="#carousel" data-slide-to="7"></li>
+        <li data-target="#carousel" data-slide-to="8"></li>
     </ol>
 
     <!-- Items -->
-    <div class="carousel-inner" markdown="0">
+    <div class="carousel-inner" markdown="0"> 
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/KrF2-Photosynthesis-C.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/ACS-CS-C.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Team-C.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/KrF2-Photosynthesis-C.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/CM2019-TOC-C.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Team-C.jpg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Gasket-XeTa2-C.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/CM2019-TOC-C.jpg" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/ACIE2017-TOC-C.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Gasket-XeTa2-C.jpg" alt="Slide 5" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Helicoid-C.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/ACIE2017-TOC-C.jpg" alt="Slide 6" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Helicoid-C.jpg" alt="Slide 7" />
         </div>       
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Novice_IJS.jpg" alt="Slide 7" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Novice_IJS.jpg" alt="Slide 8" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
