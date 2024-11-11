@@ -28,14 +28,14 @@ We work on fluorinated materials for batteries.
 
 ### Frustrated Magnetism and Superconductivity
 We are interested in novel materials displaying exotic magnetic properties or supeconductivity.
-<br>*cf.* [*Phys. Rev. Mater.* 2020](https://doi.org/10.1103/PhysRevMaterials.4.114801), [*Chem. Mater.* 2019](https://doi.org/10.1021/acs.chemmater.9b01466), [*Nature* 2019](https://doi.org/10.1038/s41586-019-0932-x)
+<br>*cf.* [*J. Am. Chem. Soc.* 2024](https://doi.org/10.1021/jacs.4c11772), [*Phys. Rev. Mater.* 2020](https://doi.org/10.1103/PhysRevMaterials.4.114801), [*Chem. Mater.* 2019](https://doi.org/10.1021/acs.chemmater.9b01466), [*Nature* 2019](https://doi.org/10.1038/s41586-019-0932-x)
 <br>
 <br>
 <br>
 
 ## EQUIPMENT
 - Single-crystal X-ray diffractometer Rigaku XtaLAB Synergy-S with dual Ag/Cu micro-focus source and Dectris EIGER2 R CdTe 1M detector
-- Confocal Raman microscope Bruker SENTERRA II with 532-nm and 785-nm lasers
+- Confocal Raman microscope Bruker SENTERRA II with 532-nm and 785-nm lasers and Linkam LTS420 low-temperature stage
 - NMR Bruker Avance III UltraShield 300 MHz 
 - FT-IR spectrometer Bruker Alpha II with Platinum Diamond-ATR 
 - Glovebox system composed of 2-port and 3-port Vigor gloveboxes with integrated stereomicroscope Nikon SMZ745T
