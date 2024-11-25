@@ -42,7 +42,7 @@ We are interested in novel materials displaying exotic magnetic properties or su
 - Stereo microscope Nikon SMZ25, fully motorized
 - Stereo microscopes Olympus SZ61, Motic SMZ-171-TLED, and KRÜSS MSZ5000-TS-RL
 - Spark eroder LOTO-eng SEC-400
-- Bambu Lab X1-Carbon 3D Printer
+- 3D Printer Bambu Lab X1-Carbon
 <br>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/KrF2-Photosynthesis-C.jpg){: style="width: 250px; float: right; border: 10px"}
