@@ -43,6 +43,7 @@ We are interested in novel materials displaying exotic magnetic properties or su
 - Stereo microscopes Olympus SZ61, Motic SMZ-171-TLED, and KRÜSS MSZ5000-TS-RL
 - Spark eroder LOTO-eng SEC-400
 - 3D Printer Bambu Lab X1-Carbon
+
 <br>
 <br>We are grateful for the opportunities to analyze our samples at the following large-scale user facilities: [Canadian Light Source – CLS](https://www.lightsource.ca/)  (Saskatoon, Saskatchewan, Canada); [Institut Laue–Langevin – ILL](https://www.ill.eu/) and [European Synchrotron Radiation Facility – ESRF](https://www.esrf.fr/) (Grenoble, France); [PETRA III at Deutsches Elektronen-Synchrotron – DESY](https://photon-science.desy.de/facilities/petra_iii/index_eng.html) (Hamburg, Germany).
 
