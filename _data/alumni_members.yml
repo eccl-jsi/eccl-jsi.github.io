@@ -2,11 +2,19 @@
   photo: Blaz.jpg
   duration: Left in November 2019
   info: Lab Co-Founder, Now at Lek d.d.
-  email: blaz.alic@gmail.com
+  email:
   number_educ: 2
   education1: Ph.D. in Organometallic Chemistry, Jožef Stefan International Postgraduate School, Slovenia
   education2: Diploma in Chemistry, Faculty of Chemistry and Chemical Technology, University of Ljubljana, Slovenia
   education3:
   education4:
 
+- name: Valentina Milašinović
+  photo: Valentina.jpg
+  info: MSCA Postdoctoral Fellow, Now at Ruđer Bošković Institute, Zagreb, Croatia
+  email: 
+  ID: <a href='https://orcid.org/0000-0001-6761-876X'>ORCID</a>
+  number_educ: 2
+  education1: Ph.D. in Chemistry, Faculty of Science, University of Zagreb, Croatia
+  education2: Master's Degree in Applied Chemistry, Faculty of Chemical Engineering and Technology, University of Zagreb, Croatia
 
