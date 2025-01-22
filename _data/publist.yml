@@ -1,12 +1,21 @@
 ---
 -
+  authors: "A. Siljanovska, <b>M. Virant</b>,* <b>M. Lozinšek</b>, J. Cerkovnik&#42;"
+  description: ""
+  highlight: 0
+  image: Accepted.jpg
+  link:
+    display: "<i>Inorganic Chemistry</i> 2025. &nbsp;&nbsp;"
+    url: "https://doi.org/10.1021/acs.inorgchem.4c04535"
+  title: "Ph3AsO as a Strong Hydrogen-Bond Acceptor in Cocrystals with Hydrogen Peroxide and <i>gem</i>-Dihydroperoxides"
+-
   authors: "<b>K. Motaln</b>, <b>E. Uran</b>, N. Giordano, S. Parsons, <b>M. Lozinšek</b>*"
   description: ""
   highlight: 0
   image: Accepted.jpg
   link:
     display: "<i>Journal of Applied Crystallography</i> 2025. &nbsp;&nbsp;"
-    url: ""
+    url: "https://doi.org/10.1107/S1600576725000342"
   title: "Hydrostatic behaviour of highly inert Fomblin and Halocarbon fluids as pressure-transmitting media in high-pressure experiments"
 -
   authors: "L. A. Clough, N. P. Funnell, C. J.  Ridley, D. Daisenberger, J. A. Hriljac, <b>M. Lozinšek</b>, R. J.  Angel, S. Parsons*"
@@ -15,7 +24,7 @@
   image: Accepted.jpg
   link:
     display: "<i>Journal of Applied Crystallography</i> 2025. &nbsp;&nbsp;"
-    url: ""
+    url: "https://doi.org/10.1107/S1600576725000330"
   title: "An extended thermal pressure equation of state for sodium fluoride (NaF)"
 -
   authors: "<b>E. Uran</b>, A. E. Cotman, <b>M. Lozinšek</b>*"
@@ -24,7 +33,7 @@
   image: ID2025A-TOC.jpg
   link:
     display: "<i>IUCrData</i> 2024, 10, x241249. &nbsp;&nbsp;(Open Access)"
-    url: ""
+    url: "https://doi.org/10.1107/s2414314624012495"
   title: "Methyl 2-amino-4-(morpholin-4-yl)benzo[<i>d</i>]thiazole-6-carboxylate tetartohydrate"
 -
   authors: "<b>M. Belak Vivod</b>, Z. Jagličić, G. King, T. C. Hansen, <b>M. Lozinšek</b>, <b>M. Dragomir</b>*"
