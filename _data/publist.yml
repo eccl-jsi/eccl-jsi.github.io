@@ -1,13 +1,22 @@
 ---
 -
+  authors: "B. Repič, <b>K. Radan</b>, G. Marolt, A. Benčan Golob, D. Kuščer*"
+  description: ""
+  highlight: 0
+  image: MCP2025-TOC.jpg
+  link:
+    display: "<i>Materials Chemistry and Physics</i> 2025, Accepted. &nbsp;&nbsp;(Open Access)"
+    url: "https://doi.org/10.1016/j.matchemphys.2025.130455"
+  title: "Effect of processing temperature on performance of screen-printed graphite electrodes"
+-
   authors: "A. Siljanovska, <b>M. Virant</b>,* <b>M. Lozinšek</b>, J. Cerkovnik&#42;"
   description: ""
   highlight: 0
-  image: Accepted.jpg
+  image: IC2025A-TOC.jpg
   link:
-    display: "<i>Inorganic Chemistry</i> 2025. &nbsp;&nbsp;"
+    display: "<i>Inorganic Chemistry</i> 2025, 64, Accepted. &nbsp;&nbsp;(Open Access)"
     url: "https://doi.org/10.1021/acs.inorgchem.4c04535"
-  title: "Ph3AsO as a Strong Hydrogen-Bond Acceptor in Cocrystals with Hydrogen Peroxide and <i>gem</i>-Dihydroperoxides"
+  title: "Ph<sub>3</sub>AsO as a Strong Hydrogen-Bond Acceptor in Cocrystals with Hydrogen Peroxide and <i>gem</i>-Dihydroperoxides"
 -
   authors: "<b>K. Motaln</b>, <b>E. Uran</b>, N. Giordano, S. Parsons, <b>M. Lozinšek</b>*"
   description: ""
