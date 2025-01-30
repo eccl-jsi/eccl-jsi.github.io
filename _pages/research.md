@@ -34,6 +34,7 @@ We are interested in novel materials displaying exotic magnetic properties or su
 <br>
 
 ## EQUIPMENT
+Our research group owns and operates the following instrumentation:
 - Single-crystal X-ray diffractometer Rigaku XtaLAB Synergy-S with dual Ag/Cu micro-focus source and Dectris EIGER2 R CdTe 1M detector
 - Confocal Raman microscope Bruker SENTERRA II with 532-nm and 785-nm lasers and Linkam LTS420 low-temperature stage
 - NMR Bruker Avance III UltraShield 300 MHz 
