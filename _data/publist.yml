@@ -1,5 +1,23 @@
 ---
 -
+  authors: "<b>K. Motaln</b>, <b>E. Uran</b>, N. Giordano, S. Parsons, <b>M. Lozinšek</b>*"
+  description: ""
+  highlight: 0
+  image: JApC2025A-TOC.jpg
+  link:
+    display: "<i>Journal of Applied Crystallography</i> 2025, 58. &nbsp;&nbsp;(Open Access)"
+    url: "https://doi.org/10.1107/S1600576725000342"
+  title: "Hydrostatic behaviour of highly inert Fomblin and Halocarbon fluids as pressure-transmitting media in high-pressure experiments"
+-
+  authors: "L. A. Clough, N. P. Funnell, C. J.  Ridley, D. Daisenberger, J. A. Hriljac, <b>M. Lozinšek</b>, R. J.  Angel, S. Parsons*"
+  description: ""
+  highlight: 0
+  image: JApC2025B-TOC.jpg
+  link:
+    display: "<i>Journal of Applied Crystallography</i> 2025, 58. &nbsp;&nbsp;(Open Access)"
+    url: "https://doi.org/10.1107/S1600576725000330"
+  title: "An extended thermal pressure equation of state for sodium fluoride (NaF)"
+-
   authors: "B. Repič, <b>K. Radan</b>, G. Marolt, A. Benčan Golob, D. Kuščer*"
   description: ""
   highlight: 0
@@ -17,24 +35,6 @@
     display: "<i>Inorganic Chemistry</i> 2025, 64, Accepted. &nbsp;&nbsp;(Open Access)"
     url: "https://doi.org/10.1021/acs.inorgchem.4c04535"
   title: "Ph<sub>3</sub>AsO as a Strong Hydrogen-Bond Acceptor in Cocrystals with Hydrogen Peroxide and <i>gem</i>-Dihydroperoxides"
--
-  authors: "<b>K. Motaln</b>, <b>E. Uran</b>, N. Giordano, S. Parsons, <b>M. Lozinšek</b>*"
-  description: ""
-  highlight: 0
-  image: Accepted.jpg
-  link:
-    display: "<i>Journal of Applied Crystallography</i> 2025. &nbsp;&nbsp;"
-    url: "https://doi.org/10.1107/S1600576725000342"
-  title: "Hydrostatic behaviour of highly inert Fomblin and Halocarbon fluids as pressure-transmitting media in high-pressure experiments"
--
-  authors: "L. A. Clough, N. P. Funnell, C. J.  Ridley, D. Daisenberger, J. A. Hriljac, <b>M. Lozinšek</b>, R. J.  Angel, S. Parsons*"
-  description: ""
-  highlight: 0
-  image: Accepted.jpg
-  link:
-    display: "<i>Journal of Applied Crystallography</i> 2025. &nbsp;&nbsp;"
-    url: "https://doi.org/10.1107/S1600576725000330"
-  title: "An extended thermal pressure equation of state for sodium fluoride (NaF)"
 -
   authors: "<b>E. Uran</b>, A. E. Cotman, <b>M. Lozinšek</b>*"
   description: ""
