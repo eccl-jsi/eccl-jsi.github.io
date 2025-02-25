@@ -51,7 +51,7 @@
   photo: Klemen.jpg
   info: Ph.D. Student
   email: klemen.motaln@ijs.si
-  ID: 
+  ID: <a href='https://orcid.org/0000-0003-0051-8611'>ORCID</a>
   number_educ: 2 
   education1: Ph.D. Student (Supervisor&#58; M. Lozinšek), Department of Inorganic Chemistry and Technology, Jožef Stefan Institute
   education2: Degree in Chemical Engineering, Faculty of Chemistry and Chemical Technology, University of Ljubljana, Slovenia
@@ -60,7 +60,7 @@
   photo: Erik.jpg
   info: Ph.D. Student
   email: erik.uran@ijs.si
-  ID: 
+  ID: <a href='https://orcid.org/0000-0002-5450-4090'>ORCID</a>
   number_educ: 2 
   education1: Ph.D. Student (Supervisor&#58; M. Lozinšek), Department of Inorganic Chemistry and Technology, Jožef Stefan Institute
   education2: Master's Degree in Chemistry, Faculty of Science, University of Zagreb, Croatia
@@ -73,4 +73,11 @@
   number_educ: 2 
   education1: Ph.D. Student (Supervisor&#58; M. Lozinšek), Department of Inorganic Chemistry and Technology, Jožef Stefan Institute
   education2: Master's Degree in Chemistry, V.N. Karazin Kharkiv National University, Ukraine
-  
+
+- name: Ana Siljanovska
+  photo: Ana.jpg
+  info: Ph.D. Student (finishing)
+  email: ana.siljanovska@ijs.si
+  ID: <a href='https://orcid.org/0000-0003-3428-2141'>ORCID</a>
+  number_educ: 1 
+  education1: Master's Degree in Chemistry, Faculty of Chemistry and Chemical Technology, University of Ljubljana, Slovenia 
