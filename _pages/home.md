@@ -29,7 +29,7 @@ Our aim is to explore and understand chemistry at extreme conditions of pressure
     <div class="carousel-inner" markdown="0"> 
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/ACSCS-IC-C.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/ACSCS-IC-ACC-C.jpg" alt="Slide 1" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/KrF2-Photosynthesis-C.jpg" alt="Slide 2" />
