@@ -20,6 +20,12 @@ We explore XeF<sub>2</sub> and KrF<sub>2</sub> coordination complexes and Lewis 
 <br>
 <br>
 
+### High-Pressure Experiments
+We investigate the behavior of inorganic fluorides under extreme conditions, with a focus on their structural and chemical transformations. Our research includes the development of specialized methodologies for diamond anvil cell experiments designed to safely and effectively handle highly reactive and strongly oxidizing compounds.
+<br>*cf.* [*J. Appl. Cryst.* 2024](https://doi.org/10.1107/S1600576725000342)
+<br>
+<br
+
 ### Fluorinated Materials
 We work on fluorinated materials for batteries.
 <br>*cf.* [*Batter. Supercaps* 2023](https://doi.org/10.1002/batt.202200433), [*J. Power Sources Adv.* 2020](https://doi.org/10.1016/j.powera.2020.100032), [*Sci. Rep.* 2018](http://doi.org/10.1038/s41598-018-23991-2), [*Chem. Mater.* 2015](http://dx.doi.org/10.1021/acs.chemmater.5b02906)
