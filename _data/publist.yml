@@ -5,8 +5,8 @@
   highlight: 0
   image: Accepted.jpg
   link:
-    display: "<i>Inorganic Chemistry</i> 2025. &nbsp;&nbsp;"
-    url: ""
+    display: "<i>Inorganic Chemistry</i> 2025. &nbsp;&nbsp;(Open Access)"
+    url: "https://doi.org/10.1021/acs.inorgchem.5c00465"
   title: "Pressure-Induced Comproportionation in Palladium Trifluoride"
 -
   authors: "K. Gurung, <b>E. Uran</b>, <b>K. Motaln</b>, P. Brazda, <b>K. Radan</b>, <b>M. Lozinšek</b>,* L. Palatinus&#42;"
