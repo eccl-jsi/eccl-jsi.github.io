@@ -22,7 +22,7 @@ We explore XeF<sub>2</sub> and KrF<sub>2</sub> coordination complexes and Lewis 
 
 ### High-Pressure Experiments
 We investigate the behavior of inorganic fluorides under extreme conditions, with a focus on their structural and chemical transformations. Our research includes the development of specialized methodologies for diamond anvil cell experiments designed to safely and effectively handle highly reactive and strongly oxidizing compounds.
-<br>*cf.* [*J. Appl. Cryst.* 2025](https://doi.org/10.1107/S1600576725000342)
+<br>*cf.* [*J. Appl. Cryst.* 2025](https://doi.org/10.1107/S1600576725000342), [*Inorg. Chem.* 2025](https://doi.org/10.1021/acs.inorgchem.5c00465) 
 <br>
 <br>
 
