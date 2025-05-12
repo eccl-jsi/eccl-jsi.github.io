@@ -37,6 +37,12 @@ We are interested in novel materials displaying exotic magnetic properties or su
 <br>*cf.* [*J. Am. Chem. Soc.* 2024](https://doi.org/10.1021/jacs.4c11772), [*Phys. Rev. Mater.* 2020](https://doi.org/10.1103/PhysRevMaterials.4.114801), [*Chem. Mater.* 2019](https://doi.org/10.1021/acs.chemmater.9b01466), [*Nature* 2019](https://doi.org/10.1038/s41586-019-0932-x)
 <br>
 <br>
+
+### Crystal Structure Elucidation
+X-ray diffraction is our favorite characterization technique. We are extensive users of single-crystal (SCXRD) and powder X-ray diffraction (PXRD), and we also have experience with powder neutron diffraction. Our recent interest lies in 3D electron diffraction and charge density analysis. A specialized low-temperature crystal selection and mounting method enables us to determine the crystal structures of air-sensitive compounds that decompose above −100 °C.
+<br>*cf.* examples above, [*J. Appl. Cryst.* 2025](https://doi.org/10.1107/S1600576725002456), [*Acta Cryst. C* 2025](https://doi.org/10.1107/S2053229625001706), [*Inorg. Chem.* 2025](https://doi.org/10.1021/acs.inorgchem.4c04535), [*Cryst. Growth Des.* 2024](https://doi.org/10.1021/acs.cgd.4c00342)
+<br>
+<br>
 <br>
 
 ## EQUIPMENT
