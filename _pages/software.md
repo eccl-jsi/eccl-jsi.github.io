@@ -11,12 +11,12 @@ permalink: /software.html
 Software that we developed
 <figure>
   <img src="{{ site.url }}{{ site.baseurl }}/images/CrimsonCalc_Ico.jpg" width="50" style="vertical-align: middle;"> 
-## <i>CrimsonCalc</i>
+<i>CrimsonCalc</i>
 </figure>
 
 Software optimized to fit the ruby fluorescence spectra, automatically extract the peak positions and calculate the pressure according to the Ruby2020 gauge. 
 
-Download <a href='https://portal.ijs.si/nextcloud/s/ZEmbQtTwsdaXqG9'><i><b>CrimsonCalc</b></i><a>
+Download <a href='https://portal.ijs.si/nextcloud/s/ZEmbQtTwsdaXqG9' target="_blank"><i><b>CrimsonCalc</b></i><a>
  
 <figure>
   <img src="{{ site.url }}{{ site.baseurl }}/images/Crimson_Calc.png" width="70%" style="vertical-align: middle;"> 
