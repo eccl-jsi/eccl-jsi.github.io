@@ -14,5 +14,5 @@ Software that we developed
 Software optimized to fit the ruby fluorescence spectra, automatically extract the peak positions and calculate the pressure according to the Ruby2020 gauge.
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Crimson_Calc.png" width="20%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/Crimson_Calc.png" width="50%" >
 </figure>
