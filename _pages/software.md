@@ -13,6 +13,10 @@ Software that we developed
   <img src="{{ site.url }}{{ site.baseurl }}/images/CrimsonCalc_Ico.jpg" width="50" alt="CrimsonCalc Icon" style="margin-right: 10px; vertical-align: middle">
   <h2 style="margin: 0; color: crimson;"><i>CrimsonCalc</i></h2>
 </div>
+<div style="display: flex; align-items: center; line-height: 1;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/CrimsonCalc_Ico.jpg" width="50" alt="CrimsonCalc Icon" style="margin-right: 10px;">
+  <span style="font-size: 2em; font-style: italic; color: crimson;">CrimsonCalc</span>
+</div>
 
 Software optimized to fit the ruby fluorescence spectra, automatically extract the peak positions and calculate the pressure according to the Ruby2020 gauge. 
 
