@@ -9,14 +9,7 @@ permalink: /software.html
 # Software
 
 Software that we developed
-<div style="display: flex; align-items: center;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/CrimsonCalc_Ico.jpg" alt="CrimsonCalc Icon" style="height: 1.5em; margin-right: 10px;">
-  <span style="font-size: 2em; font-style: italic; color: crimson; line-height: 1;">CrimsonCalc</span>
-</div>
-<div style="display: flex; align-items: center;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/CrimsonCalc_Ico.jpg" width="50" alt="CrimsonCalc Icon" style="margin-right: 10px; vertical-align: middle">
-  <h2 style="margin: 0; color: crimson;"><i>CrimsonCalc</i></h2>
-</div>
+<hr>
 <div style="display: flex; align-items: center; line-height: 1;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/CrimsonCalc_Ico.jpg" width="50" alt="CrimsonCalc Icon" style="margin-right: 10px;">
   <span style="font-size: 2em; font-style: italic; color: crimson;">CrimsonCalc</span>
