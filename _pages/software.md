@@ -9,6 +9,11 @@ permalink: /software.html
 # Software
 
 Software that we developed
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/CrimsonCalc_Ico.jpg" width="50" alt="CrimsonCalc Icon">
+  <h2><i>CrimsonCalc</i></h2>
+</div>
+
 <figure>
   <img src="{{ site.url }}{{ site.baseurl }}/images/CrimsonCalc_Ico.jpg" width="50" style="vertical-align: middle;"> 
 <i>CrimsonCalc</i>
