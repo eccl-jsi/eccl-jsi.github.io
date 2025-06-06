@@ -19,5 +19,5 @@ Software optimized to fit the ruby fluorescence spectra, automatically extract t
 Download <a href='https://portal.ijs.si/nextcloud/s/ZEmbQtTwsdaXqG9' target="_blank"><i><b>CrimsonCalc</b></i><a>
  
 <figure>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/Crimson_Calc.png" width="70%" style="vertical-align: middle;"> 
+  <img src="{{ site.url }}{{ site.baseurl }}/images/Crimson_Calc.png" width="100%" style="vertical-align: middle;"> 
 </figure> 
