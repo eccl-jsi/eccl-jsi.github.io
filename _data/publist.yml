@@ -1,5 +1,14 @@
 ---
 -
+  authors: "<b>M. Virant</b>, M. Lozinšek</b>"
+  description: ""
+  highlight: 0
+  image: Submitted.jpg
+  link:
+    display: "<i>Submitted</i> 2025."
+    url: ""
+  title: "<i>CrimsonCalc</i>: Calculating pressure based on the ruby fluorescence method"
+-
   authors: "<b>K. Motaln</b>, K. Gurung, <b>M. Dragomir</b>, D. Kurzydłowski,* L. Palatinus,&#42; <b>M. Lozinšek</b>&#42;"
   description: ""
   highlight: 0
