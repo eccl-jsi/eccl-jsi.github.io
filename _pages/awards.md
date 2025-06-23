@@ -12,7 +12,7 @@ permalink: /awards
 
 ### 2025
 
-- Best oral presentation award, <b>Klemen Motaln</b>, 31st Slovenian-Croatian Crystallographic Meeting – SCCM31, June 2025, Rogla, Slovenia
+- Best presentation award, <b>Klemen Motaln</b>, 31st Slovenian-Croatian Crystallographic Meeting – SCCM31, June 2025, Rogla, Slovenia
 
 <hr>
 
