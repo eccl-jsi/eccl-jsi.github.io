@@ -113,6 +113,10 @@ This small archive is our ongoing effort to provide the access to some of these 
 <br>B. Žemva, L. Golič, J. Slivnik
 <br>*Vestnik Slovenskega Kemijskega Društva* **1983**, 30(3), 365–376. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1983_VSKD.pdf)
 
+**Noble gas compounds – in the beginning**   &nbsp;&nbsp;&nbsp;<font color="#e41959" size="-1">(<i>Review</i>)</font>
+<br>C. B. Hunt
+<br>*Education in Chemistry* **1983**, 177–181. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1983_EiC.pdf)
+
 **On the synthesis of Xenon (VI) fluoroargentate (III)**
 <br>K. Lutar, A. Jesih, B. Žemva
 <br>*Revue de Chimie Minérale* **1986**, 23, 565–571. &nbsp;[PDF]({{ site.baseurl }}/ngarxiv/1986_RCM.pdf)
