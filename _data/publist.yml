@@ -3,11 +3,11 @@
   authors: "<b>E. Uran</b>, <b>M. Lozinšek</b>"
   description: ""
   highlight: 0
-  image: Submitted.jpg
+  image: Accepted.jpg
   link:
-    display: "<i>Submitted</i> 2025."
+    display: "<i>Acta Crystallographica Section C</i> 2025, accepted."
     url: ""
-  title: "Protonation of decafluorobenzophenone and decafluorobenzophenone–arsenic pentafluoride adduct"
+  title: "Protonated decafluorobenzophenone and the decafluorobenzophenone–arsenic pentafluoride adduct"
 -
   authors: "<b>M. Virant</b>, <b>M. Lozinšek</b>"
   description: ""
@@ -15,7 +15,7 @@
   image: Accepted.jpg
   link:
     display: "<i>Journal of Applied Crystallography</i> 2025, accepted."
-    url: ""
+    url: "https://doi.org/10.1107/S1600576725007216"
   title: "<i>CrimsonCalc</i>: A software tool for pressure determination based on ruby fluorescence spectra"
 -
   authors: "<b>K. Motaln</b>, K. Gurung, <b>M. Dragomir</b>, D. Kurzydłowski,* L. Palatinus,&#42; <b>M. Lozinšek</b>&#42;"
