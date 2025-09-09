@@ -19,7 +19,7 @@ Software optimized to fit the ruby fluorescence spectra, automatically extract t
 
 Download <a href='https://portal.ijs.si/nextcloud/s/ZEmbQtTwsdaXqG9' target="_blank"><i><b>CrimsonCalc</b></i></a>
 
-Reference: M. Virant, M. Lozinšek: <i>CrimsonCalc</i>: A software tool for pressure determination based on ruby fluorescence spectra, <a href='https://portal.ijs.si/nextcloud/s/ZEmbQtTwsdaXqG9' target="_blank"><i>Journal of Applied Crystallography</i> 2025</a>. 
+Reference: M. Virant, M. Lozinšek: <i>CrimsonCalc</i>: A software tool for pressure determination based on ruby fluorescence spectra, <a href='https://doi.org/10.1107/S1600576725007216' target="_blank"><i>Journal of Applied Crystallography</i> 2025</a>. 
  
 <figure>
   <img src="{{ site.url }}{{ site.baseurl }}/images/Crimson_Calc.png" width="100%" style="vertical-align: middle;"> 
