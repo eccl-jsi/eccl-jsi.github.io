@@ -5,8 +5,8 @@
   highlight: 0
   image: Accepted.jpg
   link:
-    display: "<i>Acta Crystallographica Section C</i> 2025, accepted."
-    url: ""
+    display: "<i>Acta Crystallographica Section C</i> 2025, C81. &nbsp;&nbsp;(Open Access)"
+    url: "https://doi.org/10.1107/S2053229625007697"
   title: "Protonated decafluorobenzophenone and the decafluorobenzophenone–arsenic pentafluoride adduct"
 -
   authors: "<b>M. Virant</b>*, <b>M. Lozinšek</b>&#42;"
@@ -14,7 +14,7 @@
   highlight: 0
   image: Accepted.jpg
   link:
-    display: "<i>Journal of Applied Crystallography</i> 2025, accepted."
+    display: "<i>Journal of Applied Crystallography</i> 2025, 58. &nbsp;&nbsp;(Open Access)"
     url: "https://doi.org/10.1107/S1600576725007216"
   title: "<i>CrimsonCalc</i>: A software tool for pressure determination based on ruby fluorescence spectra"
 -
