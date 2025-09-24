@@ -12,6 +12,8 @@ permalink: /awards
 
 ### 2025
 
+- Second place at the Student Paper Contest – Lectures, <b>Erik Uran</b>, 31st Annual Meeting of the Slovenian Chemical Society, September 2025, Portorož, Slovenia
+
 - Best presentation award, <b>Klemen Motaln</b>, 31st Slovenian-Croatian Crystallographic Meeting – SCCM31, June 2025, Rogla, Slovenia
 
 <hr>
