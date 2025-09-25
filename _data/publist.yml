@@ -3,7 +3,7 @@
   authors: "<b>E. Uran</b>, <b>M. Lozinšek</b>*"
   description: ""
   highlight: 0
-  image: Accepted.jpg
+  image: ACC2025B-TOC.jpg
   link:
     display: "<i>Acta Crystallographica Section C</i> 2025, C81. &nbsp;&nbsp;(Open Access)"
     url: "https://doi.org/10.1107/S2053229625007697"
@@ -12,9 +12,9 @@
   authors: "<b>M. Virant</b>*, <b>M. Lozinšek</b>&#42;"
   description: ""
   highlight: 0
-  image: Accepted.jpg
+  image: JApC2025D-TOC.jpg
   link:
-    display: "<i>Journal of Applied Crystallography</i> 2025, 58. &nbsp;&nbsp;(Open Access)"
+    display: "<i>Journal of Applied Crystallography</i> 2025, 58, 1827–1833. &nbsp;&nbsp;(Open Access)"
     url: "https://doi.org/10.1107/S1600576725007216"
   title: "<i>CrimsonCalc</i>: A software tool for pressure determination based on ruby fluorescence spectra"
 -
