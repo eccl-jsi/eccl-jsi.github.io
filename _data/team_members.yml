@@ -80,4 +80,13 @@
   email: ana.siljanovska@ijs.si
   ID: <a href='https://orcid.org/0000-0003-3428-2141'>ORCID</a>
   number_educ: 1 
-  education1: Master's Degree in Chemistry, Faculty of Chemistry and Chemical Technology, University of Ljubljana, Slovenia 
+  education1: Master's Degree in Chemistry, Faculty of Chemistry and Chemical Technology, University of Ljubljana, Slovenia
+    
+- name: Kristina Smokrović
+  photo: Kristina.jpg
+  info: Postdoctoral Associate
+  email: kristina.smokrovic@ijs.si
+  ID: <a href='https://orcid.org/0000-0002-9077-5293'>ORCID</a>, <a href='https://scholar.google.si/citations?user=o4lTekwAAAAJ'>Google Scholar</a>
+  number_educ: 2
+  education1: Ph.D. in Chemistry, Faculty of Science, University of Zagreb, Croatia
+  education2: Master's Degree in Chemistry, Faculty of Science, University of Zagreb, Croatia
