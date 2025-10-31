@@ -1,14 +1,5 @@
 ---
 -
-  authors: "<b>E. Uran</b>, <b>M. Lozinšek</b>"
-  description: ""
-  highlight: 0
-  image: Submitted.jpg
-  link:
-    display: "<i>Submitted</i> 2025. &nbsp;&nbsp;"
-    url: ""
-  title: "Hydrogen-bonded salt cocrystals of xenon difluoride and protonated perfluoroamides"
--
   authors: "A. Gradišek, <b>K. Radan</b>, <b>M. Lozinšek</b>"
   description: ""
   highlight: 0
@@ -17,6 +8,15 @@
     display: "<i>Submitted</i> 2025. &nbsp;&nbsp;"
     url: ""
   title: "Molecular Dynamics in Tetrafluoridoborate Salts of Divalent Metals Studied by Nuclear Magnetic Resonance"
+-
+  authors: "<b>E. Uran</b>, <b>M. Lozinšek</b>"
+  description: ""
+  highlight: 0
+  image: Accepted.jpg
+  link:
+    display: "<i>CrystEngComm</i> 2025, Accepted. &nbsp;&nbsp;"
+    url: ""
+  title: "Hydrogen-bonded salt cocrystals of xenon difluoride and protonated perfluoroamides"
 -
   authors: "<b>E. Uran</b>, <b>M. Lozinšek</b>*"
   description: ""
