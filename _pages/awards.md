@@ -12,7 +12,7 @@ permalink: /awards
 
 ### 2025
 
-- Excellent in Science 2025, <b>Klemen Motaln</b>, <b>Kristian Radan</b>, <b>Mirela Dragomir</b>, <b>Matic Lozinšek</b>, Slovenian Research and Innovation Agency, Ljubljana, Slovenia
+- [Excellent in Science 2025](https://www.arrs.si/sl/promocija/odlicni/inc/25/odlicni-2025.pdf), <b>Klemen Motaln</b>, <b>Kristian Radan</b>, <b>Mirela Dragomir</b>, <b>Matic Lozinšek</b>, Slovenian Research and Innovation Agency, Ljubljana, Slovenia
 
 - Second place at the Student Paper Contest – Lectures, <b>Erik Uran</b>, 31st Annual Meeting of the Slovenian Chemical Society, September 2025, Portorož, Slovenia
 
