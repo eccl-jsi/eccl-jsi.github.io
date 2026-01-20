@@ -1,17 +1,19 @@
-- image: /images/pubpic/CEC2025-Cover.jpg
+---
+-
+  image: /images/pubpic/CEC2025-Cover.jpg
   alt: "CrystEngComm 2025"
   title: "Hydrogen-bonded salt cocrystals of xenon difluoride and protonated perfluoroamides"
   text: "Short description of what’s in the photo."
   links:
-    - label: "Read more"
+      label: "Read more"
       url: /posts/sampling-setup/
-    - label: "CrystEngComm 2025, 27, 7776."
+      label: "CrystEngComm 2025, 27, 7776."
       url: https://doi.org/10.1039/D5CE00956A
-
-- image: /assets/img/gallery/photo-02.jpg
+-
+  image: /assets/img/gallery/photo-02.jpg
   alt: "Instrument close-up"
   title: "Instrument close-up"
   text: "Another short description."
   links:
-    - label: "Dataset"
+      label: "Dataset"
       url: /data/instrument-run-02/
