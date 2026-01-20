@@ -18,6 +18,16 @@
     - display: "Cover"
       url: https://pubs.acs.org/cms/10.1021/inocaj.2025.64.issue-29/asset/inocaj.2025.64.issue-29.xlargecover-2.jpg
 
+- image: IC2025B-Cover.jpg
+  alt: "Inorg. Chem. 2025"
+  title: "Pressure-Induced Comproportionation in Palladium Trifluoride"
+  text: "<i>Inorg. Chem.</i> <b>2025</b>, 64, 9026–9034."
+  links:
+    - display: "Article"
+      url: https://doi.org/10.1021/acs.inorgchem.5c00465
+    - display: "Cover"
+      url: https://pubs.acs.org/cms/10.1021/inocaj.2025.64.issue-18/asset/inocaj.2025.64.issue-18.xlargecover-3.jpg
+
 - image: ACC2025-Cover.jpg
   alt: "Acta Cryst. 2025"
   title: "Single-crystal structure of the spicy capsaicin"
@@ -27,3 +37,16 @@
       url: https://doi.org/10.1107/S2053229625001706
     - display: "Cover"
       url: https://journals.iucr.org/c/issues/2025/04/00/index.html
+
+- image: ACSCS2024-Cover.jpg
+  alt: "ACS Cent. Sci. 2024"
+  title: "Reactive Noble-Gas Compounds Explored by 3D Electron Diffraction: XeF<sub>2</sub>–MnF<sub>4</sub> Adducts and a Facile Sample Handling Procedure"
+  text: "<i>ACS Central Science</i> <b>2024</b>, <i>10</i>, 1733–1741.Acta Crystallogr.</i> 2025</b>, C81, 188–192."
+  links:
+    - display: "Article"
+      url: https://doi.org/10.1021/acscentsci.4c00815
+    - display: "Cover"
+      url: https://pubs.acs.org/cms/10.1021/acscii.2024.10.issue-9/asset/acscii.2024.10.issue-9.xlargecover-4.jpg
+
+
+
