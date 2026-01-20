@@ -10,7 +10,7 @@ permalink: /cover_gallery.html
 </p>
 
 <div class="gallery-grid">
-  {% for item in site.data.gallery %}
+  {% for item in site.data.cover_gallery %}
     <figure class="gallery-card">
       <a href="{{ item.image }}" class="gallery-image-link">
         <img src="{{ item.image }}" alt="{{ item.alt | escape }}" loading="lazy">
