@@ -1,12 +1,12 @@
 - image: CEC2025-Cover.jpg
   alt: "CrystEngComm 2025"
   title: "Hydrogen-bonded salt cocrystals of xenon difluoride and protonated perfluoroamides"
-  text: "Front Cover"
+  text: "<i>CrystEngComm</i> 2025, 27, 7776"
   links:
-    - display: "<i>CrystEngComm</i> 2025, 27, 7776."
-      url: https://doi.org/10.1039/D5CE00956A
     - display: "Article"
       url: https://doi.org/10.1039/D5CE00956A
+    - display: "Cover"
+      url: https://pubs.rsc.org/en/content/articlepdf/2025/ce/d5ce90170g
 
 - image: IC2025C-Cover.jpg
   alt: "Inorg. Chem. 2025"
@@ -15,3 +15,5 @@
   links:
     - display: "<i>Inorg. Chem.</i> 2025, 64, 14968."
       url: https://doi.org/10.1021/acs.inorgchem.5c01740
+    - display: "Cover"
+      url: https://pubs.acs.org/cms/10.1021/inocaj.2025.64.issue-29/asset/inocaj.2025.64.issue-29.xlargecover-2.jpg
