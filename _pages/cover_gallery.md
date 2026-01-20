@@ -2,7 +2,7 @@
 title: "ECCL - Cover Gallery"
 layout: page
 title: Cover Gallery
-permalink: /cover_gallery.html
+permalink: /cover-gallery.html
 ---
 
 <p>
