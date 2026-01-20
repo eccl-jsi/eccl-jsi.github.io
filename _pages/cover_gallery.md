@@ -4,7 +4,7 @@ layout: gridlay
 excerpt: "ECCL - Cover Gallery"
 sitemap: false
 permalink: /cover-gallery/
-
+---
 
 <p>
   Journal cover images associated with our publications.
