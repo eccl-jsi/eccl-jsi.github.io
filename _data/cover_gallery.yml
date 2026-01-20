@@ -1,0 +1,17 @@
+- image: /assets/img/gallery/photo-01.jpg
+  alt: "Sampling setup in the lab"
+  title: "Sampling setup"
+  text: "Short description of what’s in the photo."
+  links:
+    - label: "Read more"
+      url: /posts/sampling-setup/
+    - label: "External resource"
+      url: https://example.com
+
+- image: /assets/img/gallery/photo-02.jpg
+  alt: "Instrument close-up"
+  title: "Instrument close-up"
+  text: "Another short description."
+  links:
+    - label: "Dataset"
+      url: /data/instrument-run-02/
