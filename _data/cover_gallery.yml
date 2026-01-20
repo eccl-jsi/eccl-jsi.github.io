@@ -8,16 +8,6 @@
     - display: "Cover"
       url: https://pubs.rsc.org/en/content/articlepdf/2025/ce/d5ce90170g
 
-- image: CGD2025-Cover.jpg
-  alt: "Cryst. Growth Des. 2025"
-  title: "Optimized flux single-crystal growth of the quantum spin liquid candidate NdTa<sub>7</sub>O<sub>19</sub> and other rare-earth heptatantalates, ErTa<sub>7</sub>O<sub>19</sub> and GdTa<sub>7</sub>O<sub>19</sub>"
-  text: "<i>Cryst. Growth Des.</i> <b>2025</b>, <i>25</i>, 4646–4654."
-  links:
-    - display: "Article"
-      url: https://doi.org/10.1021/acs.cgd.5c00624
-    - display: "Cover"
-      url: https://pubs.acs.org/cms/10.1021/cgdefu.2025.25.issue-12/asset/cgdefu.2025.25.issue-12.xlargecover-4.jpg
-
 - image: IC2025C-Cover.jpg
   alt: "Inorg. Chem. 2025"
   title: "Crystal Structures of XeF<sub>2</sub>∙2PtF<sub>4</sub> and XeF<sub>2</sub>∙2PdF<sub>4</sub> Determined by 3D Electron Diffraction and Structural Models of XePtF<sub>6</sub>"
@@ -27,6 +17,16 @@
       url: https://doi.org/10.1021/acs.inorgchem.5c01740
     - display: "Cover"
       url: https://pubs.acs.org/cms/10.1021/inocaj.2025.64.issue-29/asset/inocaj.2025.64.issue-29.xlargecover-2.jpg
+
+- image: CGD2025-Cover.jpg
+  alt: "Cryst. Growth Des. 2025"
+  title: "Optimized flux single-crystal growth of the quantum spin liquid candidate NdTa<sub>7</sub>O<sub>19</sub> and other rare-earth heptatantalates, ErTa<sub>7</sub>O<sub>19</sub> and GdTa<sub>7</sub>O<sub>19</sub>"
+  text: "<i>Cryst. Growth Des.</i> <b>2025</b>, <i>25</i>, 4646–4654."
+  links:
+    - display: "Article"
+      url: https://doi.org/10.1021/acs.cgd.5c00624
+    - display: "Cover"
+      url: https://pubs.acs.org/cms/10.1021/cgdefu.2025.25.issue-12/asset/cgdefu.2025.25.issue-12.xlargecover-4.jpg
 
 - image: IC2025B-Cover.jpg
   alt: "Inorg. Chem. 2025"
