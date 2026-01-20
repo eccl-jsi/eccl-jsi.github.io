@@ -1,39 +1,50 @@
 ---
-title: "ECCL - Cover Gallery"
 layout: page
 title: Cover Gallery
-permalink: /cover_gallery.html
+permalink: /cover-gallery/
 ---
 
 <p>
-  Our articles that are featured on the journal covers:
+  Journal cover images associated with our publications.
 </p>
 
-<div class="gallery-grid">
+<div class="row cover-gallery">
   {% for item in site.data.cover_gallery %}
-    <figure class="gallery-card">
-      <a href="{{ item.image }}" class="gallery-image-link">
-        <img src="{{ item.image }}" alt="{{ item.alt | escape }}" loading="lazy">
-      </a>
+    <div class="col-sm-4 col-xs-12">
+      <figure class="cover-card">
 
-      {% if item.title %}
-        <figcaption class="gallery-caption">
-          <div class="gallery-title">{{ item.title }}</div>
+        {% assign img_path = "/images/pubpic/" | append: item.image %}
+
+        <a href="{{ img_path }}">
+          <img class="img-responsive cover-img"
+               src="{{ img_path }}"
+               alt="{{ item.alt | escape }}"
+               loading="lazy">
+        </a>
+
+        <figcaption class="cover-caption">
+
+          {% if item.title %}
+            <div class="cover-title">{{ item.title }}</div>
+          {% endif %}
+
           {% if item.text %}
-            <div class="gallery-text">{{ item.text }}</div>
+            <div class="cover-text">{{ item.text }}</div>
           {% endif %}
 
           {% if item.links %}
-            <div class="gallery-links">
+            <div class="cover-links">
               {% for l in item.links %}
-                <a href="{{ l.url }}" {% if l.url contains 'http' %}rel="noopener noreferrer"{% endif %}>
-                  {{ l.label }}
-                </a>
+                <a href="{{ l.url }}"
+                   {% if l.url contains 'http' %}rel="noopener noreferrer"{% endif %}>
+                  {{ l.display }}
+                </a>{% unless forloop.last %} &nbsp;|&nbsp; {% endunless %}
               {% endfor %}
             </div>
           {% endif %}
+
         </figcaption>
-      {% endif %}
-    </figure>
+      </figure>
+    </div>
   {% endfor %}
 </div>
