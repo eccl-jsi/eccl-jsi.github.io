@@ -6,7 +6,7 @@ permalink: /cover_gallery.html
 ---
 
 <p>
-  Intro text for the page. You can explain what visitors are seeing here.
+  Our articles that are featured on the journal covers:
 </p>
 
 <div class="gallery-grid">
