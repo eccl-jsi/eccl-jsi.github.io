@@ -68,5 +68,17 @@
     - display: "Cover"
       url: https://pubs.acs.org/cms/10.1021/acscii.2024.10.issue-9/asset/acscii.2024.10.issue-9.xlargecover-4.jpg
 
+- image: NIJS2021.jpg
+  alt: "Novice IJS 2021"
+  title: "Kemija kriptona"  
+  text: "<i>Novice IJS</i> <b>2021</b>, <i>196</i>, 13–20."
+  links:
+    - display: "Article"
+      url: ..papers/Novice IJS 196 (2021) 1,2,13-20.pdf
+    - display: "Cover"
+      url: https://www.ijs.si/ijsw/Arhiv%20Novic?action=AttachFile&do=get&target=Novice196.pdf
+
+      
+
 
 
