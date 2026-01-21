@@ -74,9 +74,19 @@
   text: "<i>Novice IJS</i> <b>2021</b>, <i>196</i>, 13–20."
   links:
     - display: "Article"
-      url: ..papers/Novice IJS 196 (2021) 1,2,13-20.pdf
+      url: https://eccl.ijs.si/cover-gallery/..papers/Novice%20IJS%20196%20(2021)%201,2,13-20.pdf
     - display: "Cover"
       url: https://www.ijs.si/ijsw/Arhiv%20Novic?action=AttachFile&do=get&target=Novice196.pdf
+
+- image: NIJS2018.jpg
+  alt: "Novice IJS 2021"
+  title: "Fluorescenca v kuhinji"  
+  text: "<i>Novice IJS</i> <b>2018</b>, <i>184</i>, 19–23."
+  links:
+    - display: "Article"
+      url: https://www.ijs.si/ijsw/Arhiv%20Novic?action=AttachFile&do=get&target=Novice184.pdf
+    - display: "Cover"
+      url: https://www.ijs.si/ijsw/Arhiv%20Novic?action=AttachFile&do=get&target=Novice184.pdf
 
       
 
