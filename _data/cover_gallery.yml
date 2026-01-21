@@ -48,6 +48,16 @@
     - display: "Cover"
       url: https://journals.iucr.org/c/issues/2025/04/00/index.html
 
+- image: IC2025A-Cover.jpg
+  alt: "Inorg. Chem. 2025"
+  title: "Ph<sub>3</sub>AsO as a Strong Hydrogen-Bond Acceptor in Cocrystals with Hydrogen Peroxide and <i>gem</i>-Dihydroperoxides"
+  text: "<<i>Inorg. Chem.</i> <b>2025</b>, <i>64</i>, 2329–2335."
+  links:
+    - display: "Article"
+      url: https://doi.org/10.1021/acs.inorgchem.4c04535
+    - display: "Cover"
+      url: https://pubs.acs.org/cms/10.1021/inocaj.2025.64.issue-5/asset/inocaj.2025.64.issue-5.xlargecover-2.jpg
+
 - image: ACSCS2024-Cover.jpg
   alt: "ACS Cent. Sci. 2024"
   title: "Reactive Noble-Gas Compounds Explored by 3D Electron Diffraction: XeF<sub>2</sub>–MnF<sub>4</sub> Adducts and a Facile Sample Handling Procedure"
