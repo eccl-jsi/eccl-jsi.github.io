@@ -10,10 +10,10 @@ permalink: /publications/
 # Publications
 
 Publications authored and co-authored by current team members
+(For a [Full List](#full-list) and [Popular Science Articles](#popular-science-articles) in Slovene see below)
+[Cover Gallery](#cover-gallery)
 
 ## Highlights
-
-(For a [Full List](#full-list) and [Popular Science Articles](#popular-science-articles) in Slovene see below)
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
