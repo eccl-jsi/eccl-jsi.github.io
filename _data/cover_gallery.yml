@@ -68,7 +68,7 @@
     - display: "Cover"
       url: https://pubs.acs.org/cms/10.1021/acscii.2024.10.issue-9/asset/acscii.2024.10.issue-9.xlargecover-4.jpg
 
-- image: NIJS2021.jpg
+- image: NIJS2021-Cover.jpg
   alt: "Novice IJS 2021"
   title: "Kemija kriptona"  
   text: "<i>Novice IJS</i> <b>2021</b>, <i>196</i>, 13–20."
@@ -78,7 +78,7 @@
     - display: "Cover"
       url: https://www.ijs.si/ijsw/Arhiv%20Novic?action=AttachFile&do=get&target=Novice196.pdf
 
-- image: NIJS2018.jpg
+- image: NIJS2018-Cover.jpg
   alt: "Novice IJS 2021"
   title: "Fluorescenca v kuhinji"  
   text: "<i>Novice IJS</i> <b>2018</b>, <i>184</i>, 19–23."
