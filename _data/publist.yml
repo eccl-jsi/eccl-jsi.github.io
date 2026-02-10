@@ -27,25 +27,16 @@
     url: ""
   title: "Phase Relationships in Homoleptic Complexes of XeF<sub>2</sub>"
 -
-  authors: "<b>K. Motaln</b>, <b>M. Virant</b>, <b>M. Lozinšek</b>"
+  authors: "<b>K. Motaln</b>, <b>M. Virant</b>, <b>M. Lozinšek</b>*"
   description: ""
   highlight: 0
-  image: Submitted.jpg
+  image: Accepted.jpg
   link:
-    display: "<i>Submitted</i> 2025. &nbsp;&nbsp;"
+    display: "<i>Inorganic Chemistry</i> 2026, Accepted. &nbsp;&nbsp;"
     url: ""
   title: "Coordination of XeF<sub>2</sub> to Fluoridometal Cations: The Adduct Cations [PtF<sub>3</sub>(XeF<sub>2</sub>)<sub>3</sub>]<sup>+</sup> and [PdF<sub>3</sub>(XeF<sub>2</sub>)<sub>3</sub>]<sup>+</sup>"
 -
-  authors: "M. Urlep, <b>M. Lozinšek</b>, J. Cerkovnik"
-  description: ""
-  highlight: 0
-  image: ACSO2026-TOC.gif
-  link:
-    display: "<i>ACS Omega</i> 2026, Accepted. &nbsp;&nbsp;"
-    url: "https://doi.org/10.1021/acsomega.5c09674"
-  title: "The palladium [<sup><i>t</i>-Bu</sup>(PCP)PdOH] pincer complex as a catalyst in the Michael reaction"
--
-  authors: "A. Gradišek, <b>K. Radan</b>, <b>M. Lozinšek</b>"
+  authors: "A. Gradišek*, <b>K. Radan</b>, <b>M. Lozinšek</b>"
   description: ""
   highlight: 0
   image: Accepted.jpg
@@ -53,6 +44,15 @@
     display: "<i>ChemPhysChem</i> 2026, Accepted. &nbsp;&nbsp;"
     url: ""
   title: "Molecular Dynamics in Tetrafluoridoborate Salts of Divalent Metals Studied by Nuclear Magnetic Resonance"
+-
+  authors: "M. Urlep, <b>M. Lozinšek</b>, J. Cerkovnik*"
+  description: ""
+  highlight: 0
+  image: ACSO2026-TOC.gif
+  link:
+    display: "<i>ACS Omega</i> 2026, 11, 7833–7840. &nbsp;&nbsp;"
+    url: "https://doi.org/10.1021/acsomega.5c09674"
+  title: "The palladium [<sup><i>t</i>-Bu</sup>(PCP)PdOH] pincer complex as a catalyst in the Michael reaction"
 -
   authors: "T. Sotelšek, M. Janák, S. Šturm, S. S. Parapari, N. Gračanin, <b>K. Radan</b>, M. A. Gülgün, S. Milovská, M. Vrabec"
   description: ""
