@@ -1,23 +1,5 @@
 ---
 -
-  authors: "<b>E. Uran</b>, <b>K. Radan</b>, <b>M. Lozinšek</b>"
-  description: ""
-  highlight: 0
-  image: Accepted.jpg
-  link:
-    display: "<i>IUCrData</i> 2026, Accepted. &nbsp;&nbsp;"
-    url: ""
-  title: "Redetermination of the crystal structure of arsenic tribromide, AsBr<sub>3</sub>"
--
-  authors: "<b>K. Motaln</b>, <b>M. Lozinšek</b>"
-  description: ""
-  highlight: 0
-  image: Accepted.jpg
-  link:
-    display: "<i>Acta Chimica Slovenica</i> 2026, Accepted. &nbsp;&nbsp;"
-    url: "https://acsi-journal.eu/index.php/ACSi/article/view/9768"
-  title: "Structural investigations of the XeF<sub>2</sub>–PtF<sub>5</sub> system: crystal structures of [Xe<sub>2</sub>F<sub>3</sub>][PtF<sub>6</sub>]·XeF<sub>2</sub>, [Xe<sub>2</sub>F<sub>3</sub>][PtF<sub>6</sub>], and [XeF][PtF<sub>6</sub>]"
--
   authors: "<b>K. Motaln</b>, K. Gurung, <b>M. Dragomir</b>, L. Palatinus, <b>M. Lozinšek</b>"
   description: ""
   highlight: 0
@@ -36,30 +18,48 @@
     url: ""
   title: "Phase Relationships in Homoleptic Complexes of XeF<sub>2</sub>"
 -
-  authors: "<b>K. Motaln</b>, <b>M. Virant</b>, <b>M. Lozinšek</b>*"
+  authors: "<b>E. Uran</b>, <b>K. Radan</b>, <b>M. Lozinšek</b>*"
   description: ""
   highlight: 0
-  image: IC2026A-TOC.gif
+  image: Accepted.jpg
   link:
-    display: "<i>Inorganic Chemistry</i> 2026, Accepted. &nbsp;&nbsp;"
-    url: "https://doi.org/10.1021/acs.inorgchem.5c05940"
-  title: "Coordination of XeF<sub>2</sub> to Fluoridometal Cations: The Adduct Cations [PtF<sub>3</sub>(XeF<sub>2</sub>)<sub>3</sub>]<sup>+</sup> and [PdF<sub>3</sub>(XeF<sub>2</sub>)<sub>3</sub>]<sup>+</sup>"
+    display: "<i>IUCrData</i> 2026, Accepted. &nbsp;&nbsp;"
+    url: ""
+  title: "Redetermination of the crystal structure of arsenic tribromide, AsBr<sub>3</sub>"
+-
+  authors: "<b>K. Motaln</b>, <b>M. Lozinšek</b>*"
+  description: ""
+  highlight: 0
+  image: ACSi2026A-TOC.jpg
+  link:
+    display: "<i>Acta Chimica Slovenica</i> 2026, 73, Accepted. &nbsp;&nbsp;(Open Access)"
+    url: "https://acsi-journal.eu/index.php/ACSi/article/view/9768"
+  title: "Structural investigations of the XeF<sub>2</sub>–PtF<sub>5</sub> system: crystal structures of [Xe<sub>2</sub>F<sub>3</sub>][PtF<sub>6</sub>]·XeF<sub>2</sub>, [Xe<sub>2</sub>F<sub>3</sub>][PtF<sub>6</sub>], and [XeF][PtF<sub>6</sub>]"
 -
   authors: "A. Gradišek*, <b>K. Radan</b>, <b>M. Lozinšek</b>"
   description: ""
   highlight: 0
   image: Accepted.jpg
   link:
-    display: "<i>ChemPhysChem</i> 2026, Accepted. &nbsp;&nbsp;"
+    display: "<i>ChemPhysChem</i> 2026, 27, e202500721. &nbsp;&nbsp;(Open Access)"
     url: "https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cphc.202500721"
   title: "Molecular Dynamics in Tetrafluoridoborate Salts of Divalent Metals Studied by Nuclear Magnetic Resonance"
+-
+  authors: "<b>K. Motaln</b>, <b>M. Virant</b>, <b>M. Lozinšek</b>*"
+  description: ""
+  highlight: 0
+  image: IC2026A-TOC.gif
+  link:
+    display: "<i>Inorganic Chemistry</i> 2026, Accepted. &nbsp;&nbsp;(Open Access)"
+    url: "https://doi.org/10.1021/acs.inorgchem.5c05940"
+  title: "Coordination of XeF<sub>2</sub> to Fluoridometal Cations: The Adduct Cations [PtF<sub>3</sub>(XeF<sub>2</sub>)<sub>3</sub>]<sup>+</sup> and [PdF<sub>3</sub>(XeF<sub>2</sub>)<sub>3</sub>]<sup>+</sup>"
 -
   authors: "M. Urlep, <b>M. Lozinšek</b>, J. Cerkovnik*"
   description: ""
   highlight: 0
   image: ACSO2026-TOC.gif
   link:
-    display: "<i>ACS Omega</i> 2026, 11, 7833–7840. &nbsp;&nbsp;"
+    display: "<i>ACS Omega</i> 2026, 11, 7833–7840. &nbsp;&nbsp;(Open Access)"
     url: "https://doi.org/10.1021/acsomega.5c09674"
   title: "The palladium [<sup><i>t</i>-Bu</sup>(PCP)PdOH] pincer complex as a catalyst in the Michael reaction"
 -
