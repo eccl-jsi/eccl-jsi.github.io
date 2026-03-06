@@ -23,7 +23,7 @@
   highlight: 0
   image: Accepted.jpg
   link:
-    display: "<i>IUCrData</i> 2026, Accepted. &nbsp;&nbsp;"
+    display: "<i>IUCrData</i> 2026, Accepted. &nbsp;&nbsp;(Open Access)"
     url: ""
   title: "Redetermination of the crystal structure of arsenic tribromide, AsBr<sub>3</sub>"
 -
@@ -66,9 +66,9 @@
   authors: "T. Sotelšek, M. Janák, S. Šturm, S. S. Parapari, N. Gračanin, <b>K. Radan</b>, M. A. Gülgün, S. Milovská, M. Vrabec"
   description: ""
   highlight: 0
-  image: Accepted.jpg
+  image: JMG2026-TOC.jpg
   link:
-    display: "<i>Journal of Metamorphic Geology</i> 2026, Accepted. &nbsp;&nbsp;"
+    display: "<i>Journal of Metamorphic Geology</i> 2026, 44, 226–245. &nbsp;&nbsp;(Open Access)"
     url: "https://doi.org/10.1111/jmg.70032"
   title: "Decoding metamorphic nanodiamonds formation through their internal structures"
 -
