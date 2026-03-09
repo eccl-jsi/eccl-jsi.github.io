@@ -24,7 +24,7 @@
   image: Accepted.jpg
   link:
     display: "<i>IUCrData</i> 2026, Accepted. &nbsp;&nbsp;(Open Access)"
-    url: ""
+    url: "https://doi.org/10.1107/s241431462600235x"
   title: "Redetermination of the crystal structure of arsenic tribromide, AsBr<sub>3</sub>"
 -
   authors: "<b>K. Motaln</b>, <b>M. Lozinšek</b>*"
@@ -39,10 +39,10 @@
   authors: "A. Gradišek*, <b>K. Radan</b>, <b>M. Lozinšek</b>"
   description: ""
   highlight: 0
-  image: Accepted.jpg
+  image: CPC2026-TOC.jpg
   link:
     display: "<i>ChemPhysChem</i> 2026, 27, e202500721. &nbsp;&nbsp;(Open Access)"
-    url: "https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cphc.202500721"
+    url: "https://doi.org/10.1002/cphc.202500721"
   title: "Molecular Dynamics in Tetrafluoridoborate Salts of Divalent Metals Studied by Nuclear Magnetic Resonance"
 -
   authors: "<b>K. Motaln</b>, <b>M. Virant</b>, <b>M. Lozinšek</b>*"
