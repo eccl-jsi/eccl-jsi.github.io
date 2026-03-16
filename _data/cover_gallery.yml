@@ -1,3 +1,13 @@
+- image: IC2026A-Cover.jpg
+  alt: "Inorg. Chem. 2026"
+  title: "Coordination of XeF<sub>2</sub> to Fluoridometal Cations: The Adduct Cations [PtF<sub>3</sub>(XeF<sub>2</sub>)<sub>3</sub>]<sup>+</sup> and [PdF<sub>3</sub>(XeF<sub>2</sub>)<sub>3</sub>]<sup>+</sup>"
+  text: "<i>Inorg. Chem.</i> <b>2026</b>, <i>65</i>, 5668–5677."
+  links:
+    - display: "Article"
+      url: https://doi.org/10.1021/acs.inorgchem.5c05940
+    - display: "Cover"
+      url: https://pubs.acs.org/cms/10.1021/inocaj.2026.65.issue-10/asset/inocaj.2026.65.issue-10.xlargecover-3.jpg
+
 - image: CEC2025-Cover.jpg
   alt: "CrystEngComm 2025"
   title: "Hydrogen-bonded salt cocrystals of xenon difluoride and protonated perfluoroamides"
