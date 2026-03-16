@@ -1,3 +1,13 @@
+- image: CPC2026-Cover.jpg
+  alt: "ChemPhysChem 2026"
+  title: "Molecular Dynamics in Tetrafluoridoborate Salts of Divalent Metals Studied by Nuclear Magnetic Resonance Spectroscopy"
+  text: "<i>ChemPhysChem</i> <b>2026</b>, <i>27</i>, e202500721."
+  links:
+    - display: "Article"
+      url: https://doi.org/10.1002/cphc.202500721
+    - display: "Cover"
+      url: https://doi.org/10.1002/cphc.70355
+
 - image: IC2026A-Cover.jpg
   alt: "Inorg. Chem. 2026"
   title: "Coordination of XeF<sub>2</sub> to Fluoridometal Cations: The Adduct Cations [PtF<sub>3</sub>(XeF<sub>2</sub>)<sub>3</sub>]<sup>+</sup> and [PdF<sub>3</sub>(XeF<sub>2</sub>)<sub>3</sub>]<sup>+</sup>"
