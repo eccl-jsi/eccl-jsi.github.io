@@ -32,7 +32,7 @@
   highlight: 0
   image: ACSi2026A-TOC.jpg
   link:
-    display: "<i>Acta Chimica Slovenica</i> 2026, 73, Accepted. &nbsp;&nbsp;(Open Access)"
+    display: "<i>Acta Chimica Slovenica</i> 2026, 73, 62–69. &nbsp;&nbsp;(Open Access)"
     url: "https://acsi-journal.eu/index.php/ACSi/article/view/9768"
   title: "Structural investigations of the XeF<sub>2</sub>–PtF<sub>5</sub> system: crystal structures of [Xe<sub>2</sub>F<sub>3</sub>][PtF<sub>6</sub>]·XeF<sub>2</sub>, [Xe<sub>2</sub>F<sub>3</sub>][PtF<sub>6</sub>], and [XeF][PtF<sub>6</sub>]"
 -
@@ -50,8 +50,9 @@
   highlight: 0
   image: IC2026A-TOC.gif
   link:
-    display: "<i>Inorganic Chemistry</i> 2026, Accepted. &nbsp;&nbsp;(Open Access)"
+    display: "<i>Inorganic Chemistry</i> 2026, 65, 5668–5677. &nbsp;&nbsp;(Open Access)"
     url: "https://doi.org/10.1021/acs.inorgchem.5c05940"
+  news1: "Featured on: <a href=\"https://pubs.acs.org/toc/inocaj/65/10\">Journal Cover</a>" 
   title: "Coordination of XeF<sub>2</sub> to Fluoridometal Cations: The Adduct Cations [PtF<sub>3</sub>(XeF<sub>2</sub>)<sub>3</sub>]<sup>+</sup> and [PdF<sub>3</sub>(XeF<sub>2</sub>)<sub>3</sub>]<sup>+</sup>"
 -
   authors: "M. Urlep, <b>M. Lozinšek</b>, J. Cerkovnik*"
