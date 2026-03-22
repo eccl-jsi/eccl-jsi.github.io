@@ -5,15 +5,18 @@ excerpt: "ECCL - Cover Gallery"
 sitemap: false
 permalink: /cover-gallery/
 ---
-<p>
-  Journal covers associated with our publications.
-</p>
 
-<div class="row cover-gallery">
-  {% for item in site.data.cover_gallery %}
+<p>Journal cover images associated with our publications.</p>
+
+<div class="cover-gallery">
+{% for item in site.data.cover_gallery %}
+  {% assign mod = forloop.index0 | modulo: 3 %}
+  {% if mod == 0 %}
+  <div class="row">
+  {% endif %}
+
     <div class="col-sm-4 col-xs-12">
       <figure class="cover-card">
-
         {% assign img_path = "/images/pubpic/" | append: item.image %}
 
         <a href="{{ img_path }}">
@@ -24,28 +27,23 @@ permalink: /cover-gallery/
         </a>
 
         <figcaption class="cover-caption">
-
-          {% if item.title %}
-            <div class="cover-title">{{ item.title }}</div>
-          {% endif %}
-
-          {% if item.text %}
-            <div class="cover-text">{{ item.text }}</div>
-          {% endif %}
+          {% if item.title %}<div class="cover-title">{{ item.title }}</div>{% endif %}
+          {% if item.text %}<div class="cover-text">{{ item.text }}</div>{% endif %}
 
           {% if item.links %}
-            <div class="cover-links">
-              {% for l in item.links %}
-                <a href="{{ l.url }}"
-                   {% if l.url contains 'http' %}rel="noopener noreferrer"{% endif %}>
-                  {{ l.display }}
-                </a>{% unless forloop.last %} &nbsp;|&nbsp; {% endunless %}
-              {% endfor %}
-            </div>
+          <div class="cover-links">
+            {% for l in item.links %}
+              <a href="{{ l.url }}" {% if l.url contains 'http' %}rel="noopener noreferrer"{% endif %}>{{ l.display }}</a>{% unless forloop.last %} &nbsp;|&nbsp; {% endunless %}
+            {% endfor %}
+          </div>
           {% endif %}
-
         </figcaption>
       </figure>
     </div>
-  {% endfor %}
+
+  {% assign mod_end = forloop.index | modulo: 3 %}
+  {% if mod_end == 0 or forloop.last %}
+  </div>
+  {% endif %}
+{% endfor %}
 </div>
