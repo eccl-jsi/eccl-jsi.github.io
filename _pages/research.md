@@ -57,6 +57,8 @@ Our research group owns and operates the following instrumentation:
 - Spark eroder LOTO-eng SEC-400
 - 3D Printer Bambu Lab X1-Carbon
 
+- Electron diffractometer Rigaku XtaLAB Synergy-ED (consortium owned: University of Ljunbljana, Jožef Stefan Institute, National Institute of Chemistry)
+
 <br>
 We are grateful for the opportunities to analyze our samples at the following large-scale user facilities: [Canadian Light Source – CLS](https://www.lightsource.ca/)  (Saskatoon, Saskatchewan, Canada); [Institut Laue–Langevin – ILL](https://www.ill.eu/) and [European Synchrotron Radiation Facility – ESRF](https://www.esrf.fr/) (Grenoble, France); [PETRA III at Deutsches Elektronen-Synchrotron – DESY](https://photon-science.desy.de/facilities/petra_iii/index_eng.html) (Hamburg, Germany).
 
