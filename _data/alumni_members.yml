@@ -41,9 +41,19 @@
 - name: Klemen Motaln
   duration: 2021–2026
   photo: Klemen.jpg
-  info: Ph.D. Student, Now at University of Maribor
+  info: Ph.D. Student, Now at University of Maribor, Maribor, Slovenia
   email:
   ID: <a href='https://orcid.org/0000-0003-0051-8611'>ORCID</a>
   number_educ: 2 
   education1: Ph.D. (Supervisor&#58; M. Lozinšek), Jožef Stefan Institute and Jožef Stefan International Postgraduate School, Slovenia
   education2: Degree in Chemical Engineering, Faculty of Chemistry and Chemical Technology, University of Ljubljana, Slovenia
+
+- name: Erik Uran
+  duration: 2021–2026
+  photo: Erik.jpg
+  info: Ph.D. Student, Now at Ruđer Bošković Institute, Zagreb, Croatia
+  email:
+  ID: <a href='https://orcid.org/0000-0002-5450-4090'>ORCID</a>
+  number_educ: 2 
+  education1: Ph.D. Student (Supervisor&#58; M. Lozinšek), Jožef Stefan Institute and Jožef Stefan International Postgraduate School, Slovenia
+  education2: Master's Degree in Chemistry, Faculty of Science, University of Zagreb, Croatia
