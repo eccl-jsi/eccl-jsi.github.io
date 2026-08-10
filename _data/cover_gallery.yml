@@ -26,7 +26,7 @@
     - display: "Article"
       url: https://doi.org/10.1021/acs.inorgchem.5c05940
     - display: "Cover"
-      url: https://pubs.acs.org/cms/10.1021/inocaj.2026.65.issue-10/asset/inocaj.2026.65.issue-10.xlargecover-3.jpg
+      url: https://pubs.acs.org/inocaj/issue/65/10
 
 - image: CEC2025-Cover.jpg
   alt: "CrystEngComm 2025"
@@ -46,7 +46,7 @@
     - display: "Article"
       url: https://doi.org/10.1021/acs.inorgchem.5c01740
     - display: "Cover"
-      url: https://pubs.acs.org/cms/10.1021/inocaj.2025.64.issue-29/asset/inocaj.2025.64.issue-29.xlargecover-2.jpg
+      url: https://pubs.acs.org/inocaj/issue/64/29
 
 - image: CGD2025-Cover.jpg
   alt: "Cryst. Growth Des. 2025"
@@ -56,7 +56,7 @@
     - display: "Article"
       url: https://doi.org/10.1021/acs.cgd.5c00624
     - display: "Cover"
-      url: https://pubs.acs.org/cms/10.1021/cgdefu.2025.25.issue-12/asset/cgdefu.2025.25.issue-12.xlargecover-4.jpg
+      url: https://pubs.acs.org/cgdefu/issue/25/12
 
 - image: IC2025B-Cover.jpg
   alt: "Inorg. Chem. 2025"
@@ -66,7 +66,7 @@
     - display: "Article"
       url: https://doi.org/10.1021/acs.inorgchem.5c00465
     - display: "Cover"
-      url: https://pubs.acs.org/cms/10.1021/inocaj.2025.64.issue-18/asset/inocaj.2025.64.issue-18.xlargecover-3.jpg
+      url: https://pubs.acs.org/inocaj/issue/64/18
 
 - image: ACC2025-Cover.jpg
   alt: "Acta Cryst. 2025"
@@ -86,7 +86,7 @@
     - display: "Article"
       url: https://doi.org/10.1021/acs.inorgchem.4c04535
     - display: "Cover"
-      url: https://pubs.acs.org/cms/10.1021/inocaj.2025.64.issue-5/asset/inocaj.2025.64.issue-5.xlargecover-2.jpg
+      url: https://pubs.acs.org/inocaj/issue/64/5
 
 - image: ACSCS2024-Cover.jpg
   alt: "ACS Cent. Sci. 2024"
@@ -96,7 +96,7 @@
     - display: "Article"
       url: https://doi.org/10.1021/acscentsci.4c00815
     - display: "Cover"
-      url: https://pubs.acs.org/cms/10.1021/acscii.2024.10.issue-9/asset/acscii.2024.10.issue-9.xlargecover-4.jpg
+      url: https://pubs.acs.org/acscii/issue/10/9
 
 - image: NIJS2021-Cover.jpg
   alt: "Novice IJS 2021"
