@@ -10,6 +10,14 @@ permalink: /awards
 
 <hr>
 
+### 2026
+
+- Third place at the Student Paper Contest – Lectures, <b>Olha Sanko</b>, 32nd Annual Meeting of the Slovenian Chemical Society, September 2026, Portorož, Slovenia
+
+- Slovenian Chemical Society Award for Outstanding Achievement, <b>Matic Lozinšek</b>, September 2026, Portorož, Slovenia
+
+<hr>
+
 ### 2025
 
 - [Excellent in Science 2025](https://www.arrs.si/sl/promocija/odlicni/inc/25/odlicni-2025.pdf), <b>Klemen Motaln</b>, <b>Kristian Radan</b>, <b>Mirela Dragomir</b>, <b>Matic Lozinšek</b>, Slovenian Research and Innovation Agency, Ljubljana, Slovenia
