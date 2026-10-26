@@ -1,3 +1,13 @@
+- image: IC2026B-Cover.jpg
+  alt: "Inorg. Chem. 2026"
+  title: "Alkali-Metal Complexes of XeF2: Synthesis and Structural Characterization of [Li(XeF<sup>2</sup>)<sup>3</sup>PtF<sup>6</sup>], [Na(XeF<sup>2</sup>)PtF<sup>6</sup>], and [K(XeF<sup>2</sup>)<sup>2</sup>PtF<sup>6</sup>]"
+  text: "<i>Inorg. Chem.</i> <b>2026</b>, <i>65</i>, 24961–24969."
+  links:
+    - display: "Article"
+      url: https://doi.org/10.1021/acs.inorgchem.6c04065
+    - display: "Cover"
+      url: https://pubs.acs.org/inocaj/issue/65/42
+      
 - image: ACSi2026-Cover.jpg
   alt: "Acta Chim. Slov. 2026"
   title: "Structural investigations of the XeF<sub>2</sub>–PtF<sub>5</sub> system: crystal structures of [Xe<sub>2</sub>F<sub>3</sub>][PtF<sub>6</sub>]·XeF<sub>2</sub>, [Xe<sub>2</sub>F<sub>3</sub>][PtF<sub>6</sub>], and [XeF][PtF<sub>6</sub>]"
