@@ -1,6 +1,6 @@
 - image: IC2026B-Cover.jpg
   alt: "Inorg. Chem. 2026"
-  title: "Alkali-Metal Complexes of XeF2: Synthesis and Structural Characterization of [Li(XeF<sup>2</sup>)<sup>3</sup>PtF<sup>6</sup>], [Na(XeF<sup>2</sup>)PtF<sup>6</sup>], and [K(XeF<sup>2</sup>)<sup>2</sup>PtF<sup>6</sup>]"
+  title: "Alkali-Metal Complexes of XeF2: Synthesis and Structural Characterization of [Li(XeF<sub>2</sub>)<sub>3</sub>PtF<sub>6</sub>], [Na(XeF<sub>2</sub>)PtF<sub>6</sub>], and [K(XeF<sub>2</sub>)<sub>2</sub>PtF<sub>6</sub>]"
   text: "<i>Inorg. Chem.</i> <b>2026</b>, <i>65</i>, 24961–24969."
   links:
     - display: "Article"
